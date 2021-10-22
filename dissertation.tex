@@ -1,0 +1,70 @@
+\documentclass[12pt, fullpage, a4paper]{report}
+\usepackage{graphicx, latexsym}
+\usepackage{setspace}
+\usepackage{subfigure}
+\usepackage{apacite}
+\usepackage{amssymb, amsmath, amsthm}
+\usepackage{bm}
+\usepackage{epstopdf}
+\usepackage{rotating} %used for \sidewaystable
+\usepackage{apacite}
+\usepackage{booktabs} %used for \toprule
+\usepackage{multirow} %used for \multirow and \multicolumn
+\usepackage{listings}
+\usepackage[svgnames]{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{titletoc}
+%\singlespacing
+%\onehalfspacing
+\doublespacing
+
+\titlecontents{part}[0pt]{\normalsize\bfseries\protect\addvspace{15pt}}%
+{}{\partname{} }%
+{\enspace\titlerule\contentspage}%
+
+
+\lstset{language=R,
+	basicstyle=\small\ttfamily,
+	stringstyle=\color{DarkGreen},
+	otherkeywords={0,1,2,3,4,5,6,7,8,9},
+	morekeywords={TRUE,FALSE},
+	deletekeywords={data,frame,length,as,character},
+	keywordstyle=\color{blue},
+	commentstyle=\color{DarkGreen},
+}
+
+
+%Import the natbib package and sets a bibliography  and citation styles
+\usepackage{natbib}
+\bibliographystyle{abbrvnat}
+%\setcitestyle{authoryear,open={((},close={))}} %Citation-related commands
+
+\title{Dissertation}
+\date{}
+\author{Mingyang Cai}
+
+\begin{document}
+	\maketitle
+	\section*{Acknowledgements}
+	I wish to express my gratitude to the people who have been instrumental in completing this project. I would like to show my greatest appreciation to my supervisors. Stef, I thank you for your valuable guidance and advice. Without your vast knowledge of statistics, this project would not have been possible. You inspired me greatly to research multiple imputations and has been critical to my scientific growth. Deep gratitude is also due to Gerko, my daily supervisor. Two meetings every week, parties held at your home and tips for living in the Netherlands, all these things make me feel at home away from home. I learn a lot from your elegant programming. I still remember your words at our first meeting: the PhD project is to prove your ability to conduct research independently. This word really leads the way to my project. I was pleased to have supervision from both of you.
+	
+	I thank everyone once joined in the weekly mice meeting. The shared works and ideas, the discussed questions during the meeting really have an influence on me. Furthermore, I am grateful to everyone from M\&S at Utrecht University. I enjoyed various kinds of research meetings and activities here. 
+	
+	My friends and family are important to me. I thank my parents for giving me the opportunity to learn more about statistics and develop skills to conduct scientific research. You could not have given me a greater gift. I also thank my brother and friends to make a joyful life. 
+	\tableofcontents
+	\maketitle
+	
+	\include{1.Introduction/1.Introduction}
+	\part{Non-parametric imputation methods}
+	%\addcontentsline{toc}{part}{Non-parametric imputation}
+	\include{2.PC/2.PC}
+    \include{3.MPMM/3.MPMM}
+    \part{Parametric imputation methods}
+    \include{4.ICE/4.ICE}
+    \include{5.Compatibility/5.Compatibility}
+    \part{Diagnostics for imputation models}
+    \include{6.PPC/6.PPC}
+	\bibliography{dissertation}
+	\listoffigures
+	\listoftables
+\end{document}

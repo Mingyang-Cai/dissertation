@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: abbrvnat.bst
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: 1.Introduction/1.Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: 2.PC/2.PC.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: 3.MPMM/3.MPMM.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: 4.ICE/4.ICE.aux
+Reallocating 'name_of_file' (item size: 1) to 36 items.
+A level-1 auxiliary file: 5.Compatibility/5.Compatibility.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: 6.PPC/6.PPC.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: dissertation.bib
+Warning--entry type for "vink2019" isn't style-file defined
+--line 971 of file dissertation.bib
+Warning--I didn't find a database entry for "."
+Warning--empty publisher in brand1999development
+Warning--empty journal in gruber2011tmle
+Warning--empty journal in heeringa2001multivariate
+Warning--empty journal in oberman2020missing
+Warning--empty school in smink2016towards
+Warning--empty journal in su2011multiple
+You've used 113 entries,
+            2773 wiz_defined-function locations,
+            1255 strings with 24064 characters,
+and the built_in function-call counts, 51982 in all, are:
+= -- 4612
+> -- 2990
+< -- 68
++ -- 1022
+- -- 909
+* -- 4418
+:= -- 8068
+add.period$ -- 350
+call.type$ -- 113
+change.case$ -- 621
+chr.to.int$ -- 113
+cite$ -- 232
+duplicate$ -- 2320
+empty$ -- 4286
+format.name$ -- 1070
+if$ -- 10722
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 125
+newline$ -- 584
+num.names$ -- 452
+pop$ -- 1188
+preamble$ -- 1
+purify$ -- 525
+quote$ -- 0
+skip$ -- 1731
+stack$ -- 0
+substring$ -- 2156
+swap$ -- 150
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1163
+warning$ -- 6
+while$ -- 502
+width$ -- 0
+write$ -- 1475
+(There were 8 warnings)

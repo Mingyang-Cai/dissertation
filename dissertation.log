@@ -1,0 +1,1316 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  22 OCT 2021 15:11
+entering extended mode
+**./dissertation.tex
+(dissertation.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen141
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen142
+\subfiglabelskip=\skip52
+\c@subfigure=\count191
+\c@lofdepth=\count192
+\c@subtable=\count193
+\c@lotdepth=\count194
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count195
+\bibleftmargin=\skip55
+\bibindent=\skip56
+\bibparsep=\skip57
+\bibitemsep=\skip58
+\biblabelsep=\skip59
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen143
+)) (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+) (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks19
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks20
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks21
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip63
+\thm@postskip=\skip64
+\thm@headsep=\skip65
+\dth@everypar=\toks28
+) (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+\symboldlasy=\mathgroup10
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarer
+r.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
+inekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
+sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
+y
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkey
+s.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
+mds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.st
+y
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count274
+\rotFPtop=\skip66
+\rotFPbot=\skip67
+\rot@float@box=\box52
+\rot@mess@toks=\toks29
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
+y
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen164
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count279
+\multirow@dima=\skip69
+\bigstrutjot=\dimen165
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
+y
+\lst@mode=\count280
+\lst@gtempboxa=\box53
+\lst@token=\toks30
+\lst@length=\count281
+\lst@currlwidth=\dimen166
+\lst@column=\count282
+\lst@pos=\count283
+\lst@lostspace=\dimen167
+\lst@width=\dimen168
+\lst@newlines=\count284
+\lst@lineno=\count285
+\lst@maxwidth=\dimen169
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count286
+\lst@skipnumbers=\count287
+\lst@framebox=\box54
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cf
+g
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count288
+\Gm@cntv=\count289
+\c@Gm@tempcnt=\count290
+\Gm@bindingoffset=\dimen170
+\Gm@wd@mp=\dimen171
+\Gm@odd@mp=\dimen172
+\Gm@even@mp=\dimen173
+\Gm@layoutwidth=\dimen174
+\Gm@layoutheight=\dimen175
+\Gm@layouthoffset=\dimen176
+\Gm@layoutvoffset=\dimen177
+\Gm@dimlist=\toks31
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.st
+y
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen178
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.st
+y
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.st
+y
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.st
+y
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+) (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip70
+\bibsep=\skip71
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count291
+)
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box55
+)
+
+LaTeX Warning: Unused global option(s):
+    [fullpage].
+
+(dissertation.aux (1.Introduction/1.Introduction.aux) (2.PC/2.PC.aux)
+(3.MPMM/3.MPMM.aux) (4.ICE/4.ICE.aux) (5.Compatibility/5.Compatibility.aux)
+(6.PPC/6.PPC.aux
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+))
+\openout1 = `dissertation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen179
+\scratchbox=\box56
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen180
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks33
+)
+\c@maskedRefs=\count299
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\c@lstlisting=\count300
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 47
+.
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+
+[1
+
+{C:/Users/mingyang/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [1]
+(dissertation.toc
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 2.
+ [2
+
+] [3] [4])
+\tf@toc=\write3
+\openout3 = `dissertation.toc'.
+
+ [5]
+\openout2 = `1.Introduction/1.Introduction.aux'.
+
+ (1.Introduction/1.Introduction.tex
+Chapter 1.
+[6
+
+
+] [7] [8] [9] [10] [11] [12]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 66.
+ [13] [14] [15]
+Overfull \hbox (2.75377pt too wide) in paragraph at lines 87--88
+\OT1/cmr/m/n/12 The most widely used data-based im-pu-ta-tion method is pre-dic
+-tive mean match-ing (PMM),
+ []
+
+[16]) [17] [18] [19
+
+
+
+]
+\openout2 = `2.PC/2.PC.aux'.
+
+ (2.PC/2.PC.tex
+Chapter 2.
+[20
+
+
+] [1] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
+Package epstopdf Info: Source file: <plots/plot2.1.eps>
+(epstopdf)                    date: 2021-08-30 01:47:15
+(epstopdf)                    size: 673468 bytes
+(epstopdf)             Output file: <plots/plot2.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 05:22:40
+(epstopdf)                    size: 12110 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.1-eps-co
+nverted-to.pdf plots/plot2.1.eps>
+(epstopdf)             \includegraphics on input line 158.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./plots/plot2.1-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots/plot2.1-eps-converted-to.pdf, id=123, 258.9675pt x 198.7425pt>
+File: plots/plot2.1-eps-converted-to.pdf Graphic file (type pdf)
+<use plots/plot2.1-eps-converted-to.pdf>
+Package pdftex.def Info: plots/plot2.1-eps-converted-to.pdf  used on input line
+ 158.
+(pdftex.def)             Requested size: 453.0181pt x 284.56047pt.
+Package epstopdf Info: Source file: <plots/plot2.2.eps>
+(epstopdf)                    date: 2021-08-30 01:47:56
+(epstopdf)                    size: 673468 bytes
+(epstopdf)             Output file: <plots/plot2.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 05:22:42
+(epstopdf)                    size: 12104 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.2-eps-co
+nverted-to.pdf plots/plot2.2.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./plots/plot2.2-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots/plot2.2-eps-converted-to.pdf, id=124, 258.9675pt x 198.7425pt>
+File: plots/plot2.2-eps-converted-to.pdf Graphic file (type pdf)
+<use plots/plot2.2-eps-converted-to.pdf>
+Package pdftex.def Info: plots/plot2.2-eps-converted-to.pdf  used on input line
+ 162.
+(pdftex.def)             Requested size: 453.0181pt x 284.56047pt.
+
+Overfull \hbox (12.05022pt too wide) in paragraph at lines 157--165
+[][]
+ []
+
+
+Overfull \hbox (12.05022pt too wide) in paragraph at lines 157--165
+[] 
+ []
+
+Package epstopdf Info: Source file: <plots/plot2.3.eps>
+(epstopdf)                    date: 2021-06-11 20:50:27
+(epstopdf)                    size: 673643 bytes
+(epstopdf)             Output file: <plots/plot2.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 05:22:43
+(epstopdf)                    size: 19056 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.3-eps-co
+nverted-to.pdf plots/plot2.3.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./plots/plot2.3-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots/plot2.3-eps-converted-to.pdf, id=125, 493.845pt x 378.41376pt>
+File: plots/plot2.3-eps-converted-to.pdf Graphic file (type pdf)
+<use plots/plot2.3-eps-converted-to.pdf>
+Package pdftex.def Info: plots/plot2.3-eps-converted-to.pdf  used on input line
+ 172.
+(pdftex.def)             Requested size: 452.96391pt x 284.53137pt.
+Package epstopdf Info: Source file: <plots/plot2.4.eps>
+(epstopdf)                    date: 2021-06-11 20:50:27
+(epstopdf)                    size: 673664 bytes
+(epstopdf)             Output file: <plots/plot2.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 05:22:45
+(epstopdf)                    size: 18949 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.4-eps-co
+nverted-to.pdf plots/plot2.4.eps>
+(epstopdf)             \includegraphics on input line 176.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./plots/plot2.4-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots/plot2.4-eps-converted-to.pdf, id=126, 493.845pt x 378.41376pt>
+File: plots/plot2.4-eps-converted-to.pdf Graphic file (type pdf)
+<use plots/plot2.4-eps-converted-to.pdf>
+Package pdftex.def Info: plots/plot2.4-eps-converted-to.pdf  used on input line
+ 176.
+(pdftex.def)             Requested size: 452.96391pt x 284.53137pt.
+
+Overfull \hbox (11.99603pt too wide) in paragraph at lines 171--179
+[][]
+ []
+
+
+Overfull \hbox (11.99603pt too wide) in paragraph at lines 171--179
+[] 
+ []
+
+[12]) [13] [14 <./plots/plot2.1-eps-converted-to.pdf> <./plots/plot2.2-eps-conv
+erted-to.pdf>] [15 <./plots/plot2.3-eps-converted-to.pdf> <./plots/plot2.4-eps-
+converted-to.pdf>]
+\openout2 = `3.MPMM/3.MPMM.aux'.
+
+ (3.MPMM/3.MPMM.tex
+Chapter 3.
+[16
+
+
+
+
+] [1] [1] [2] [3] [4] [5] [6] [7] [8] [9]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 186.
+ [10] [11] [12]
+<plots/plot3.1.pdf, id=206, 614.295pt x 794.97pt>
+File: plots/plot3.1.pdf Graphic file (type pdf)
+<use plots/plot3.1.pdf>
+Package pdftex.def Info: plots/plot3.1.pdf  used on input line 256.
+(pdftex.def)             Requested size: 452.9679pt x 586.19432pt.
+ [13]
+Overfull \vbox (11.43242pt too high) has occurred while \output is active []
+
+
+[14 <./plots/plot3.1.pdf>] [15] [16] [17] [18]) [19] [20
+
+
+
+]
+\openout2 = `4.ICE/4.ICE.aux'.
+
+ (4.ICE/4.ICE.tex
+Chapter 4.
+[21
+
+
+] [1] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
+<plots/plot4.1.png, id=289, 472.76625pt x 369.63094pt>
+File: plots/plot4.1.png Graphic file (type png)
+<use plots/plot4.1.png>
+Package pdftex.def Info: plots/plot4.1.png  used on input line 240.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.2.png, id=290, 472.76625pt x 369.63094pt>
+File: plots/plot4.2.png Graphic file (type png)
+<use plots/plot4.2.png>
+Package pdftex.def Info: plots/plot4.2.png  used on input line 240.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.3.png, id=291, 472.76625pt x 369.63094pt>
+File: plots/plot4.3.png Graphic file (type png)
+<use plots/plot4.3.png>
+Package pdftex.def Info: plots/plot4.3.png  used on input line 250.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.4.png, id=292, 472.76625pt x 369.63094pt>
+File: plots/plot4.4.png Graphic file (type png)
+<use plots/plot4.4.png>
+Package pdftex.def Info: plots/plot4.4.png  used on input line 250.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.5.png, id=293, 472.76625pt x 369.63094pt>
+File: plots/plot4.5.png Graphic file (type png)
+<use plots/plot4.5.png>
+Package pdftex.def Info: plots/plot4.5.png  used on input line 272.
+(pdftex.def)             Requested size: 452.97757pt x 350.25624pt.
+ [14] [15 <./plots/plot4.1.png> <./plots/plot4.2.png> <./plots/plot4.3.png> <./
+plots/plot4.4.png>]
+<plots/plot4.6.png, id=305, 472.76625pt x 369.63094pt>
+File: plots/plot4.6.png Graphic file (type png)
+<use plots/plot4.6.png>
+Package pdftex.def Info: plots/plot4.6.png  used on input line 291.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.7.png, id=306, 472.76625pt x 369.63094pt>
+File: plots/plot4.7.png Graphic file (type png)
+<use plots/plot4.7.png>
+Package pdftex.def Info: plots/plot4.7.png  used on input line 291.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.8.png, id=307, 472.76625pt x 369.63094pt>
+File: plots/plot4.8.png Graphic file (type png)
+<use plots/plot4.8.png>
+Package pdftex.def Info: plots/plot4.8.png  used on input line 301.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.9.png, id=308, 472.76625pt x 369.63094pt>
+File: plots/plot4.9.png Graphic file (type png)
+<use plots/plot4.9.png>
+Package pdftex.def Info: plots/plot4.9.png  used on input line 301.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+ [16 <./plots/plot4.5.png>] [17 <./plots/plot4.6.png> <./plots/plot4.7.png> <./
+plots/plot4.8.png> <./plots/plot4.9.png>] [18]
+<plots/plot4.10.png, id=324, 472.76625pt x 369.63094pt>
+File: plots/plot4.10.png Graphic file (type png)
+<use plots/plot4.10.png>
+Package pdftex.def Info: plots/plot4.10.png  used on input line 362.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.11.png, id=325, 472.76625pt x 369.63094pt>
+File: plots/plot4.11.png Graphic file (type png)
+<use plots/plot4.11.png>
+Package pdftex.def Info: plots/plot4.11.png  used on input line 362.
+(pdftex.def)             Requested size: 236.38254pt x 184.815pt.
+<plots/plot4.12.png, id=326, 465.99094pt x 369.63094pt>
+File: plots/plot4.12.png Graphic file (type png)
+<use plots/plot4.12.png>
+Package pdftex.def Info: plots/plot4.12.png  used on input line 379.
+(pdftex.def)             Requested size: 232.99489pt x 184.815pt.
+<plots/plot4.13.png, id=327, 465.99094pt x 369.63094pt>
+File: plots/plot4.13.png Graphic file (type png)
+<use plots/plot4.13.png>
+Package pdftex.def Info: plots/plot4.13.png  used on input line 379.
+(pdftex.def)             Requested size: 232.99489pt x 184.815pt.
+<plots/indiv01.png, id=328, 150.5625pt x 451.6875pt>
+File: plots/indiv01.png Graphic file (type png)
+<use plots/indiv01.png>
+Package pdftex.def Info: plots/indiv01.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv02.png, id=329, 150.5625pt x 451.6875pt>
+File: plots/indiv02.png Graphic file (type png)
+<use plots/indiv02.png>
+Package pdftex.def Info: plots/indiv02.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv03.png, id=330, 150.5625pt x 451.6875pt>
+File: plots/indiv03.png Graphic file (type png)
+<use plots/indiv03.png>
+Package pdftex.def Info: plots/indiv03.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv04.png, id=331, 150.5625pt x 451.6875pt>
+File: plots/indiv04.png Graphic file (type png)
+<use plots/indiv04.png>
+Package pdftex.def Info: plots/indiv04.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv05.png, id=332, 150.5625pt x 451.6875pt>
+File: plots/indiv05.png Graphic file (type png)
+<use plots/indiv05.png>
+Package pdftex.def Info: plots/indiv05.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv06.png, id=333, 150.5625pt x 451.6875pt>
+File: plots/indiv06.png Graphic file (type png)
+<use plots/indiv06.png>
+Package pdftex.def Info: plots/indiv06.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv07.png, id=334, 150.5625pt x 451.6875pt>
+File: plots/indiv07.png Graphic file (type png)
+<use plots/indiv07.png>
+Package pdftex.def Info: plots/indiv07.png  used on input line 416.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+ [19]
+<plots/indiv71.png, id=338, 150.5625pt x 451.6875pt>
+File: plots/indiv71.png Graphic file (type png)
+<use plots/indiv71.png>
+Package pdftex.def Info: plots/indiv71.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv72.png, id=339, 150.5625pt x 451.6875pt>
+File: plots/indiv72.png Graphic file (type png)
+<use plots/indiv72.png>
+Package pdftex.def Info: plots/indiv72.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv73.png, id=340, 150.5625pt x 451.6875pt>
+File: plots/indiv73.png Graphic file (type png)
+<use plots/indiv73.png>
+Package pdftex.def Info: plots/indiv73.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv74.png, id=341, 150.5625pt x 451.6875pt>
+File: plots/indiv74.png Graphic file (type png)
+<use plots/indiv74.png>
+Package pdftex.def Info: plots/indiv74.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv75.png, id=342, 150.5625pt x 451.6875pt>
+File: plots/indiv75.png Graphic file (type png)
+<use plots/indiv75.png>
+Package pdftex.def Info: plots/indiv75.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv76.png, id=343, 150.5625pt x 451.6875pt>
+File: plots/indiv76.png Graphic file (type png)
+<use plots/indiv76.png>
+Package pdftex.def Info: plots/indiv76.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+<plots/indiv77.png, id=344, 150.5625pt x 451.6875pt>
+File: plots/indiv77.png Graphic file (type png)
+<use plots/indiv77.png>
+Package pdftex.def Info: plots/indiv77.png  used on input line 453.
+(pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
+ [20 <./plots/plot4.10.png> <./plots/plot4.11.png> <./plots/plot4.12.png> <./pl
+ots/plot4.13.png>]
+[21 <./plots/indiv01.png> <./plots/indiv02.png> <./plots/indiv03.png> <./plots/
+indiv04.png> <./plots/indiv05.png> <./plots/indiv06.png> <./plots/indiv07.png> 
+<./plots/indiv71.png> <./plots/indiv72.png> <./plots/indiv73.png> <./plots/indi
+v74.png> <./plots/indiv75.png> <./plots/indiv76.png> <./plots/indiv77.png>]
+[22]) [23]
+\openout2 = `5.Compatibility/5.Compatibility.aux'.
+
+ (5.Compatibility/5.Compatibility.tex
+Chapter 5.
+[24
+
+
+
+
+] [1] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+Package epstopdf Info: Source file: <plots/plot5.1.eps>
+(epstopdf)                    date: 2021-06-20 22:07:57
+(epstopdf)                    size: 673629 bytes
+(epstopdf)             Output file: <plots/plot5.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-16 19:59:56
+(epstopdf)                    size: 12058 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot5.1-eps-co
+nverted-to.pdf plots/plot5.1.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./plots/plot5.1-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots/plot5.1-eps-converted-to.pdf, id=413, 258.9675pt x 198.7425pt>
+File: plots/plot5.1-eps-converted-to.pdf Graphic file (type pdf)
+<use plots/plot5.1-eps-converted-to.pdf>
+Package pdftex.def Info: plots/plot5.1-eps-converted-to.pdf  used on input line
+ 190.
+(pdftex.def)             Requested size: 181.27599pt x 139.11879pt.
+[11 <./plots/plot5.1-eps-converted-to.pdf>] [12]) [13] [14
+
+
+
+]
+\openout2 = `6.PPC/6.PPC.aux'.
+
+ (6.PPC/6.PPC.tex
+Chapter 6.
+[15
+
+
+] [1] [1] [2] [3] [4] [5] [6]
+<plots/miflow.png, id=455, 1328.965pt x 800.9925pt>
+File: plots/miflow.png Graphic file (type png)
+<use plots/miflow.png>
+Package pdftex.def Info: plots/miflow.png  used on input line 108.
+(pdftex.def)             Requested size: 265.78828pt x 160.19566pt.
+ [7]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+118.
+
+(C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[8 <./plots/miflow.png>] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
+[19] [20]
+Overfull \hbox (25.81145pt too wide) in paragraph at lines 284--292
+[][] 
+ []
+
+<plots/plot6.1.png, id=503, 356.83313pt x 377.91188pt>
+File: plots/plot6.1.png Graphic file (type png)
+<use plots/plot6.1.png>
+Package pdftex.def Info: plots/plot6.1.png  used on input line 308.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.2.png, id=504, 356.83313pt x 377.91188pt>
+File: plots/plot6.2.png Graphic file (type png)
+<use plots/plot6.2.png>
+Package pdftex.def Info: plots/plot6.2.png  used on input line 308.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.3.png, id=505, 356.83313pt x 377.91188pt>
+File: plots/plot6.3.png Graphic file (type png)
+<use plots/plot6.3.png>
+Package pdftex.def Info: plots/plot6.3.png  used on input line 325.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.4.png, id=506, 356.83313pt x 377.91188pt>
+File: plots/plot6.4.png Graphic file (type png)
+<use plots/plot6.4.png>
+Package pdftex.def Info: plots/plot6.4.png  used on input line 325.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.5.png, id=507, 356.83313pt x 377.91188pt>
+File: plots/plot6.5.png Graphic file (type png)
+<use plots/plot6.5.png>
+Package pdftex.def Info: plots/plot6.5.png  used on input line 335.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.6.png, id=508, 356.83313pt x 377.91188pt>
+File: plots/plot6.6.png Graphic file (type png)
+<use plots/plot6.6.png>
+Package pdftex.def Info: plots/plot6.6.png  used on input line 335.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.7.png, id=509, 356.83313pt x 377.91188pt>
+File: plots/plot6.7.png Graphic file (type png)
+<use plots/plot6.7.png>
+Package pdftex.def Info: plots/plot6.7.png  used on input line 352.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.8.png, id=510, 356.83313pt x 377.91188pt>
+File: plots/plot6.8.png Graphic file (type png)
+<use plots/plot6.8.png>
+Package pdftex.def Info: plots/plot6.8.png  used on input line 352.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.9.png, id=511, 356.83313pt x 377.91188pt>
+File: plots/plot6.9.png Graphic file (type png)
+<use plots/plot6.9.png>
+Package pdftex.def Info: plots/plot6.9.png  used on input line 373.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.10.png, id=512, 356.83313pt x 377.91188pt>
+File: plots/plot6.10.png Graphic file (type png)
+<use plots/plot6.10.png>
+Package pdftex.def Info: plots/plot6.10.png  used on input line 373.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.11.png, id=513, 356.83313pt x 377.91188pt>
+File: plots/plot6.11.png Graphic file (type png)
+<use plots/plot6.11.png>
+Package pdftex.def Info: plots/plot6.11.png  used on input line 373.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.12.png, id=514, 356.83313pt x 377.91188pt>
+File: plots/plot6.12.png Graphic file (type png)
+<use plots/plot6.12.png>
+Package pdftex.def Info: plots/plot6.12.png  used on input line 394.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.13.png, id=515, 356.83313pt x 377.91188pt>
+File: plots/plot6.13.png Graphic file (type png)
+<use plots/plot6.13.png>
+Package pdftex.def Info: plots/plot6.13.png  used on input line 394.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.14.png, id=516, 356.83313pt x 377.91188pt>
+File: plots/plot6.14.png Graphic file (type png)
+<use plots/plot6.14.png>
+Package pdftex.def Info: plots/plot6.14.png  used on input line 394.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.15.png, id=517, 356.83313pt x 377.91188pt>
+File: plots/plot6.15.png Graphic file (type png)
+<use plots/plot6.15.png>
+Package pdftex.def Info: plots/plot6.15.png  used on input line 416.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.16.png, id=518, 356.83313pt x 377.91188pt>
+File: plots/plot6.16.png Graphic file (type png)
+<use plots/plot6.16.png>
+Package pdftex.def Info: plots/plot6.16.png  used on input line 416.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.17.png, id=519, 356.83313pt x 377.91188pt>
+File: plots/plot6.17.png Graphic file (type png)
+<use plots/plot6.17.png>
+Package pdftex.def Info: plots/plot6.17.png  used on input line 416.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.18.png, id=520, 356.83313pt x 377.91188pt>
+File: plots/plot6.18.png Graphic file (type png)
+<use plots/plot6.18.png>
+Package pdftex.def Info: plots/plot6.18.png  used on input line 433.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/plot6.19.png, id=521, 356.83313pt x 377.91188pt>
+File: plots/plot6.19.png Graphic file (type png)
+<use plots/plot6.19.png>
+Package pdftex.def Info: plots/plot6.19.png  used on input line 433.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plots/densitycase1.png, id=522, 356.83313pt x 377.91188pt>
+File: plots/densitycase1.png Graphic file (type png)
+<use plots/densitycase1.png>
+Package pdftex.def Info: plots/densitycase1.png  used on input line 444.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase1hm.png, id=523, 356.83313pt x 377.91188pt>
+File: plots/scattercase1hm.png Graphic file (type png)
+<use plots/scattercase1hm.png>
+Package pdftex.def Info: plots/scattercase1hm.png  used on input line 445.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase1wm.png, id=524, 356.83313pt x 377.91188pt>
+File: plots/scattercase1wm.png Graphic file (type png)
+<use plots/scattercase1wm.png>
+Package pdftex.def Info: plots/scattercase1wm.png  used on input line 446.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase1hm.png, id=525, 356.83313pt x 377.91188pt>
+File: plots/distributioncase1hm.png Graphic file (type png)
+<use plots/distributioncase1hm.png>
+Package pdftex.def Info: plots/distributioncase1hm.png  used on input line 450.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase1wm.png, id=526, 356.83313pt x 377.91188pt>
+File: plots/distributioncase1wm.png Graphic file (type png)
+<use plots/distributioncase1wm.png>
+Package pdftex.def Info: plots/distributioncase1wm.png  used on input line 451.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/densitycase2.png, id=527, 356.83313pt x 377.91188pt>
+File: plots/densitycase2.png Graphic file (type png)
+<use plots/densitycase2.png>
+Package pdftex.def Info: plots/densitycase2.png  used on input line 462.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase2hm.png, id=528, 356.83313pt x 377.91188pt>
+File: plots/scattercase2hm.png Graphic file (type png)
+<use plots/scattercase2hm.png>
+Package pdftex.def Info: plots/scattercase2hm.png  used on input line 463.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase2wm.png, id=529, 356.83313pt x 377.91188pt>
+File: plots/scattercase2wm.png Graphic file (type png)
+<use plots/scattercase2wm.png>
+Package pdftex.def Info: plots/scattercase2wm.png  used on input line 464.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase2hm.png, id=530, 356.83313pt x 377.91188pt>
+File: plots/distributioncase2hm.png Graphic file (type png)
+<use plots/distributioncase2hm.png>
+Package pdftex.def Info: plots/distributioncase2hm.png  used on input line 468.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase2wm.png, id=531, 356.83313pt x 377.91188pt>
+File: plots/distributioncase2wm.png Graphic file (type png)
+<use plots/distributioncase2wm.png>
+Package pdftex.def Info: plots/distributioncase2wm.png  used on input line 469.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/densitycase3.png, id=532, 356.83313pt x 377.91188pt>
+File: plots/densitycase3.png Graphic file (type png)
+<use plots/densitycase3.png>
+Package pdftex.def Info: plots/densitycase3.png  used on input line 479.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase3hm.png, id=533, 356.83313pt x 377.91188pt>
+File: plots/scattercase3hm.png Graphic file (type png)
+<use plots/scattercase3hm.png>
+Package pdftex.def Info: plots/scattercase3hm.png  used on input line 480.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase3wm.png, id=534, 356.83313pt x 377.91188pt>
+File: plots/scattercase3wm.png Graphic file (type png)
+<use plots/scattercase3wm.png>
+Package pdftex.def Info: plots/scattercase3wm.png  used on input line 481.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase3hm.png, id=535, 356.83313pt x 377.91188pt>
+File: plots/distributioncase3hm.png Graphic file (type png)
+<use plots/distributioncase3hm.png>
+Package pdftex.def Info: plots/distributioncase3hm.png  used on input line 485.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase3wm.png, id=536, 356.83313pt x 377.91188pt>
+File: plots/distributioncase3wm.png Graphic file (type png)
+<use plots/distributioncase3wm.png>
+Package pdftex.def Info: plots/distributioncase3wm.png  used on input line 486.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/densitycase4.png, id=537, 356.83313pt x 377.91188pt>
+File: plots/densitycase4.png Graphic file (type png)
+<use plots/densitycase4.png>
+Package pdftex.def Info: plots/densitycase4.png  used on input line 497.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase4hm.png, id=538, 356.83313pt x 377.91188pt>
+File: plots/scattercase4hm.png Graphic file (type png)
+<use plots/scattercase4hm.png>
+Package pdftex.def Info: plots/scattercase4hm.png  used on input line 498.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/scattercase4wm.png, id=539, 356.83313pt x 377.91188pt>
+File: plots/scattercase4wm.png Graphic file (type png)
+<use plots/scattercase4wm.png>
+Package pdftex.def Info: plots/scattercase4wm.png  used on input line 499.
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase4hm.png, id=540, 356.83313pt x 377.91188pt>
+File: plots/distributioncase4hm.png Graphic file (type png)
+<use plots/distributioncase4hm.png>
+Package pdftex.def Info: plots/distributioncase4hm.png  used on input line 503.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+<plots/distributioncase4wm.png, id=541, 356.83313pt x 377.91188pt>
+File: plots/distributioncase4wm.png Graphic file (type png)
+<use plots/distributioncase4wm.png>
+Package pdftex.def Info: plots/distributioncase4wm.png  used on input line 504.
+
+(pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
+) [21] [22] [23] [24] [25 <./plots/plot6.1.png> <./plots/plot6.2.png>] [26 <./p
+lots/plot6.3.png> <./plots/plot6.4.png> <./plots/plot6.5.png> <./plots/plot6.6.
+png>] [27 <./plots/plot6.7.png> <./plots/plot6.8.png>] [28 <./plots/plot6.9.png
+> <./plots/plot6.10.png> <./plots/plot6.11.png>] [29 <./plots/plot6.12.png> <./
+plots/plot6.13.png> <./plots/plot6.14.png>] [30 <./plots/plot6.15.png> <./plots
+/plot6.16.png> <./plots/plot6.17.png>] [31 <./plots/plot6.18.png> <./plots/plot
+6.19.png> <./plots/densitycase1.png> <./plots/scattercase1hm.png> <./plots/scat
+tercase1wm.png> <./plots/distributioncase1hm.png> <./plots/distributioncase1wm.
+png>] [32 <./plots/densitycase2.png> <./plots/scattercase2hm.png> <./plots/scat
+tercase2wm.png> <./plots/distributioncase2hm.png> <./plots/distributioncase2wm.
+png>] [33 <./plots/densitycase3.png> <./plots/scattercase3hm.png> <./plots/scat
+tercase3wm.png> <./plots/distributioncase3hm.png> <./plots/distributioncase3wm.
+png>] [34 <./plots/densitycase4.png> <./plots/scattercase4hm.png> <./plots/scat
+tercase4wm.png> <./plots/distributioncase4hm.png> <./plots/distributioncase4wm.
+png>] (dissertation.bbl [35
+
+
+
+]
+Underfull \hbox (badness 5578) in paragraph at lines 128--133
+[]\OT1/cmr/m/n/12 M. L. Eaton.  Mul-ti-vari-ate statis-tics: A vec-tor space ap
+-proach.  \OT1/cmr/m/it/12 Lec-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 128--133
+\OT1/cmr/m/it/12 ture Notes-Monograph Se-ries\OT1/cmr/m/n/12 , 53:i--512, 2007.
+  ISSN 07492170.  URL
+ []
+
+[36] [37] [38] [39] [40]
+Underfull \hbox (badness 5231) in paragraph at lines 436--440
+[]\OT1/cmr/m/n/12 R Core Team.  \OT1/cmr/m/it/12 R: A Lan-guage and En-vi-ron-m
+ent for Sta-tis-ti-cal Com-put-
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 436--440
+\OT1/cmr/m/it/12 ing\OT1/cmr/m/n/12 .  R Foun-da-tion for Sta-tis-ti-cal Com-pu
+t-ing, Vi-enna, Aus-tria, 2021.  URL
+ []
+
+[41] [42] [43]
+Underfull \hbox (badness 7256) in paragraph at lines 670--673
+[]\OT1/cmr/m/n/12 G. Vink and S. van Bu-uren.  Hy-brid im-pu-ta-tion, Dec. 2019
+.  URL
+ []
+
+[44]) [45] (dissertation.lof [46
+
+] [47])
+\tf@lof=\write4
+\openout4 = `dissertation.lof'.
+
+ [48] (dissertation.lot
+Overfull \hbox (4.10242pt too wide) in paragraph at lines 5--5
+ [][] []\OT1/cmr/m/n/12 Simulation re-sults for five miss-ing-ness mech-a-nisms
+ when im-put-ing a squared 
+ []
+
+
+Overfull \hbox (4.10242pt too wide) in paragraph at lines 6--6
+ [][] []\OT1/cmr/m/n/12 Simulation re-sults for five miss-ing-ness mech-a-nisms
+ when im-put-ing a squared 
+ []
+
+[49
+
+] [50])
+\tf@lot=\write5
+\openout5 = `dissertation.lot'.
+
+ [51] (dissertation.aux (1.Introduction/1.Introduction.aux)
+(2.PC/2.PC.aux) (3.MPMM/3.MPMM.aux) (4.ICE/4.ICE.aux)
+(5.Compatibility/5.Compatibility.aux) (6.PPC/6.PPC.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9396 strings out of 478864
+ 141729 string characters out of 2847238
+ 676055 words of memory out of 3000000
+ 26997 multiletter control sequences out of 15000+600000
+ 425825 words of font info for 115 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,18n,66p,2421b,1966s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\mingyang\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
+ctt1095.pk><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbsy10.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cmextra/cmbsy6.pfb><C:/Users/mingyang/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Users/mingyang/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users
+/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx8.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mingyang/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/mingyang/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/mingyang
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Use
+rs/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmib10.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cmextra/cmmib6.pfb><C:/Users/mingyang/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/mingyang/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mingyan
+g/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
+ers/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr6.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mingyang/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/mingyang/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/mingyang/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/mingyang/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/mingyang/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on dissertation.pdf (153 pages, 1957531 bytes).
+PDF statistics:
+ 810 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+
