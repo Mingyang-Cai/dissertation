@@ -5,39 +5,42 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Predictive mean matching based on canonical regression analysis. Observed (blue) and imputed values (red) for $X$ and $X^2$.}}{14}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Histrogram plots of the mean bias for all four strategies to estimate the individual treatment effects.}}{15}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{15}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{15}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{15}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {The targeted learning}}}{15}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The plot shows individual treatment effects $(Y(1) - Y(0))$ in both treatment and control group. The oucome $Y(0)$ is observed in the control group and the oucome $Y(1)$ is observed in the treatment group. The dashed line represents the average treatment effect.}}{16}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Stripplot of $\texttt {m} = 5$ of observed (blue) and imputed (red) data for individual treatment effects with selected cases.}}{17}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{17}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{17}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{17}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {The targeted learning}}}{17}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Means of individual treatment effects for patients under treatment A and treatment B, which are arranged into ascending order.}}{20}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{20}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{20}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Means of individual treatment effects for out-of-sample patients under treatment C and D, which are arranged into ascending order.}}{20}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{20}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{20}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.}}{21}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{21}{}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.7.}}{21}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{21}{}%
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{21}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Missingness mechanism of potential outcomes. The write represents observed value and the grey represents missing value. Without loss of generality, we assume covariates are completely observed.}}{9}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Histrogram plots of the bias of estimate the individual treatment effects for all four strategies.}}{16}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{16}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{16}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{16}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {The targeted learning}}}{16}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The plot shows mean individual treatment effects $(Y(1) - Y(0))$ in both treatment and control group when partial correlation is defined as $0.73$. The oucome $Y(0)$ is observed in the control group and the oucome $Y(1)$ is observed in the treatment group. The dashed line represents the average treatment effect.}}{17}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Stripplot of $\texttt {m} = 5$ of observed (blue) and imputed (red) data for individual treatment effects with selected cases.}}{18}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{18}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{18}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{18}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {The targeted learning}}}{18}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Coverage rate of the posterior distribution of estimated individual treatment effects}}{19}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Mean distance between the \emph {true} and the mean estimated individual treatment effects. The red dashed line represents the mean distance calculated by the targeted learning approach.}}{20}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Means of individual treatment effects for patients under treatment A and treatment B, which are arranged into ascending order.}}{22}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{22}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{22}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Means of individual treatment effects for out-of-sample patients under treatment C and D, which are arranged into ascending order.}}{23}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{23}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{23}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.}}{23}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{23}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{23}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.7.}}{24}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{24}{}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces qqplot demonstrating the closeness of the posterior distribution of JM and FCS for $\beta _{1}$}}{11}{}%
 \addvspace {10\p@ }

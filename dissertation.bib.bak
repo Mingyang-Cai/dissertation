@@ -1135,7 +1135,14 @@
   year      = {2009},
 }
 
-@Article{,
+@Article{Vink2015,
+  author  = {Vink, Gerko and Lazendic, Goran and van Buuren, Stef},
+  journal = {Psychological Test and Assessment Modeling},
+  title   = {Partioned predictive mean matching as a large data multilevel imputation technique.},
+  year    = {2015},
+  number  = {4},
+  pages   = {577--594},
+  volume  = {57},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

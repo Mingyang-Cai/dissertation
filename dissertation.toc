@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {2.2}Polynomial combination}{3}{}%
 \contentsline {subsection}{\numberline {2.2.1}Original polynomial combination}{4}{}%
 \contentsline {subsection}{\numberline {2.2.2}Modification of Polynomial combination}{5}{}%
-\contentsline {subsection}{\numberline {2.2.3}SMC-FCS}{6}{}%
+\contentsline {subsection}{\numberline {2.2.3}SMC-FCS}{5}{}%
 \contentsline {section}{\numberline {2.3}Evaluation}{7}{}%
 \contentsline {subsection}{\numberline {2.3.1}Simulation setup}{7}{}%
 \contentsline {subsection}{\numberline {2.3.2}Simulation results}{8}{}%
@@ -44,26 +44,25 @@
 \contentsline {subsubsection}{Results}{17}{}%
 \contentsline {section}{\numberline {3.5}Conclusion}{17}{}%
 \contentsline {part}{II\hspace {1em}Parametric imputation methods}{20}{}%
-\contentsline {chapter}{\numberline {4}Identification of individual treatment effects by imputing potential outcomes with partial correlation specification}{21}{}%
+\contentsline {chapter}{\numberline {4}How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation}{21}{}%
 \contentsline {section}{\numberline {4.1}Introduction}{1}{}%
-\contentsline {section}{\numberline {4.2}Framework}{3}{}%
+\contentsline {section}{\numberline {4.2}The role of partial correlation}{3}{}%
 \contentsline {subsection}{\numberline {4.2.1}Notation}{3}{}%
 \contentsline {subsection}{\numberline {4.2.2}Setup}{3}{}%
 \contentsline {subsection}{\numberline {4.2.3}Partial correlation between potential outcomes}{4}{}%
-\contentsline {section}{\numberline {4.3}Methodology}{6}{}%
+\contentsline {section}{\numberline {4.3}Multiple imputation of multivariate incomplete variables}{6}{}%
 \contentsline {subsection}{\numberline {4.3.1}Joint modeling imputation (JM)}{6}{}%
 \contentsline {subsection}{\numberline {4.3.2}Fully Conditional Specification (FCS)}{7}{}%
 \contentsline {subsection}{\numberline {4.3.3}Block imputation}{7}{}%
-\contentsline {section}{\numberline {4.4}BLI-SPC}{8}{}%
-\contentsline {section}{\numberline {4.5}Simulation study}{12}{}%
-\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{12}{}%
-\contentsline {subsection}{\numberline {4.5.2}Targeted learning}{13}{}%
-\contentsline {subsection}{\numberline {4.5.3}Results}{14}{}%
-\contentsline {subsubsection}{Predicted individual treatment effect}{14}{}%
-\contentsline {subsubsection}{Parameter inference}{17}{}%
-\contentsline {section}{\numberline {4.6}Application}{18}{}%
-\contentsline {section}{\numberline {4.7}Discussion}{22}{}%
-\contentsline {chapter}{\numberline {5}Joint distribution properties of Fully Conditional Specification under the normal linear model with normal inverse-gamma priors}{24}{}%
+\contentsline {section}{\numberline {4.4}Specified partial correlation imputation}{8}{}%
+\contentsline {section}{\numberline {4.5}Simulation study}{13}{}%
+\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{15}{}%
+\contentsline {subsection}{\numberline {4.5.2}Results}{15}{}%
+\contentsline {subsubsection}{Individual causal inference}{15}{}%
+\contentsline {subsubsection}{Average causal inference}{19}{}%
+\contentsline {section}{\numberline {4.6}Application}{20}{}%
+\contentsline {section}{\numberline {4.7}Discussion}{24}{}%
+\contentsline {chapter}{\numberline {5}Joint distribution properties of Fully Conditional Specification under the normal linear model with normal inverse-gamma priors}{27}{}%
 \contentsline {section}{\numberline {5.1}Introduction}{1}{}%
 \contentsline {section}{\numberline {5.2}Background}{3}{}%
 \contentsline {subsection}{\numberline {5.2.1}Joint modeling}{3}{}%

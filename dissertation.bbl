@@ -1,4 +1,4 @@
-\begin{thebibliography}{113}
+\begin{thebibliography}{114}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -52,6 +52,13 @@ M.~J. Azur, E.~A. Stuart, C.~Frangakis, and P.~J. Leaf.
   work?
 \newblock \emph{International journal of methods in psychiatric research},
   20\penalty0 (1):\penalty0 40--49, 2011.
+
+\bibitem[Bartlett et~al.(2021)Bartlett, Keogh, and Bonneville]{smcfcs2021}
+J.~Bartlett, R.~Keogh, and E.~F. Bonneville.
+\newblock \emph{smcfcs: Multiple Imputation of Covariates by Substantive Model
+  Compatible Fully Conditional Specification}, 2021.
+\newblock URL \url{https://CRAN.R-project.org/package=smcfcs}.
+\newblock R package version 1.6.0.
 
 \bibitem[Bartlett et~al.(2015)Bartlett, Seaman, White, Carpenter, and
   Initiative*]{bartlett2015multiple}

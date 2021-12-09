@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  22 OCT 2021 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  9 DEC 2021 17:27
 entering extended mode
 **./dissertation.tex
 (dissertation.tex
@@ -644,7 +644,7 @@ Package epstopdf Info: Source file: <plots/plot2.1.eps>
 (epstopdf)                    size: 12110 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.1-eps-co
 nverted-to.pdf plots/plot2.1.eps>
-(epstopdf)             \includegraphics on input line 158.
+(epstopdf)             \includegraphics on input line 156.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -654,7 +654,7 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: plots/plot2.1-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.1-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.1-eps-converted-to.pdf  used on input line
- 158.
+ 156.
 (pdftex.def)             Requested size: 453.0181pt x 284.56047pt.
 Package epstopdf Info: Source file: <plots/plot2.2.eps>
 (epstopdf)                    date: 2021-08-30 01:47:56
@@ -664,7 +664,7 @@ Package epstopdf Info: Source file: <plots/plot2.2.eps>
 (epstopdf)                    size: 12104 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.2-eps-co
 nverted-to.pdf plots/plot2.2.eps>
-(epstopdf)             \includegraphics on input line 162.
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -674,15 +674,15 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: plots/plot2.2-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.2-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.2-eps-converted-to.pdf  used on input line
- 162.
+ 160.
 (pdftex.def)             Requested size: 453.0181pt x 284.56047pt.
 
-Overfull \hbox (12.05022pt too wide) in paragraph at lines 157--165
+Overfull \hbox (12.05022pt too wide) in paragraph at lines 155--163
 [][]
  []
 
 
-Overfull \hbox (12.05022pt too wide) in paragraph at lines 157--165
+Overfull \hbox (12.05022pt too wide) in paragraph at lines 155--163
 [] 
  []
 
@@ -694,7 +694,7 @@ Package epstopdf Info: Source file: <plots/plot2.3.eps>
 (epstopdf)                    size: 19056 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.3-eps-co
 nverted-to.pdf plots/plot2.3.eps>
-(epstopdf)             \includegraphics on input line 172.
+(epstopdf)             \includegraphics on input line 170.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -704,7 +704,7 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: plots/plot2.3-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.3-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.3-eps-converted-to.pdf  used on input line
- 172.
+ 170.
 (pdftex.def)             Requested size: 452.96391pt x 284.53137pt.
 Package epstopdf Info: Source file: <plots/plot2.4.eps>
 (epstopdf)                    date: 2021-06-11 20:50:27
@@ -714,7 +714,7 @@ Package epstopdf Info: Source file: <plots/plot2.4.eps>
 (epstopdf)                    size: 18949 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plots/plot2.4-eps-co
 nverted-to.pdf plots/plot2.4.eps>
-(epstopdf)             \includegraphics on input line 176.
+(epstopdf)             \includegraphics on input line 174.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -724,15 +724,15 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: plots/plot2.4-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.4-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.4-eps-converted-to.pdf  used on input line
- 176.
+ 174.
 (pdftex.def)             Requested size: 452.96391pt x 284.53137pt.
 
-Overfull \hbox (11.99603pt too wide) in paragraph at lines 171--179
+Overfull \hbox (11.99603pt too wide) in paragraph at lines 169--177
 [][]
  []
 
 
-Overfull \hbox (11.99603pt too wide) in paragraph at lines 171--179
+Overfull \hbox (11.99603pt too wide) in paragraph at lines 169--177
 [] 
  []
 
@@ -773,159 +773,179 @@ Chapter 4.
 [21
 
 
-] [1] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-<plots/plot4.1.png, id=289, 472.76625pt x 369.63094pt>
+] [1] [1] [2] [3] [4] [5] [6] [7]
+<plots/potentialoutcome.png, id=270, 266.49562pt x 197.98969pt>
+File: plots/potentialoutcome.png Graphic file (type png)
+<use plots/potentialoutcome.png>
+Package pdftex.def Info: plots/potentialoutcome.png  used on input line 96.
+(pdftex.def)             Requested size: 453.01216pt x 350.28764pt.
+ [8] [9 <./plots/potentialoutcome.png>]
+[10] [11] [12] [13] [14]
+<plots/plot4.1.png, id=294, 472.76625pt x 369.63094pt>
 File: plots/plot4.1.png Graphic file (type png)
 <use plots/plot4.1.png>
-Package pdftex.def Info: plots/plot4.1.png  used on input line 240.
+Package pdftex.def Info: plots/plot4.1.png  used on input line 253.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.2.png, id=290, 472.76625pt x 369.63094pt>
+<plots/plot4.2.png, id=295, 472.76625pt x 369.63094pt>
 File: plots/plot4.2.png Graphic file (type png)
 <use plots/plot4.2.png>
-Package pdftex.def Info: plots/plot4.2.png  used on input line 240.
+Package pdftex.def Info: plots/plot4.2.png  used on input line 253.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.3.png, id=291, 472.76625pt x 369.63094pt>
+<plots/plot4.3.png, id=296, 472.76625pt x 369.63094pt>
 File: plots/plot4.3.png Graphic file (type png)
 <use plots/plot4.3.png>
-Package pdftex.def Info: plots/plot4.3.png  used on input line 250.
+Package pdftex.def Info: plots/plot4.3.png  used on input line 263.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.4.png, id=292, 472.76625pt x 369.63094pt>
+<plots/plot4.4.png, id=297, 472.76625pt x 369.63094pt>
 File: plots/plot4.4.png Graphic file (type png)
 <use plots/plot4.4.png>
-Package pdftex.def Info: plots/plot4.4.png  used on input line 250.
+Package pdftex.def Info: plots/plot4.4.png  used on input line 263.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.5.png, id=293, 472.76625pt x 369.63094pt>
+<plots/plot4.5.png, id=298, 472.76625pt x 369.63094pt>
 File: plots/plot4.5.png Graphic file (type png)
 <use plots/plot4.5.png>
-Package pdftex.def Info: plots/plot4.5.png  used on input line 272.
+Package pdftex.def Info: plots/plot4.5.png  used on input line 285.
 (pdftex.def)             Requested size: 452.97757pt x 350.25624pt.
- [14] [15 <./plots/plot4.1.png> <./plots/plot4.2.png> <./plots/plot4.3.png> <./
+ [15] [16 <./plots/plot4.1.png> <./plots/plot4.2.png> <./plots/plot4.3.png> <./
 plots/plot4.4.png>]
-<plots/plot4.6.png, id=305, 472.76625pt x 369.63094pt>
+<plots/plot4.6.png, id=310, 472.76625pt x 369.63094pt>
 File: plots/plot4.6.png Graphic file (type png)
 <use plots/plot4.6.png>
-Package pdftex.def Info: plots/plot4.6.png  used on input line 291.
+Package pdftex.def Info: plots/plot4.6.png  used on input line 303.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.7.png, id=306, 472.76625pt x 369.63094pt>
+<plots/plot4.7.png, id=311, 472.76625pt x 369.63094pt>
 File: plots/plot4.7.png Graphic file (type png)
 <use plots/plot4.7.png>
-Package pdftex.def Info: plots/plot4.7.png  used on input line 291.
+Package pdftex.def Info: plots/plot4.7.png  used on input line 303.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.8.png, id=307, 472.76625pt x 369.63094pt>
+<plots/plot4.8.png, id=312, 472.76625pt x 369.63094pt>
 File: plots/plot4.8.png Graphic file (type png)
 <use plots/plot4.8.png>
-Package pdftex.def Info: plots/plot4.8.png  used on input line 301.
+Package pdftex.def Info: plots/plot4.8.png  used on input line 313.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.9.png, id=308, 472.76625pt x 369.63094pt>
+<plots/plot4.9.png, id=313, 472.76625pt x 369.63094pt>
 File: plots/plot4.9.png Graphic file (type png)
 <use plots/plot4.9.png>
-Package pdftex.def Info: plots/plot4.9.png  used on input line 301.
+Package pdftex.def Info: plots/plot4.9.png  used on input line 313.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
- [16 <./plots/plot4.5.png>] [17 <./plots/plot4.6.png> <./plots/plot4.7.png> <./
-plots/plot4.8.png> <./plots/plot4.9.png>] [18]
-<plots/plot4.10.png, id=324, 472.76625pt x 369.63094pt>
+ [17 <./plots/plot4.5.png>]
+<plots/ICE.COVER.png, id=318, 350.05782pt x 369.63094pt>
+File: plots/ICE.COVER.png Graphic file (type png)
+<use plots/ICE.COVER.png>
+Package pdftex.def Info: plots/ICE.COVER.png  used on input line 323.
+(pdftex.def)             Requested size: 350.05695pt x 369.63002pt.
+<plots/ICE.DIS.png, id=319, 350.05782pt x 369.63094pt>
+File: plots/ICE.DIS.png Graphic file (type png)
+<use plots/ICE.DIS.png>
+Package pdftex.def Info: plots/ICE.DIS.png  used on input line 329.
+(pdftex.def)             Requested size: 350.05695pt x 369.63002pt.
+ [18 <./plots/plot4.6.png> <./plots/plot4.7.png> <./plots/plot4.8.png> <./plots
+/plot4.9.png>] [19 <./plots/ICE.COVER.png>] [20 <./plots/ICE.DIS.png>] [21]
+<plots/plot4.10.png, id=339, 472.76625pt x 369.63094pt>
 File: plots/plot4.10.png Graphic file (type png)
 <use plots/plot4.10.png>
-Package pdftex.def Info: plots/plot4.10.png  used on input line 362.
+Package pdftex.def Info: plots/plot4.10.png  used on input line 390.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.11.png, id=325, 472.76625pt x 369.63094pt>
+<plots/plot4.11.png, id=340, 472.76625pt x 369.63094pt>
 File: plots/plot4.11.png Graphic file (type png)
 <use plots/plot4.11.png>
-Package pdftex.def Info: plots/plot4.11.png  used on input line 362.
+Package pdftex.def Info: plots/plot4.11.png  used on input line 390.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.12.png, id=326, 465.99094pt x 369.63094pt>
+<plots/plot4.12.png, id=341, 465.99094pt x 369.63094pt>
 File: plots/plot4.12.png Graphic file (type png)
 <use plots/plot4.12.png>
-Package pdftex.def Info: plots/plot4.12.png  used on input line 379.
+Package pdftex.def Info: plots/plot4.12.png  used on input line 407.
 (pdftex.def)             Requested size: 232.99489pt x 184.815pt.
-<plots/plot4.13.png, id=327, 465.99094pt x 369.63094pt>
+<plots/plot4.13.png, id=342, 465.99094pt x 369.63094pt>
 File: plots/plot4.13.png Graphic file (type png)
 <use plots/plot4.13.png>
-Package pdftex.def Info: plots/plot4.13.png  used on input line 379.
+Package pdftex.def Info: plots/plot4.13.png  used on input line 407.
 (pdftex.def)             Requested size: 232.99489pt x 184.815pt.
-<plots/indiv01.png, id=328, 150.5625pt x 451.6875pt>
+
+
+LaTeX Warning: Reference `4_8' on page 22 undefined on input line 412.
+
+<plots/indiv01.png, id=343, 150.5625pt x 451.6875pt>
 File: plots/indiv01.png Graphic file (type png)
 <use plots/indiv01.png>
-Package pdftex.def Info: plots/indiv01.png  used on input line 416.
+Package pdftex.def Info: plots/indiv01.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv02.png, id=329, 150.5625pt x 451.6875pt>
+<plots/indiv02.png, id=344, 150.5625pt x 451.6875pt>
 File: plots/indiv02.png Graphic file (type png)
 <use plots/indiv02.png>
-Package pdftex.def Info: plots/indiv02.png  used on input line 416.
+Package pdftex.def Info: plots/indiv02.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv03.png, id=330, 150.5625pt x 451.6875pt>
+<plots/indiv03.png, id=345, 150.5625pt x 451.6875pt>
 File: plots/indiv03.png Graphic file (type png)
 <use plots/indiv03.png>
-Package pdftex.def Info: plots/indiv03.png  used on input line 416.
+Package pdftex.def Info: plots/indiv03.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv04.png, id=331, 150.5625pt x 451.6875pt>
+<plots/indiv04.png, id=346, 150.5625pt x 451.6875pt>
 File: plots/indiv04.png Graphic file (type png)
 <use plots/indiv04.png>
-Package pdftex.def Info: plots/indiv04.png  used on input line 416.
+Package pdftex.def Info: plots/indiv04.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv05.png, id=332, 150.5625pt x 451.6875pt>
+<plots/indiv05.png, id=347, 150.5625pt x 451.6875pt>
 File: plots/indiv05.png Graphic file (type png)
 <use plots/indiv05.png>
-Package pdftex.def Info: plots/indiv05.png  used on input line 416.
+Package pdftex.def Info: plots/indiv05.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv06.png, id=333, 150.5625pt x 451.6875pt>
+<plots/indiv06.png, id=348, 150.5625pt x 451.6875pt>
 File: plots/indiv06.png Graphic file (type png)
 <use plots/indiv06.png>
-Package pdftex.def Info: plots/indiv06.png  used on input line 416.
+Package pdftex.def Info: plots/indiv06.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv07.png, id=334, 150.5625pt x 451.6875pt>
+<plots/indiv07.png, id=349, 150.5625pt x 451.6875pt>
 File: plots/indiv07.png Graphic file (type png)
 <use plots/indiv07.png>
-Package pdftex.def Info: plots/indiv07.png  used on input line 416.
+Package pdftex.def Info: plots/indiv07.png  used on input line 444.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
- [19]
-<plots/indiv71.png, id=338, 150.5625pt x 451.6875pt>
+[22 <./plots/plot4.10.png> <./plots/plot4.11.png>]
+<plots/indiv71.png, id=355, 150.5625pt x 451.6875pt>
 File: plots/indiv71.png Graphic file (type png)
 <use plots/indiv71.png>
-Package pdftex.def Info: plots/indiv71.png  used on input line 453.
+Package pdftex.def Info: plots/indiv71.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv72.png, id=339, 150.5625pt x 451.6875pt>
+<plots/indiv72.png, id=356, 150.5625pt x 451.6875pt>
 File: plots/indiv72.png Graphic file (type png)
 <use plots/indiv72.png>
-Package pdftex.def Info: plots/indiv72.png  used on input line 453.
+Package pdftex.def Info: plots/indiv72.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv73.png, id=340, 150.5625pt x 451.6875pt>
+<plots/indiv73.png, id=357, 150.5625pt x 451.6875pt>
 File: plots/indiv73.png Graphic file (type png)
 <use plots/indiv73.png>
-Package pdftex.def Info: plots/indiv73.png  used on input line 453.
+Package pdftex.def Info: plots/indiv73.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv74.png, id=341, 150.5625pt x 451.6875pt>
+<plots/indiv74.png, id=358, 150.5625pt x 451.6875pt>
 File: plots/indiv74.png Graphic file (type png)
 <use plots/indiv74.png>
-Package pdftex.def Info: plots/indiv74.png  used on input line 453.
+Package pdftex.def Info: plots/indiv74.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv75.png, id=342, 150.5625pt x 451.6875pt>
+<plots/indiv75.png, id=359, 150.5625pt x 451.6875pt>
 File: plots/indiv75.png Graphic file (type png)
 <use plots/indiv75.png>
-Package pdftex.def Info: plots/indiv75.png  used on input line 453.
+Package pdftex.def Info: plots/indiv75.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv76.png, id=343, 150.5625pt x 451.6875pt>
+<plots/indiv76.png, id=360, 150.5625pt x 451.6875pt>
 File: plots/indiv76.png Graphic file (type png)
 <use plots/indiv76.png>
-Package pdftex.def Info: plots/indiv76.png  used on input line 453.
+Package pdftex.def Info: plots/indiv76.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv77.png, id=344, 150.5625pt x 451.6875pt>
+<plots/indiv77.png, id=361, 150.5625pt x 451.6875pt>
 File: plots/indiv77.png Graphic file (type png)
 <use plots/indiv77.png>
-Package pdftex.def Info: plots/indiv77.png  used on input line 453.
+Package pdftex.def Info: plots/indiv77.png  used on input line 481.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
- [20 <./plots/plot4.10.png> <./plots/plot4.11.png> <./plots/plot4.12.png> <./pl
-ots/plot4.13.png>]
-[21 <./plots/indiv01.png> <./plots/indiv02.png> <./plots/indiv03.png> <./plots/
-indiv04.png> <./plots/indiv05.png> <./plots/indiv06.png> <./plots/indiv07.png> 
-<./plots/indiv71.png> <./plots/indiv72.png> <./plots/indiv73.png> <./plots/indi
-v74.png> <./plots/indiv75.png> <./plots/indiv76.png> <./plots/indiv77.png>]
-[22]) [23]
+ [23 <./plots/plot4.12.png> <./plots/plot4.13.png> <./plots/indiv01.png> <./plo
+ts/indiv02.png> <./plots/indiv03.png> <./plots/indiv04.png> <./plots/indiv05.pn
+g> <./plots/indiv06.png> <./plots/indiv07.png>] [24 <./plots/indiv71.png> <./pl
+ots/indiv72.png> <./plots/indiv73.png> <./plots/indiv74.png> <./plots/indiv75.p
+ng> <./plots/indiv76.png> <./plots/indiv77.png>]) [25] [26]
 \openout2 = `5.Compatibility/5.Compatibility.aux'.
 
  (5.Compatibility/5.Compatibility.tex
 Chapter 5.
-[24
+[27
 
 
 
@@ -945,7 +965,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot5.1-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot5.1-eps-converted-to.pdf, id=413, 258.9675pt x 198.7425pt>
+<plots/plot5.1-eps-converted-to.pdf, id=429, 258.9675pt x 198.7425pt>
 File: plots/plot5.1-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot5.1-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot5.1-eps-converted-to.pdf  used on input line
@@ -964,7 +984,7 @@ Chapter 6.
 
 
 ] [1] [1] [2] [3] [4] [5] [6]
-<plots/miflow.png, id=455, 1328.965pt x 800.9925pt>
+<plots/miflow.png, id=471, 1328.965pt x 800.9925pt>
 File: plots/miflow.png Graphic file (type png)
 <use plots/miflow.png>
 Package pdftex.def Info: plots/miflow.png  used on input line 108.
@@ -982,204 +1002,204 @@ Overfull \hbox (25.81145pt too wide) in paragraph at lines 284--292
 [][] 
  []
 
-<plots/plot6.1.png, id=503, 356.83313pt x 377.91188pt>
+<plots/plot6.1.png, id=518, 356.83313pt x 377.91188pt>
 File: plots/plot6.1.png Graphic file (type png)
 <use plots/plot6.1.png>
 Package pdftex.def Info: plots/plot6.1.png  used on input line 308.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.2.png, id=504, 356.83313pt x 377.91188pt>
+<plots/plot6.2.png, id=519, 356.83313pt x 377.91188pt>
 File: plots/plot6.2.png Graphic file (type png)
 <use plots/plot6.2.png>
 Package pdftex.def Info: plots/plot6.2.png  used on input line 308.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.3.png, id=505, 356.83313pt x 377.91188pt>
+<plots/plot6.3.png, id=520, 356.83313pt x 377.91188pt>
 File: plots/plot6.3.png Graphic file (type png)
 <use plots/plot6.3.png>
 Package pdftex.def Info: plots/plot6.3.png  used on input line 325.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.4.png, id=506, 356.83313pt x 377.91188pt>
+<plots/plot6.4.png, id=521, 356.83313pt x 377.91188pt>
 File: plots/plot6.4.png Graphic file (type png)
 <use plots/plot6.4.png>
 Package pdftex.def Info: plots/plot6.4.png  used on input line 325.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.5.png, id=507, 356.83313pt x 377.91188pt>
+<plots/plot6.5.png, id=522, 356.83313pt x 377.91188pt>
 File: plots/plot6.5.png Graphic file (type png)
 <use plots/plot6.5.png>
 Package pdftex.def Info: plots/plot6.5.png  used on input line 335.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.6.png, id=508, 356.83313pt x 377.91188pt>
+<plots/plot6.6.png, id=523, 356.83313pt x 377.91188pt>
 File: plots/plot6.6.png Graphic file (type png)
 <use plots/plot6.6.png>
 Package pdftex.def Info: plots/plot6.6.png  used on input line 335.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.7.png, id=509, 356.83313pt x 377.91188pt>
+<plots/plot6.7.png, id=524, 356.83313pt x 377.91188pt>
 File: plots/plot6.7.png Graphic file (type png)
 <use plots/plot6.7.png>
 Package pdftex.def Info: plots/plot6.7.png  used on input line 352.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.8.png, id=510, 356.83313pt x 377.91188pt>
+<plots/plot6.8.png, id=525, 356.83313pt x 377.91188pt>
 File: plots/plot6.8.png Graphic file (type png)
 <use plots/plot6.8.png>
 Package pdftex.def Info: plots/plot6.8.png  used on input line 352.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.9.png, id=511, 356.83313pt x 377.91188pt>
+<plots/plot6.9.png, id=526, 356.83313pt x 377.91188pt>
 File: plots/plot6.9.png Graphic file (type png)
 <use plots/plot6.9.png>
 Package pdftex.def Info: plots/plot6.9.png  used on input line 373.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.10.png, id=512, 356.83313pt x 377.91188pt>
+<plots/plot6.10.png, id=527, 356.83313pt x 377.91188pt>
 File: plots/plot6.10.png Graphic file (type png)
 <use plots/plot6.10.png>
 Package pdftex.def Info: plots/plot6.10.png  used on input line 373.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.11.png, id=513, 356.83313pt x 377.91188pt>
+<plots/plot6.11.png, id=528, 356.83313pt x 377.91188pt>
 File: plots/plot6.11.png Graphic file (type png)
 <use plots/plot6.11.png>
 Package pdftex.def Info: plots/plot6.11.png  used on input line 373.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.12.png, id=514, 356.83313pt x 377.91188pt>
+<plots/plot6.12.png, id=529, 356.83313pt x 377.91188pt>
 File: plots/plot6.12.png Graphic file (type png)
 <use plots/plot6.12.png>
 Package pdftex.def Info: plots/plot6.12.png  used on input line 394.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.13.png, id=515, 356.83313pt x 377.91188pt>
+<plots/plot6.13.png, id=530, 356.83313pt x 377.91188pt>
 File: plots/plot6.13.png Graphic file (type png)
 <use plots/plot6.13.png>
 Package pdftex.def Info: plots/plot6.13.png  used on input line 394.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.14.png, id=516, 356.83313pt x 377.91188pt>
+<plots/plot6.14.png, id=531, 356.83313pt x 377.91188pt>
 File: plots/plot6.14.png Graphic file (type png)
 <use plots/plot6.14.png>
 Package pdftex.def Info: plots/plot6.14.png  used on input line 394.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.15.png, id=517, 356.83313pt x 377.91188pt>
+<plots/plot6.15.png, id=532, 356.83313pt x 377.91188pt>
 File: plots/plot6.15.png Graphic file (type png)
 <use plots/plot6.15.png>
 Package pdftex.def Info: plots/plot6.15.png  used on input line 416.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.16.png, id=518, 356.83313pt x 377.91188pt>
+<plots/plot6.16.png, id=533, 356.83313pt x 377.91188pt>
 File: plots/plot6.16.png Graphic file (type png)
 <use plots/plot6.16.png>
 Package pdftex.def Info: plots/plot6.16.png  used on input line 416.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.17.png, id=519, 356.83313pt x 377.91188pt>
+<plots/plot6.17.png, id=534, 356.83313pt x 377.91188pt>
 File: plots/plot6.17.png Graphic file (type png)
 <use plots/plot6.17.png>
 Package pdftex.def Info: plots/plot6.17.png  used on input line 416.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.18.png, id=520, 356.83313pt x 377.91188pt>
+<plots/plot6.18.png, id=535, 356.83313pt x 377.91188pt>
 File: plots/plot6.18.png Graphic file (type png)
 <use plots/plot6.18.png>
 Package pdftex.def Info: plots/plot6.18.png  used on input line 433.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.19.png, id=521, 356.83313pt x 377.91188pt>
+<plots/plot6.19.png, id=536, 356.83313pt x 377.91188pt>
 File: plots/plot6.19.png Graphic file (type png)
 <use plots/plot6.19.png>
 Package pdftex.def Info: plots/plot6.19.png  used on input line 433.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/densitycase1.png, id=522, 356.83313pt x 377.91188pt>
+<plots/densitycase1.png, id=537, 356.83313pt x 377.91188pt>
 File: plots/densitycase1.png Graphic file (type png)
 <use plots/densitycase1.png>
 Package pdftex.def Info: plots/densitycase1.png  used on input line 444.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase1hm.png, id=523, 356.83313pt x 377.91188pt>
+<plots/scattercase1hm.png, id=538, 356.83313pt x 377.91188pt>
 File: plots/scattercase1hm.png Graphic file (type png)
 <use plots/scattercase1hm.png>
 Package pdftex.def Info: plots/scattercase1hm.png  used on input line 445.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase1wm.png, id=524, 356.83313pt x 377.91188pt>
+<plots/scattercase1wm.png, id=539, 356.83313pt x 377.91188pt>
 File: plots/scattercase1wm.png Graphic file (type png)
 <use plots/scattercase1wm.png>
 Package pdftex.def Info: plots/scattercase1wm.png  used on input line 446.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase1hm.png, id=525, 356.83313pt x 377.91188pt>
+<plots/distributioncase1hm.png, id=540, 356.83313pt x 377.91188pt>
 File: plots/distributioncase1hm.png Graphic file (type png)
 <use plots/distributioncase1hm.png>
 Package pdftex.def Info: plots/distributioncase1hm.png  used on input line 450.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase1wm.png, id=526, 356.83313pt x 377.91188pt>
+<plots/distributioncase1wm.png, id=541, 356.83313pt x 377.91188pt>
 File: plots/distributioncase1wm.png Graphic file (type png)
 <use plots/distributioncase1wm.png>
 Package pdftex.def Info: plots/distributioncase1wm.png  used on input line 451.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/densitycase2.png, id=527, 356.83313pt x 377.91188pt>
+<plots/densitycase2.png, id=542, 356.83313pt x 377.91188pt>
 File: plots/densitycase2.png Graphic file (type png)
 <use plots/densitycase2.png>
 Package pdftex.def Info: plots/densitycase2.png  used on input line 462.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase2hm.png, id=528, 356.83313pt x 377.91188pt>
+<plots/scattercase2hm.png, id=543, 356.83313pt x 377.91188pt>
 File: plots/scattercase2hm.png Graphic file (type png)
 <use plots/scattercase2hm.png>
 Package pdftex.def Info: plots/scattercase2hm.png  used on input line 463.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase2wm.png, id=529, 356.83313pt x 377.91188pt>
+<plots/scattercase2wm.png, id=544, 356.83313pt x 377.91188pt>
 File: plots/scattercase2wm.png Graphic file (type png)
 <use plots/scattercase2wm.png>
 Package pdftex.def Info: plots/scattercase2wm.png  used on input line 464.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase2hm.png, id=530, 356.83313pt x 377.91188pt>
+<plots/distributioncase2hm.png, id=545, 356.83313pt x 377.91188pt>
 File: plots/distributioncase2hm.png Graphic file (type png)
 <use plots/distributioncase2hm.png>
 Package pdftex.def Info: plots/distributioncase2hm.png  used on input line 468.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase2wm.png, id=531, 356.83313pt x 377.91188pt>
+<plots/distributioncase2wm.png, id=546, 356.83313pt x 377.91188pt>
 File: plots/distributioncase2wm.png Graphic file (type png)
 <use plots/distributioncase2wm.png>
 Package pdftex.def Info: plots/distributioncase2wm.png  used on input line 469.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/densitycase3.png, id=532, 356.83313pt x 377.91188pt>
+<plots/densitycase3.png, id=547, 356.83313pt x 377.91188pt>
 File: plots/densitycase3.png Graphic file (type png)
 <use plots/densitycase3.png>
 Package pdftex.def Info: plots/densitycase3.png  used on input line 479.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase3hm.png, id=533, 356.83313pt x 377.91188pt>
+<plots/scattercase3hm.png, id=548, 356.83313pt x 377.91188pt>
 File: plots/scattercase3hm.png Graphic file (type png)
 <use plots/scattercase3hm.png>
 Package pdftex.def Info: plots/scattercase3hm.png  used on input line 480.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase3wm.png, id=534, 356.83313pt x 377.91188pt>
+<plots/scattercase3wm.png, id=549, 356.83313pt x 377.91188pt>
 File: plots/scattercase3wm.png Graphic file (type png)
 <use plots/scattercase3wm.png>
 Package pdftex.def Info: plots/scattercase3wm.png  used on input line 481.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase3hm.png, id=535, 356.83313pt x 377.91188pt>
+<plots/distributioncase3hm.png, id=550, 356.83313pt x 377.91188pt>
 File: plots/distributioncase3hm.png Graphic file (type png)
 <use plots/distributioncase3hm.png>
 Package pdftex.def Info: plots/distributioncase3hm.png  used on input line 485.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase3wm.png, id=536, 356.83313pt x 377.91188pt>
+<plots/distributioncase3wm.png, id=551, 356.83313pt x 377.91188pt>
 File: plots/distributioncase3wm.png Graphic file (type png)
 <use plots/distributioncase3wm.png>
 Package pdftex.def Info: plots/distributioncase3wm.png  used on input line 486.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/densitycase4.png, id=537, 356.83313pt x 377.91188pt>
+<plots/densitycase4.png, id=552, 356.83313pt x 377.91188pt>
 File: plots/densitycase4.png Graphic file (type png)
 <use plots/densitycase4.png>
 Package pdftex.def Info: plots/densitycase4.png  used on input line 497.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase4hm.png, id=538, 356.83313pt x 377.91188pt>
+<plots/scattercase4hm.png, id=553, 356.83313pt x 377.91188pt>
 File: plots/scattercase4hm.png Graphic file (type png)
 <use plots/scattercase4hm.png>
 Package pdftex.def Info: plots/scattercase4hm.png  used on input line 498.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/scattercase4wm.png, id=539, 356.83313pt x 377.91188pt>
+<plots/scattercase4wm.png, id=554, 356.83313pt x 377.91188pt>
 File: plots/scattercase4wm.png Graphic file (type png)
 <use plots/scattercase4wm.png>
 Package pdftex.def Info: plots/scattercase4wm.png  used on input line 499.
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase4hm.png, id=540, 356.83313pt x 377.91188pt>
+<plots/distributioncase4hm.png, id=555, 356.83313pt x 377.91188pt>
 File: plots/distributioncase4hm.png Graphic file (type png)
 <use plots/distributioncase4hm.png>
 Package pdftex.def Info: plots/distributioncase4hm.png  used on input line 503.
 
 (pdftex.def)             Requested size: 135.89174pt x 143.91939pt.
-<plots/distributioncase4wm.png, id=541, 356.83313pt x 377.91188pt>
+<plots/distributioncase4wm.png, id=556, 356.83313pt x 377.91188pt>
 File: plots/distributioncase4wm.png Graphic file (type png)
 <use plots/distributioncase4wm.png>
 Package pdftex.def Info: plots/distributioncase4wm.png  used on input line 504.
@@ -1204,42 +1224,42 @@ png>] (dissertation.bbl [35
 
 
 ]
-Underfull \hbox (badness 5578) in paragraph at lines 128--133
+Underfull \hbox (badness 5578) in paragraph at lines 135--140
 []\OT1/cmr/m/n/12 M. L. Eaton.  Mul-ti-vari-ate statis-tics: A vec-tor space ap
 -proach.  \OT1/cmr/m/it/12 Lec-
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 128--133
+Underfull \hbox (badness 7759) in paragraph at lines 135--140
 \OT1/cmr/m/it/12 ture Notes-Monograph Se-ries\OT1/cmr/m/n/12 , 53:i--512, 2007.
   ISSN 07492170.  URL
  []
 
 [36] [37] [38] [39] [40]
-Underfull \hbox (badness 5231) in paragraph at lines 436--440
+Underfull \hbox (badness 5231) in paragraph at lines 443--447
 []\OT1/cmr/m/n/12 R Core Team.  \OT1/cmr/m/it/12 R: A Lan-guage and En-vi-ron-m
 ent for Sta-tis-ti-cal Com-put-
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 436--440
+Underfull \hbox (badness 1043) in paragraph at lines 443--447
 \OT1/cmr/m/it/12 ing\OT1/cmr/m/n/12 .  R Foun-da-tion for Sta-tis-ti-cal Com-pu
 t-ing, Vi-enna, Aus-tria, 2021.  URL
  []
 
-[41] [42] [43]
-Underfull \hbox (badness 7256) in paragraph at lines 670--673
+[41] [42] [43] [44]
+Underfull \hbox (badness 7256) in paragraph at lines 677--680
 []\OT1/cmr/m/n/12 G. Vink and S. van Bu-uren.  Hy-brid im-pu-ta-tion, Dec. 2019
 .  URL
  []
 
-[44]) [45] (dissertation.lof [46
+[45]) [46] (dissertation.lof [47
 
-] [47])
+] [48])
 \tf@lof=\write4
 \openout4 = `dissertation.lof'.
 
- [48] (dissertation.lot
+ [49] (dissertation.lot
 Overfull \hbox (4.10242pt too wide) in paragraph at lines 5--5
  [][] []\OT1/cmr/m/n/12 Simulation re-sults for five miss-ing-ness mech-a-nisms
  when im-put-ing a squared 
@@ -1251,24 +1271,27 @@ Overfull \hbox (4.10242pt too wide) in paragraph at lines 6--6
  when im-put-ing a squared 
  []
 
-[49
+[50
 
-] [50])
+] [51])
 \tf@lot=\write5
 \openout5 = `dissertation.lot'.
 
- [51] (dissertation.aux (1.Introduction/1.Introduction.aux)
+ [52] (dissertation.aux (1.Introduction/1.Introduction.aux)
 (2.PC/2.PC.aux) (3.MPMM/3.MPMM.aux) (4.ICE/4.ICE.aux)
 (5.Compatibility/5.Compatibility.aux) (6.PPC/6.PPC.aux))
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9396 strings out of 478864
- 141729 string characters out of 2847238
+ 9439 strings out of 478864
+ 142631 string characters out of 2847238
  676055 words of memory out of 3000000
- 26997 multiletter control sequences out of 15000+600000
+ 27034 multiletter control sequences out of 15000+600000
  425825 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,18n,66p,2421b,1966s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1308,9 +1331,9 @@ lic/amsfonts/cm/cmti12.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/mingyang/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/mingyang/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on dissertation.pdf (153 pages, 1957531 bytes).
+Output written on dissertation.pdf (157 pages, 1973410 bytes).
 PDF statistics:
- 810 PDF objects out of 1000 (max. 8388607)
+ 829 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 381 words of extra memory for PDF output out of 10000 (max. 10000000)
 

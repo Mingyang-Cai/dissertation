@@ -10,8 +10,8 @@
 \contentsline {table}{\numberline {3.3}{\ignorespaces Average parameter estimates for different imputation methods under five different missingness mechanisms over 1000 imputed datasets ($n=5000$) with 40\% missing data. The designed model is $Y = \alpha + \beta _1X_1 + \beta _2X_2 + \beta _3X_1X_2 + \epsilon $, where $\alpha =0$, $\beta _1=1$, $\beta _2=1$, $\beta _3=1$ and $\epsilon \sim N (0,1)$. The population coefficient of determination $R^2=.75$.}}{15}{}%
 \contentsline {table}{\numberline {3.4}{\ignorespaces Average parameter estimates for MPMM and PMM under MCAR and MARright over 1000 imputed datasets ($n=2000$) with 30\% missing data. The designed model is introduced in section 3.4.3\hbox {}. The true values of $E(X_1)$ and $E(X_2)$ are $0$ and $3.5$.}}{17}{}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces The location and the scale of the mean bias for all four strategies to estimate the individual treatment effects.}}{15}{}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter estimates for BLI-SPC with different partial correlations}}{18}{}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces The location and the scale for the bias of estimate the individual treatment effects for all four strategies.}}{16}{}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter estimates for SPC with different partial correlations}}{21}{}%
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {5.1}{\ignorespaces Bias of the estimates ($E(Y)$) and coverage of nominal 95\% confidence intervals under MCAR and MARr}}{10}{}%
 \addvspace {10\p@ }

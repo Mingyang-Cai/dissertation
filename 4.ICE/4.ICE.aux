@@ -1,25 +1,27 @@
 \relax 
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Identification of individual treatment effects by imputing potential outcomes with partial correlation specification}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation}{21}{}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \newlabel{chap4}{{4}{21}}
-\citation{poulson2012treatment,zhang2013assessing}
-\citation{ding2016randomization,heckman1997making}
-\citation{zhang2013assessing}
-\citation{ding2018causal}
 \citation{rubin1974estimating,hernan2010causal}
 \citation{rubin2005causal,ding2018causal}
+\citation{RubinD1987}
+\citation{lamont2018identification}
+\citation{westreich2015imputation}
+\citation{lamont2018identification}
 \citation{lamont2018identification}
 \citation{westreich2015imputation}
 \citation{rassler2012statistical}
 \citation{imbens2015causal}
 \citation{gadbury2001evaluating}
 \citation{Buuren2018}
-\citation{smink2016towards}
 \@writefile{toc}{\contentsline {section}{\numberline {4.1}Introduction}{1}{}\protected@file@percent }
 \newlabel{sec:4.1}{{4.1}{1}}
+\citation{Buuren2018}
+\citation{smink2016towards}
+\citation{Buuren2018}
 \citation{imbens2015causal}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Framework}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}The role of partial correlation}{3}{}\protected@file@percent }
 \newlabel{sec:4.2}{{4.2}{3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Notation}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Setup}{3}{}\protected@file@percent }
@@ -29,138 +31,144 @@
 \citation{heckman2010effects}
 \citation{shamseer2015consort,araujo2016understanding}
 \citation{gadbury2001evaluating}
+\citation{Buuren2018}
 \citation{schafer1997analysis}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}Methodology}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Multiple imputation of multivariate incomplete variables}{6}{}\protected@file@percent }
 \newlabel{sec:4.3}{{4.3}{6}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Joint modeling imputation (JM)}{6}{}\protected@file@percent }
-\citation{Buuren2018,oberman2020missing}
+\citation{Buuren2018}
 \citation{van2007multiple}
 \citation{vink2019}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Fully Conditional Specification (FCS)}{7}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}Block imputation}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Specified partial correlation imputation}{8}{}\protected@file@percent }
+\newlabel{sec:4.4}{{4.4}{8}}
+\citation{imbens2015causal}
 \citation{moriarity2003note}
 \citation{rubin1986statistical}
-\@writefile{toc}{\contentsline {section}{\numberline {4.4}BLI-SPC}{8}{}\protected@file@percent }
-\newlabel{sec:4.4}{{4.4}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Missingness mechanism of potential outcomes. The write represents observed value and the grey represents missing value. Without loss of generality, we assume covariates are completely observed.}}{9}{}\protected@file@percent }
+\newlabel{fig4_1}{{4.1}{9}}
 \citation{goodnight1979tutorial}
 \citation{van2011targeted}
-\@writefile{toc}{\contentsline {section}{\numberline {4.5}Simulation study}{12}{}\protected@file@percent }
-\newlabel{sec:4.5}{{4.5}{12}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{12}{}\protected@file@percent }
-\newlabel{sec:4.5.1}{{4.5.1}{12}}
 \citation{van2011targeted}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.2}Targeted learning}{13}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}Simulation study}{13}{}\protected@file@percent }
+\newlabel{sec:4.5}{{4.5}{13}}
 \citation{gruber2011tmle}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.3}Results}{14}{}\protected@file@percent }
-\newlabel{sec:4.5.3}{{4.5.3}{14}}
-\@writefile{toc}{\contentsline {subsubsection}{Predicted individual treatment effect}{14}{}\protected@file@percent }
-\newlabel{boxplot:a}{{4.1(a)}{15}}
-\newlabel{sub@boxplot:a}{{(a)}{15}}
-\newlabel{boxplot:b}{{4.1(b)}{15}}
-\newlabel{sub@boxplot:b}{{(b)}{15}}
-\newlabel{boxplot:c}{{4.1(c)}{15}}
-\newlabel{sub@boxplot:c}{{(c)}{15}}
-\newlabel{boxplot:d}{{4.1(d)}{15}}
-\newlabel{sub@boxplot:d}{{(d)}{15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Histrogram plots of the mean bias for all four strategies to estimate the individual treatment effects.}}{15}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{15}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{15}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{15}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {The targeted learning}}}{15}{}\protected@file@percent }
-\newlabel{fig4_1}{{4.1}{15}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces The location and the scale of the mean bias for all four strategies to estimate the individual treatment effects.}}{15}{}\protected@file@percent }
-\newlabel{tab4_1}{{4.1}{15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces The plot shows individual treatment effects $(Y(1) - Y(0))$ in both treatment and control group. The oucome $Y(0)$ is observed in the control group and the oucome $Y(1)$ is observed in the treatment group. The dashed line represents the average treatment effect.}}{16}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{15}{}\protected@file@percent }
+\newlabel{sec:4.5.1}{{4.5.1}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.2}Results}{15}{}\protected@file@percent }
+\newlabel{sec:4.5.2}{{4.5.2}{15}}
+\@writefile{toc}{\contentsline {subsubsection}{Individual causal inference}{15}{}\protected@file@percent }
+\newlabel{boxplot:a}{{4.2(a)}{16}}
+\newlabel{sub@boxplot:a}{{(a)}{16}}
+\newlabel{boxplot:b}{{4.2(b)}{16}}
+\newlabel{sub@boxplot:b}{{(b)}{16}}
+\newlabel{boxplot:c}{{4.2(c)}{16}}
+\newlabel{sub@boxplot:c}{{(c)}{16}}
+\newlabel{boxplot:d}{{4.2(d)}{16}}
+\newlabel{sub@boxplot:d}{{(d)}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Histrogram plots of the bias of estimate the individual treatment effects for all four strategies.}}{16}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{16}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{16}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{16}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {The targeted learning}}}{16}{}\protected@file@percent }
 \newlabel{fig4_2}{{4.2}{16}}
-\newlabel{boxplot:e}{{4.3(a)}{17}}
-\newlabel{sub@boxplot:e}{{(a)}{17}}
-\newlabel{boxplot:f}{{4.3(b)}{17}}
-\newlabel{sub@boxplot:f}{{(b)}{17}}
-\newlabel{boxplot:g}{{4.3(c)}{17}}
-\newlabel{sub@boxplot:g}{{(c)}{17}}
-\newlabel{boxplot:h}{{4.3(d)}{17}}
-\newlabel{sub@boxplot:h}{{(d)}{17}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Stripplot of $\texttt  {m} = 5$ of observed (blue) and imputed (red) data for individual treatment effects with selected cases.}}{17}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{17}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{17}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{17}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {The targeted learning}}}{17}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces The location and the scale for the bias of estimate the individual treatment effects for all four strategies.}}{16}{}\protected@file@percent }
+\newlabel{tab4_1}{{4.1}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces The plot shows mean individual treatment effects $(Y(1) - Y(0))$ in both treatment and control group when partial correlation is defined as $0.73$. The oucome $Y(0)$ is observed in the control group and the oucome $Y(1)$ is observed in the treatment group. The dashed line represents the average treatment effect.}}{17}{}\protected@file@percent }
 \newlabel{fig4_3}{{4.3}{17}}
-\@writefile{toc}{\contentsline {subsubsection}{Parameter inference}{17}{}\protected@file@percent }
+\newlabel{boxplot:e}{{4.4(a)}{18}}
+\newlabel{sub@boxplot:e}{{(a)}{18}}
+\newlabel{boxplot:f}{{4.4(b)}{18}}
+\newlabel{sub@boxplot:f}{{(b)}{18}}
+\newlabel{boxplot:g}{{4.4(c)}{18}}
+\newlabel{sub@boxplot:g}{{(c)}{18}}
+\newlabel{boxplot:h}{{4.4(d)}{18}}
+\newlabel{sub@boxplot:h}{{(d)}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Stripplot of $\texttt  {m} = 5$ of observed (blue) and imputed (red) data for individual treatment effects with selected cases.}}{18}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{18}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.73$}}}{18}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.99$}}}{18}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {The targeted learning}}}{18}{}\protected@file@percent }
+\newlabel{fig4_4}{{4.4}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Coverage rate of the posterior distribution of estimated individual treatment effects}}{19}{}\protected@file@percent }
+\newlabel{fig4_5}{{4.5}{19}}
+\@writefile{toc}{\contentsline {subsubsection}{Average causal inference}{19}{}\protected@file@percent }
 \citation{hammer1996trial}
-\citation{hammer1996trial}
-\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter estimates for BLI-SPC with different partial correlations}}{18}{}\protected@file@percent }
-\newlabel{tab4_2}{{4.2}{18}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.6}Application}{18}{}\protected@file@percent }
-\newlabel{sec:4.6}{{4.6}{18}}
-\newlabel{boxplot:i}{{4.4(a)}{20}}
-\newlabel{sub@boxplot:i}{{(a)}{20}}
-\newlabel{boxplot:j}{{4.4(b)}{20}}
-\newlabel{sub@boxplot:j}{{(b)}{20}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Means of individual treatment effects for patients under treatment A and treatment B, which are arranged into ascending order.}}{20}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{20}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{20}{}\protected@file@percent }
-\newlabel{fig4_4}{{4.4}{20}}
-\newlabel{boxplot:k}{{4.5(a)}{20}}
-\newlabel{sub@boxplot:k}{{(a)}{20}}
-\newlabel{boxplot:l}{{4.5(b)}{20}}
-\newlabel{sub@boxplot:l}{{(b)}{20}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Means of individual treatment effects for out-of-sample patients under treatment C and D, which are arranged into ascending order.}}{20}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{20}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{20}{}\protected@file@percent }
-\newlabel{fig4_5}{{4.5}{20}}
-\newlabel{boxplot:m}{{4.6(a)}{21}}
-\newlabel{sub@boxplot:m}{{(a)}{21}}
-\newlabel{boxplot:n}{{4.6(b)}{21}}
-\newlabel{sub@boxplot:n}{{(b)}{21}}
-\newlabel{boxplot:o}{{4.6(c)}{21}}
-\newlabel{sub@boxplot:o}{{(c)}{21}}
-\newlabel{boxplot:p}{{4.6(d)}{21}}
-\newlabel{sub@boxplot:p}{{(d)}{21}}
-\newlabel{boxplot:q}{{4.6(e)}{21}}
-\newlabel{sub@boxplot:q}{{(e)}{21}}
-\newlabel{boxplot:r}{{4.6(f)}{21}}
-\newlabel{sub@boxplot:r}{{(f)}{21}}
-\newlabel{boxplot:s}{{4.6(g)}{21}}
-\newlabel{sub@boxplot:s}{{(g)}{21}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(f)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(g)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\newlabel{fig4_6}{{4.6}{21}}
-\newlabel{boxplot:t}{{4.7(a)}{21}}
-\newlabel{sub@boxplot:t}{{(a)}{21}}
-\newlabel{boxplot:u}{{4.7(b)}{21}}
-\newlabel{sub@boxplot:u}{{(b)}{21}}
-\newlabel{boxplot:v}{{4.7(c)}{21}}
-\newlabel{sub@boxplot:v}{{(c)}{21}}
-\newlabel{boxplot:w}{{4.7(d)}{21}}
-\newlabel{sub@boxplot:w}{{(d)}{21}}
-\newlabel{boxplot:x}{{4.7(e)}{21}}
-\newlabel{sub@boxplot:x}{{(e)}{21}}
-\newlabel{boxplot:y}{{4.7(f)}{21}}
-\newlabel{sub@boxplot:y}{{(f)}{21}}
-\newlabel{boxplot:z}{{4.7(g)}{21}}
-\newlabel{sub@boxplot:z}{{(g)}{21}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.7.}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(f)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(g)}{\ignorespaces {}}}{21}{}\protected@file@percent }
-\newlabel{fig4_7}{{4.7}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.7}Discussion}{22}{}\protected@file@percent }
-\newlabel{sec:4.7}{{4.7}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Mean distance between the \emph  {true} and the mean estimated individual treatment effects. The red dashed line represents the mean distance calculated by the targeted learning approach.}}{20}{}\protected@file@percent }
+\newlabel{fig4_6}{{4.6}{20}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.6}Application}{20}{}\protected@file@percent }
+\newlabel{sec:4.6}{{4.6}{20}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter estimates for SPC with different partial correlations}}{21}{}\protected@file@percent }
+\newlabel{tab4_2}{{4.2}{21}}
+\newlabel{boxplot:i}{{4.7(a)}{22}}
+\newlabel{sub@boxplot:i}{{(a)}{22}}
+\newlabel{boxplot:j}{{4.7(b)}{22}}
+\newlabel{sub@boxplot:j}{{(b)}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Means of individual treatment effects for patients under treatment A and treatment B, which are arranged into ascending order.}}{22}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{22}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{22}{}\protected@file@percent }
+\newlabel{fig4_7}{{4.7}{22}}
+\newlabel{boxplot:k}{{4.8(a)}{23}}
+\newlabel{sub@boxplot:k}{{(a)}{23}}
+\newlabel{boxplot:l}{{4.8(b)}{23}}
+\newlabel{sub@boxplot:l}{{(b)}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Means of individual treatment effects for out-of-sample patients under treatment C and D, which are arranged into ascending order.}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0$}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {BLI-SPC $\rho _{partial} = 0.7$}}}{23}{}\protected@file@percent }
+\newlabel{fig4_8}{{4.8}{23}}
+\newlabel{boxplot:m}{{4.9(a)}{23}}
+\newlabel{sub@boxplot:m}{{(a)}{23}}
+\newlabel{boxplot:n}{{4.9(b)}{23}}
+\newlabel{sub@boxplot:n}{{(b)}{23}}
+\newlabel{boxplot:o}{{4.9(c)}{23}}
+\newlabel{sub@boxplot:o}{{(c)}{23}}
+\newlabel{boxplot:p}{{4.9(d)}{23}}
+\newlabel{sub@boxplot:p}{{(d)}{23}}
+\newlabel{boxplot:q}{{4.9(e)}{23}}
+\newlabel{sub@boxplot:q}{{(e)}{23}}
+\newlabel{boxplot:r}{{4.9(f)}{23}}
+\newlabel{sub@boxplot:r}{{(f)}{23}}
+\newlabel{boxplot:s}{{4.9(g)}{23}}
+\newlabel{sub@boxplot:s}{{(g)}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(f)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(g)}{\ignorespaces {}}}{23}{}\protected@file@percent }
+\newlabel{fig4_9}{{4.9}{23}}
+\newlabel{boxplot:t}{{4.10(a)}{24}}
+\newlabel{sub@boxplot:t}{{(a)}{24}}
+\newlabel{boxplot:u}{{4.10(b)}{24}}
+\newlabel{sub@boxplot:u}{{(b)}{24}}
+\newlabel{boxplot:v}{{4.10(c)}{24}}
+\newlabel{sub@boxplot:v}{{(c)}{24}}
+\newlabel{boxplot:w}{{4.10(d)}{24}}
+\newlabel{sub@boxplot:w}{{(d)}{24}}
+\newlabel{boxplot:x}{{4.10(e)}{24}}
+\newlabel{sub@boxplot:x}{{(e)}{24}}
+\newlabel{boxplot:y}{{4.10(f)}{24}}
+\newlabel{sub@boxplot:y}{{(f)}{24}}
+\newlabel{boxplot:z}{{4.10(g)}{24}}
+\newlabel{sub@boxplot:z}{{(g)}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Fan plot of Observed and imputed (m = 20) outcomes under treatment A (0) and B (0). The partial correlation is 0.7.}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(f)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(g)}{\ignorespaces {}}}{24}{}\protected@file@percent }
+\newlabel{fig4_10}{{4.10}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.7}Discussion}{24}{}\protected@file@percent }
+\newlabel{sec:4.7}{{4.7}{24}}
 \@setckpt{4.ICE/4.ICE}{
-\setcounter{page}{24}
+\setcounter{page}{27}
 \setcounter{equation}{22}
-\setcounter{enumi}{6}
+\setcounter{enumi}{3}
 \setcounter{enumii}{3}
 \setcounter{enumiii}{0}
 \setcounter{enumiv}{0}
@@ -173,7 +181,7 @@
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{7}
+\setcounter{figure}{10}
 \setcounter{table}{2}
 \setcounter{subfigure}{0}
 \setcounter{lofdepth}{1}

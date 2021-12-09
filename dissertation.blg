@@ -19,52 +19,51 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: dissertation.bib
 Warning--entry type for "vink2019" isn't style-file defined
 --line 971 of file dissertation.bib
-Warning--I didn't find a database entry for "."
 Warning--empty publisher in brand1999development
 Warning--empty journal in gruber2011tmle
 Warning--empty journal in heeringa2001multivariate
 Warning--empty journal in oberman2020missing
 Warning--empty school in smink2016towards
 Warning--empty journal in su2011multiple
-You've used 113 entries,
+You've used 114 entries,
             2773 wiz_defined-function locations,
-            1255 strings with 24064 characters,
-and the built_in function-call counts, 51982 in all, are:
-= -- 4612
-> -- 2990
+            1259 strings with 24300 characters,
+and the built_in function-call counts, 52387 in all, are:
+= -- 4648
+> -- 3020
 < -- 68
-+ -- 1022
-- -- 909
-* -- 4418
-:= -- 8068
-add.period$ -- 350
-call.type$ -- 113
-change.case$ -- 621
-chr.to.int$ -- 113
-cite$ -- 232
-duplicate$ -- 2320
-empty$ -- 4286
-format.name$ -- 1070
-if$ -- 10722
++ -- 1032
+- -- 918
+* -- 4454
+:= -- 8134
+add.period$ -- 354
+call.type$ -- 114
+change.case$ -- 626
+chr.to.int$ -- 114
+cite$ -- 234
+duplicate$ -- 2338
+empty$ -- 4312
+format.name$ -- 1080
+if$ -- 10802
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 125
-newline$ -- 584
-num.names$ -- 452
-pop$ -- 1188
+newline$ -- 590
+num.names$ -- 456
+pop$ -- 1197
 preamble$ -- 1
-purify$ -- 525
+purify$ -- 530
 quote$ -- 0
-skip$ -- 1731
+skip$ -- 1746
 stack$ -- 0
-substring$ -- 2156
-swap$ -- 150
+substring$ -- 2158
+swap$ -- 152
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1163
+type$ -- 1174
 warning$ -- 6
-while$ -- 502
+while$ -- 505
 width$ -- 0
-write$ -- 1475
-(There were 8 warnings)
+write$ -- 1489
+(There were 7 warnings)
