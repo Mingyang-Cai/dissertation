@@ -1,27 +1,43 @@
-\documentclass[12pt, fullpage, a4paper]{report}
-\usepackage{graphicx, latexsym}
-\usepackage{setspace}
+ %%%%%%%%%%%%%%%%%%%% book.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% sample root file for the chapters of your "monograph"
+%
+% Use this file as a template for your own input.
+%
+%%%%%%%%%%%%%%%% Springer-Verlag %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\documentclass{class/svmonoGV_large}
+\documentclass{class/svmono}
+\usepackage[dutch, english]{babel}
+% choose options for [] as required from the list
+% in the Reference Guide, Sect. 2.2
+
+\usepackage{makeidx}         % allows index generation
+\usepackage[pdftex]{graphicx}        % standard LaTeX graphics tool
+% when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+%\newcommand{\vet}[1]{{\ensuremath{\mbox{\boldmath $#1$}}}}
+%\newtheorem{definition}{Definition}
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{example}{Example}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{color}
 \usepackage{subfigure}
-\usepackage{apacite}
-\usepackage{amssymb, amsmath, amsthm}
-\usepackage{bm}
-\usepackage{epstopdf}
-\usepackage{rotating} %used for \sidewaystable
-\usepackage{apacite}
-\usepackage{booktabs} %used for \toprule
-\usepackage{multirow} %used for \multirow and \multicolumn
+\usepackage{natbib}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{epsfig}
+\usepackage{makeidx}
+\usepackage{pdfpages}
+\usepackage{rotating}
 \usepackage{listings}
-\usepackage[svgnames]{xcolor}
-\usepackage[margin=1in]{geometry}
-\usepackage{titletoc}
-%\singlespacing
-%\onehalfspacing
-\doublespacing
-
-\titlecontents{part}[0pt]{\normalsize\bfseries\protect\addvspace{15pt}}%
-{}{\partname{} }%
-{\enspace\titlerule\contentspage}%
-
+\usepackage[left=2cm, right=2cm, top=2.7cm, bottom=2.7cm,]{geometry} 
+%\usepackage{apacite}
 
 \lstset{language=R,
 	basicstyle=\small\ttfamily,
@@ -32,39 +48,179 @@
 	keywordstyle=\color{blue},
 	commentstyle=\color{DarkGreen},
 }
+% etc.
+% see the list of further useful packages
+% in the Reference Guide, Sects. 2.3, 3.1-3.3
+\geometry{paperwidth=17cm, paperheight=24cm}
+% \usepackage[
+%   noinfo,
+%   cam,
+%   cross,                % crosses as marks
+%   width=17.6cm,         % the width of the galley
+%   height=24.6cm,        % the height of the galley
+%   center                % actual page is centered on the galley
+% ]{crop}    
+\makeindex             % used for the subject index
+% please use the style svind.ist with
+% your makeindex program
 
 
-%Import the natbib package and sets a bibliography  and citation styles
-\usepackage{natbib}
-\bibliographystyle{abbrvnat}
-%\setcitestyle{authoryear,open={((},close={))}} %Citation-related commands
-
-\title{Dissertation}
-\date{}
-\author{Mingyang Cai}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-	\maketitle
-	\section*{Acknowledgements}
-	I wish to express my gratitude to the people who have been instrumental in completing this project. I would like to show my greatest appreciation to my supervisors. Stef, I thank you for your valuable guidance and advice. Without your vast knowledge of statistics, this project would not have been possible. You inspired me greatly to research multiple imputations and has been critical to my scientific growth. Deep gratitude is also due to Gerko, my daily supervisor. Two meetings every week, parties held at your home and tips for living in the Netherlands, all these things make me feel at home away from home. I learn a lot from your elegant programming. I still remember your words at our first meeting: the PhD project is to prove your ability to conduct research independently. This word really leads the way to my project. I was pleased to have supervision from both of you.
+	%
+	%\author{Author(s)}
+	%\title{Insert your Booktitle, Subtitle, Edition\\
+	%{\small SPIN Springer's internal project number, if known}}
+	%\subtitle{-- Monograph --}
+	%\maketitle
 	
-	I thank everyone once joined in the weekly mice meeting. The shared works and ideas, the discussed questions during the meeting really have an influence on me. Furthermore, I am grateful to everyone from M\&S at Utrecht University. I enjoyed various kinds of research meetings and activities here. 
+	%for cosmetic reasons I include the front cover
+	% REMOVE THE BELOW LINE WHEN SENDING TO PRINTER
+	%\includepdf{cover_front.pdf}
 	
-	My friends and family are important to me. I thank my parents for giving me the opportunity to learn more about statistics and develop skills to conduct scientific research. You could not have given me a greater gift. I also thank my brother and friends to make a joyful life. 
-	\tableofcontents
-	\maketitle
-	
-	\include{1.Introduction/1.Introduction}
-	\part{Non-parametric imputation methods}
-	%\addcontentsline{toc}{part}{Non-parametric imputation}
-	\include{2.PC/2.PC}
-    \include{3.MPMM/3.MPMM}
-    \part{Parametric imputation methods}
-    \include{4.ICE/4.ICE}
-    \include{5.Compatibility/5.Compatibility}
-    \part{Diagnostics for imputation models}
-    \include{6.PPC/6.PPC}
-	\bibliography{dissertation}
-	\listoffigures
-	\listoftables
-\end{document}
+	\titlepage{
+		
+		\author{Mingyang Cai\\ Utrecht University, Utrecht}
+		\title{Informed Strategies for Multivariate Missing Data}
+		\maketitle
+		
+		%	\newpage
+		%	\thispagestyle{empty}
+		%	\mbox{}
+		
+		\newpage
+		\thispagestyle{empty}
+		\begin{center}
+			
+			{\Huge Informed Strategies for }\\ \vspace{0.25cm}
+			{\Huge Multivariate Missing Data}
+			
+			\vspace{2 cm}
+			
+			Geïnformeerde strategieën voor ontbrekende multivariate gegevens
+			
+			(met een samenvatting in het Nederlands)
+			
+			\vspace{3cm}
+			
+			\textbf{Proefschrift}         \\
+			
+			
+			\vspace{3cm}
+			
+			ter verkrijging van de graad van doctor aan de \\
+			Universiteit Utrecht\\
+			op gezag van de\\
+			rector magnificus, prof.dr. H.R.B.M. Kummeling,\\
+			ingevolge het besluit van het college voor promoties\\ 
+			in het openbaar te verdedigen op\\
+			
+			vrijdag 7 oktober 2022 des middags te 12.15 uur 
+			
+			\vspace{2cm}
+			
+			door           \\
+			
+			\vspace{.5cm}
+			
+			\textbf{Mingyang Cai}      \\
+			
+			\vspace{.5cm}
+			
+			geboren op 31 oktober 1992 \\
+			te Jiangsu, China
+		\end{center}
+		
+		\newpage
+		\thispagestyle{empty}
+		\begin{tabular}{lll}
+			\textbf{Promotor:}    & & Prof.dr. S. van Buuren \\
+			\textbf{Copromotor:} &  &   Dr. G. Vink \\      
+		\end{tabular}
+		\vspace{\fill}
+		
+		
+		%\noindent Vink, Gerrit \\
+		%Restrictive Imputation of Incomplete Survey Data \\
+		%Proefschrift Universiteit Utrecht, Utrecht. - Met lit. opg. - Met samenvatting in het Nederlands. \\
+		%ISBN: ISBN NR \\
+		%Druk: DRUKKER INFO \\
+		%Cover designed by Gerko Vink \\
+		%Copyright $\copyright$ 2014, G. Vink. All Rights Reserved.\\
+		%
+		%
+		%{\tiny
+		%\noindent Neither this book nor any part may be reproduced or transmitted in any form or by any means, electronic or mechanical,
+		%including photocopying, microfilming, and recording, or by any information storage and retrieval system, without written
+		%permission of the author.
+		%Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvuldigd, in enige vorm of op enige wijze,
+		%zonder voorafgaande schriftelijke toestemming van de auteur.
+		%}
+		\newpage
+		\thispagestyle{empty}
+		%\begin{tabular}{lll}
+		\noindent \textbf{Beoordelingscommissie:} \\
+		
+		\noindent Prof. dr. A.G. de Waal\\
+		Prof. dr. D. Rizopoulos\\
+		Prof. dr. D.L. Oberski\\
+		Prof. dr. J. Vermunt\\
+		Dr. S. Jolani\\
+		
+		
+		%\end{tabular}
+		\vspace{\fill}
+		
+		
+		%\noindent Vink, Gerko \\
+		%Restrictive Imputation of Incomplete Survey Data \\
+		%Proefschrift Universiteit Utrecht, Utrecht. - Met lit. opg. - Met samenvatting in het Nederlands. \\
+		%ISBN 978-90-393-6300-3 \\
+		%Druk: GVO drukkers \& vormgevers B.V. $|$ Ponsen \& Looijen \\
+		%Cover design by Gerko Vink \\
+		%Copyright $\copyright$ 2015, G. Vink. All Rights Reserved.\\
+		
+		{\small \noindent 
+		}
+		
+		%\newpage
+		%\thispagestyle{empty}
+		%\mbox{}
+		
+		
+		
+		
+		\frontmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		
+		\include{frontmatter/pref}
+		\tableofcontents
+		
+		
+		\mainmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\include{1.Introduction/1.Introduction}
+		\include{parts/part1}
+		%\addcontentsline{toc}{part}{Non-parametric imputation}
+		\include{2.PC/2.PC}
+		\include{3.MPMM/3.MPMM}
+		\include{parts/part2}
+		\include{4.ICE/4.ICE}
+		\include{5.Compatibility/5.Compatibility}
+		\include{parts/part3}
+		\include{6.PPC/6.PPC}
+		%\appendix
+		%\include{appendix}
+		
+		\backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\bibliographystyle{apalike-url}
+		\bibliography{dissertation}
+		\include{frontmatter/fig}
+		\include{frontmatter/tab}	
+		\include{7.summary/7.summary}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		
+		%for cosmetic reasons I include the back cover
+		% REMOVE THE BELOW LINE WHEN SENDING TO PRINTER
+		%\includepdf{cover_back.pdf}
+		
+	\end{document}

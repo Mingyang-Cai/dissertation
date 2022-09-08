@@ -1,7 +1,0 @@
-Codes for the simulation results and the plot in the paper
-
-There are three approaches we applied in our simulation: original polynomial combination (OPC), modified polynomial combination(MPC) 
-and substantive model compatible fully conditional specification (SMC-FCS). Three sub- archives for different approaches. 
-
-The code for plots in the paper are also showed. 
- 
