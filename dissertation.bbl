@@ -1,0 +1,679 @@
+\begin{thebibliography}{}
+
+\bibitem[Abayomi et~al., 2008]{abayomi2008diagnostics}
+Abayomi, K., Gelman, A., and Levy, M. (2008).
+\newblock Diagnostics for multivariate imputations.
+\newblock {\em Journal of the Royal Statistical Society: Series C (Applied
+  Statistics)}, 57(3):273--291.
+
+\bibitem[Albert, 2009]{albert2009bayesian}
+Albert, J. (2009).
+\newblock {\em Bayesian computation with R}.
+\newblock Springer.
+
+\bibitem[Allison, 2001]{allison2001missing}
+Allison, P.~D. (2001).
+\newblock {\em Missing data}.
+\newblock Sage publications.
+
+\bibitem[Allison, 2003]{allison2003missing}
+Allison, P.~D. (2003).
+\newblock Missing data techniques for structural equation modeling.
+\newblock {\em Journal of abnormal psychology}, 112(4):545.
+
+\bibitem[Araujo et~al., 2016]{araujo2016understanding}
+Araujo, A., Julious, S., and Senn, S. (2016).
+\newblock Understanding variation in sets of n-of-1 trials.
+\newblock {\em PLoS One}, 11(12):e0167167.
+
+\bibitem[Arnold et~al., 2004]{arnold2004compatibility}
+Arnold, B.~C., Castillo, E., and Sarabia, J.~M. (2004).
+\newblock Compatibility of partial or complete conditional probability
+  specifications.
+\newblock {\em Journal of statistical planning and inference}, 123(1):133--159.
+
+\bibitem[Arnold and Press, 1989]{arnold1989compatible}
+Arnold, B.~C. and Press, S.~J. (1989).
+\newblock Compatible conditional distributions.
+\newblock {\em Journal of the American Statistical Association},
+  84(405):152--156.
+
+\bibitem[Azur et~al., 2011]{azur2011multiple}
+Azur, M.~J., Stuart, E.~A., Frangakis, C., and Leaf, P.~J. (2011).
+\newblock Multiple imputation by chained equations: what is it and how does it
+  work?
+\newblock {\em International journal of methods in psychiatric research},
+  20(1):40--49.
+
+\bibitem[Bartlett et~al., 2021]{smcfcs2021}
+Bartlett, J., Keogh, R., and Bonneville, E.~F. (2021).
+\newblock {\em smcfcs: Multiple Imputation of Covariates by Substantive Model
+  Compatible Fully Conditional Specification}.
+\newblock R package version 1.6.0.
+\newblock Available from: \url{https://CRAN.R-project.org/package=smcfcs}.
+
+\bibitem[Bartlett et~al., 2015]{bartlett2015multiple}
+Bartlett, J.~W., Seaman, S.~R., White, I.~R., Carpenter, J.~R., and
+  Initiative*, A. D.~N. (2015).
+\newblock Multiple imputation of covariates by fully conditional specification:
+  accommodating the substantive model.
+\newblock {\em Statistical methods in medical research}, 24(4):462--487.
+
+\bibitem[Bodner, 2008]{bodner2008improves}
+Bodner, T.~E. (2008).
+\newblock What improves with increased missing data imputations?
+\newblock {\em Structural Equation Modeling: A Multidisciplinary Journal},
+  15(4):651--675.
+
+\bibitem[Bondarenko and Raghunathan, 2016]{bondarenko2016graphical}
+Bondarenko, I. and Raghunathan, T. (2016).
+\newblock Graphical and numerical diagnostic tools to assess suitability of
+  multiple imputations and imputation models.
+\newblock {\em Statistics in medicine}, 35(17):3007--3020.
+
+\bibitem[Brand, 1999]{brand1999development}
+Brand, J. (1999).
+\newblock {\em Development, implementation and evaluation of multiple
+  imputation strategies for the statistical analysis of incomplete data sets}.
+
+\bibitem[de~Jong et~al., 2014]{Jong2014}
+de~Jong, R., van Buuren, S., and Spiess, M. (2014).
+\newblock Multiple imputation of predictor variables using generalized additive
+  models.
+\newblock {\em Communications in Statistics - Simulation and Computation},
+  45(3):968--985.
+
+\bibitem[De~Waal et~al., 2011]{de2011handbook}
+De~Waal, T., Pannekoek, J., and Scholtus, S. (2011).
+\newblock {\em Handbook of statistical data editing and imputation}, volume
+  563.
+\newblock John Wiley \& Sons.
+
+\bibitem[Demirtas, 2004]{demirtas2004modeling}
+Demirtas, H. (2004).
+\newblock Modeling incomplete longitudinal data.
+\newblock {\em Journal of Modern Applied Statistical Methods}, 3(2):5.
+
+\bibitem[Ding et~al., 2019]{ding2019decomposing}
+Ding, P., Feller, A., and Miratrix, L. (2019).
+\newblock Decomposing treatment effect variation.
+\newblock {\em Journal of the American Statistical Association},
+  114(525):304--317.
+
+\bibitem[Ding et~al., 2018]{ding2018causal}
+Ding, P., Li, F., et~al. (2018).
+\newblock Causal inference: A missing data perspective.
+\newblock {\em Statistical Science}, 33(2):214--237.
+
+\bibitem[Djebbari and Smith, 2008]{djebbari2008heterogeneous}
+Djebbari, H. and Smith, J. (2008).
+\newblock Heterogeneous impacts in progresa.
+\newblock {\em Journal of Econometrics}, 145(1-2):64--80.
+
+\bibitem[Eaton, 2007]{Eation2007}
+Eaton, M.~L. (2007).
+\newblock Multivariate statistics: A vector space approach.
+\newblock {\em Lecture Notes-Monograph Series}, 53:i--512.
+\newblock Available from: \url{http://www.jstor.org/stable/20461449}.
+
+\bibitem[Finke and Adamczyk, 2008]{finke2008cross}
+Finke, R. and Adamczyk, A. (2008).
+\newblock Cross-national moral beliefs: The influence of national religious
+  context.
+\newblock {\em Sociological Quarterly}, 49(4):617--652.
+
+\bibitem[Gadbury et~al., 2001]{gadbury2001evaluating}
+Gadbury, G.~L., Iyer, H.~K., and Allison, D.~B. (2001).
+\newblock Evaluating subject-treatment interaction when comparing two
+  treatments.
+\newblock {\em Journal of Biopharmaceutical Statistics}, 11(4):313--333.
+
+\bibitem[Gelman et~al., 2013]{gelman2013bayesian}
+Gelman, A., Carlin, J.~B., Stern, H.~S., Dunson, D.~B., Vehtari, A., and Rubin,
+  D.~B. (2013).
+\newblock {\em Bayesian data analysis}.
+\newblock CRC press.
+
+\bibitem[Gelman et~al., 1998]{gelman1998not}
+Gelman, A., King, G., and Liu, C. (1998).
+\newblock Not asked and not answered: Multiple imputation for multiple surveys.
+\newblock {\em Journal of the American Statistical Association},
+  93(443):846--857.
+
+\bibitem[Gelman et~al., 2005]{gelman2005multiple}
+Gelman, A., Van~Mechelen, I., Verbeke, G., Heitjan, D.~F., and Meulders, M.
+  (2005).
+\newblock Multiple imputation for model checking: completed-data plots with
+  missing and latent data.
+\newblock {\em Biometrics}, 61(1):74--85.
+
+\bibitem[Goldstein et~al., 2014]{goldstein2014fitting}
+Goldstein, H., Carpenter, J.~R., and Browne, W.~J. (2014).
+\newblock Fitting multilevel multivariate models with missing data in responses
+  and covariates that may include interactions and non-linear terms.
+\newblock {\em Journal of the Royal Statistical Society: Series A (Statistics
+  in Society)}, 177(2):553--564.
+
+\bibitem[Goodnight, 1979]{goodnight1979tutorial}
+Goodnight, J.~H. (1979).
+\newblock A tutorial on the sweep operator.
+\newblock {\em The American Statistician}, 33(3):149--158.
+
+\bibitem[Goodrich et~al., 2019]{Goodrich2019}
+Goodrich, B., Gabry, J., Ali, I., and Brilleman, S. (2019).
+\newblock rstanarm: {Bayesian} applied regression modeling via {Stan}.
+\newblock R package version 2.19.2.
+\newblock Available from: \url{https://mc-stan.org/rstanarm}.
+
+\bibitem[Graham et~al., 2007]{graham2007many}
+Graham, J.~W., Olchowski, A.~E., and Gilreath, T.~D. (2007).
+\newblock How many imputations are really needed? some practical clarifications
+  of multiple imputation theory.
+\newblock {\em Prevention science}, 8(3):206--213.
+
+\bibitem[Gruber and Van~der Laan, 2011]{gruber2011tmle}
+Gruber, S. and Van~der Laan, M.~J. (2011).
+\newblock tmle: An r package for targeted maximum likelihood estimation.
+
+\bibitem[Hammer et~al., 1996]{hammer1996trial}
+Hammer, S.~M., Katzenstein, D.~A., Hughes, M.~D., Gundacker, H., Schooley,
+  R.~T., Haubrich, R.~H., Henry, W.~K., Lederman, M.~M., Phair, J.~P., Niu, M.,
+  et~al. (1996).
+\newblock A trial comparing nucleoside monotherapy with combination therapy in
+  hiv-infected adults with cd4 cell counts from 200 to 500 per cubic
+  millimeter.
+\newblock {\em New England Journal of Medicine}, 335(15):1081--1090.
+
+\bibitem[He and Zaslavsky, 2012]{he2012diagnosing}
+He, Y. and Zaslavsky, A.~M. (2012).
+\newblock Diagnosing imputation models by applying target analyses to posterior
+  replicates of completed data.
+\newblock {\em Statistics in medicine}, 31(1):1--18.
+
+\bibitem[Heckerman et~al., 2000]{heckerman2000dependency}
+Heckerman, D., Chickering, D.~M., Meek, C., Rounthwaite, R., and Kadie, C.
+  (2000).
+\newblock Dependency networks for inference, collaborative filtering, and data
+  visualization.
+\newblock {\em Journal of Machine Learning Research}, 1(Oct):49--75.
+
+\bibitem[Heckman, 2005]{heckman2005scientific}
+Heckman, J.~J. (2005).
+\newblock The scientific model of causality.
+\newblock {\em Sociological methodology}, 35(1):1--97.
+
+\bibitem[Heckman et~al., 2010]{heckman2010effects}
+Heckman, J.~J., Humphries, J.~E., Urzua, S., and Veramendi, G. (2010).
+\newblock The effects of schooling on labor market and health outcomes.
+\newblock {\em Unpublished Manuscript. University of Chicago, Department of
+  Economics}.
+
+\bibitem[Heckman et~al., 1997]{heckman1997making}
+Heckman, J.~J., Smith, J., and Clements, N. (1997).
+\newblock Making the most out of programme evaluations and social experiments:
+  Accounting for heterogeneity in programme impacts.
+\newblock {\em The Review of Economic Studies}, 64(4):487--535.
+
+\bibitem[Heeringa, 2001]{heeringa2001multivariate}
+Heeringa, S.~G. (2001).
+\newblock Multivariate imputation of coarsened survey data on household wealth.
+
+\bibitem[Heitjan and Little, 1991]{Heitjan1991}
+Heitjan, D.~F. and Little, R. J.~A. (1991).
+\newblock Multiple imputation for the fatal accident reporting system.
+\newblock {\em Applied Statistics}, 40(1):13.
+
+\bibitem[Hernan and Robins, 2010]{hernan2010causal}
+Hernan, M.~A. and Robins, J.~M. (2010).
+\newblock {\em Causal inference}.
+\newblock CRC Boca Raton, FL.
+
+\bibitem[Hoogland et~al., 2020]{hoogland2020handling}
+Hoogland, J., van Barreveld, M., Debray, T.~P., Reitsma, J.~B., Verstraelen,
+  T.~E., Dijkgraaf, M.~G., and Zwinderman, A.~H. (2020).
+\newblock Handling missing predictor values when validating and applying a
+  prediction model to new patients.
+\newblock {\em Statistics in medicine}, 39(25):3591--3607.
+
+\bibitem[Horvitz and Thompson, 1952]{horvitz1952generalization}
+Horvitz, D.~G. and Thompson, D.~J. (1952).
+\newblock A generalization of sampling without replacement from a finite
+  universe.
+\newblock {\em Journal of the American statistical Association},
+  47(260):663--685.
+
+\bibitem[Hughes et~al., 2014]{hughes2014joint}
+Hughes, R.~A., White, I.~R., Seaman, S.~R., Carpenter, J.~R., Tilling, K., and
+  Sterne, J.~A. (2014).
+\newblock Joint modelling rationale for chained equations.
+\newblock {\em BMC medical research methodology}, 14(1):28.
+
+\bibitem[Ibrahim et~al., 2005]{ibrahim2005missing}
+Ibrahim, J.~G., Chen, M.-H., Lipsitz, S.~R., and Herring, A.~H. (2005).
+\newblock Missing-data methods for generalized linear models: A comparative
+  review.
+\newblock {\em Journal of the American Statistical Association},
+  100(469):332--346.
+
+\bibitem[Ibrahim et~al., 2012]{ibrahim2012missing}
+Ibrahim, J.~G., Chu, H., and Chen, M.-H. (2012).
+\newblock Missing data in clinical studies: issues and methods.
+\newblock {\em Journal of clinical oncology}, 30(26):3297.
+
+\bibitem[Imbens and Rubin, 2015]{imbens2015causal}
+Imbens, G.~W. and Rubin, D.~B. (2015).
+\newblock {\em Causal inference in statistics, social, and biomedical
+  sciences}.
+\newblock Cambridge University Press.
+
+\bibitem[Israels, 1987]{Israels1987}
+Israels, A.~Z. (1987).
+\newblock {\em Eigenvalue techniques for qualitative data (M \& T series)}.
+\newblock DSWO Press.
+
+\bibitem[Izenman, 1975]{izenman1975reduced}
+Izenman, A.~J. (1975).
+\newblock Reduced-rank regression for the multivariate linear model.
+\newblock {\em Journal of multivariate analysis}, 5(2):248--264.
+
+\bibitem[Jackman, 2004]{jackman2004bayesian}
+Jackman, S. (2004).
+\newblock Bayesian analysis for political research.
+\newblock {\em Annu. Rev. Polit. Sci.}, 7:483--505.
+
+\bibitem[James R.~Carpenter, 2013]{JamesR.Carpenter2013}
+James R.~Carpenter, M.~K. (2013).
+\newblock {\em Multiple Imputation and Its Application}.
+\newblock John Wiley \& Sons.
+
+\bibitem[Krul et~al., 2011]{krul2011self}
+Krul, A.~J., Daanen, H.~A., and Choi, H. (2011).
+\newblock Self-reported and measured weight, height and body mass index (bmi)
+  in italy, the netherlands and north america.
+\newblock {\em The European Journal of Public Health}, 21(4):414--419.
+
+\bibitem[Lamont et~al., 2018]{lamont2018identification}
+Lamont, A., Lyons, M.~D., Jaki, T., Stuart, E., Feaster, D.~J., Tharmaratnam,
+  K., Oberski, D., Ishwaran, H., Wilson, D.~K., and Van~Horn, M.~L. (2018).
+\newblock Identification of predicted individual treatment effects in
+  randomized clinical trials.
+\newblock {\em Statistical methods in medical research}, 27(1):142--157.
+
+\bibitem[Laptook et~al., 2017]{laptook2017effect}
+Laptook, A.~R., Shankaran, S., Tyson, J.~E., Munoz, B., Bell, E.~F., Goldberg,
+  R.~N., Parikh, N.~A., Ambalavanan, N., Pedroza, C., Pappas, A., et~al.
+  (2017).
+\newblock Effect of therapeutic hypothermia initiated after 6 hours of age on
+  death or disability among newborns with hypoxic-ischemic encephalopathy: a
+  randomized clinical trial.
+\newblock {\em Jama}, 318(16):1550--1560.
+
+\bibitem[Little, 1988]{little1988missing}
+Little, R.~J. (1988).
+\newblock Missing-data adjustments in large surveys.
+\newblock {\em Journal of Business \& Economic Statistics}, 6(3):287--296.
+
+\bibitem[Little and Rubin, 2019]{little2019statistical}
+Little, R.~J. and Rubin, D.~B. (2019).
+\newblock {\em Statistical analysis with missing data}, volume 793.
+\newblock John Wiley \& Sons.
+
+\bibitem[Liu et~al., 2014]{liu2014stationary}
+Liu, J., Gelman, A., Hill, J., Su, Y.-S., and Kropko, J. (2014).
+\newblock On the stationary distribution of iterative imputations.
+\newblock {\em Biometrika}, 101(1):155--173.
+
+\bibitem[Longford, 2001]{longford2001multilevel}
+Longford, N. (2001).
+\newblock Multilevel analysis with messy data.
+\newblock {\em Statistical Methods in Medical Research}, 10(6):429--444.
+
+\bibitem[McCARTHY and Masters, 2005]{mccarthy2005profiting}
+McCARTHY, M.~A. and Masters, P. (2005).
+\newblock Profiting from prior information in bayesian analyses of ecological
+  data.
+\newblock {\em Journal of Applied Ecology}, 42(6):1012--1019.
+
+\bibitem[McDonald, 1968]{McDonald1968}
+McDonald, R.~P. (1968).
+\newblock A unified treatment of the weighting problem.
+\newblock {\em Psychometrika}, 33(3):351--381.
+
+\bibitem[Meng, 1994]{meng1994multiple}
+Meng, X.-L. (1994).
+\newblock Multiple-imputation inferences with uncongenial sources of input.
+\newblock {\em Statistical Science}, pages 538--558.
+
+\bibitem[Moriarity and Scheuren, 2003]{moriarity2003note}
+Moriarity, C. and Scheuren, F. (2003).
+\newblock A note on rubin's statistical matching using file concatenation with
+  adjusted weights and multiple imputations.
+\newblock {\em Journal of Business \& Economic Statistics}, 21(1):65--73.
+
+\bibitem[Morris et~al., 2019]{morris2019using}
+Morris, T.~P., White, I.~R., and Crowther, M.~J. (2019).
+\newblock Using simulation studies to evaluate statistical methods.
+\newblock {\em Statistics in medicine}, 38(11):2074--2102.
+
+\bibitem[Morris et~al., 2014]{Morris2014}
+Morris, T.~P., White, I.~R., and Royston, P. (2014).
+\newblock Tuning multiple imputation by predictive mean matching and local
+  residual draws.
+\newblock {\em {BMC} Medical Research Methodology}, 14(1).
+
+\bibitem[Mueller et~al., 2008]{mueller2008injuries}
+Mueller, B.~A., Cummings, P., Rivara, F.~P., Brooks, M.~A., and Terasaki, R.~D.
+  (2008).
+\newblock Injuries of the head, face, and neck in relation to ski helmet use.
+\newblock {\em Epidemiology}, pages 270--276.
+
+\bibitem[Neyman, 1934]{neyman1934two}
+Neyman, J. (1934).
+\newblock On the two different aspects of the representative method: the method
+  of stratified sampling and the method of purposive selection.
+\newblock {\em Journal of the Royal Statistical Society}, 97(4):558--625.
+
+\bibitem[Nguyen et~al., 2017]{nguyen2017model}
+Nguyen, C.~D., Carlin, J.~B., and Lee, K.~J. (2017).
+\newblock Model checking in multiple imputation: an overview and case study.
+\newblock {\em Emerging themes in epidemiology}, 14(1):8.
+
+\bibitem[Nguyen et~al., 2015]{nguyen2015posterior}
+Nguyen, C.~D., Lee, K.~J., and Carlin, J.~B. (2015).
+\newblock Posterior predictive checking of multiple imputation models.
+\newblock {\em Biometrical Journal}, 57(4):676--694.
+
+\bibitem[Oberman et~al., 2020]{oberman2020missing}
+Oberman, H.~I., van Buuren, S., and Vink, G. (2020).
+\newblock Missing the point: Non-convergence in iterative imputation
+  algorithms.
+
+\bibitem[Olinsky et~al., 2003]{olinsky2003comparative}
+Olinsky, A., Chen, S., and Harlow, L. (2003).
+\newblock The comparative efficacy of imputation methods for missing data in
+  structural equation modeling.
+\newblock {\em European Journal of Operational Research}, 151(1):53--79.
+
+\bibitem[Pigott, 2001]{pigott2001missing}
+Pigott, T.~D. (2001).
+\newblock Missing predictors in models of effect size.
+\newblock {\em Evaluation \& the Health Professions}, 24(3):277--307.
+
+\bibitem[{R Core Team}, 2021]{R2018}
+{R Core Team} (2021).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock Available from: \url{https://www.R-project.org/}.
+
+\bibitem[Raghunathan et~al., 2001]{raghunathan2001multivariate}
+Raghunathan, T.~E., Lepkowski, J.~M., Van~Hoewyk, J., Solenberger, P., et~al.
+  (2001).
+\newblock A multivariate technique for multiply imputing missing values using a
+  sequence of regression models.
+\newblock {\em Survey methodology}, 27(1):85--96.
+
+\bibitem[R{\"a}ssler, 2012]{rassler2012statistical}
+R{\"a}ssler, S. (2012).
+\newblock {\em Statistical matching: A frequentist theory, practical
+  applications, and alternative Bayesian approaches}, volume 168.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Rencher, 2003]{rencher2003methods}
+Rencher, A.~C. (2003).
+\newblock {\em Methods of multivariate analysis}, volume 492.
+\newblock John Wiley \& Sons.
+
+\bibitem[Robins and Wang, 2000]{robins2000inference}
+Robins, J.~M. and Wang, N. (2000).
+\newblock Inference for imputation estimators.
+\newblock {\em Biometrika}, 87(1):113--124.
+
+\bibitem[Royston, 2004]{royston2004multiple}
+Royston, P. (2004).
+\newblock Multiple imputation of missing values.
+\newblock {\em The Stata Journal}, 4(3):227--241.
+
+\bibitem[Rubin, 1974]{rubin1974estimating}
+Rubin, D.~B. (1974).
+\newblock Estimating causal effects of treatments in randomized and
+  nonrandomized studies.
+\newblock {\em Journal of educational Psychology}, 66(5):688.
+
+\bibitem[Rubin, 1976]{rubin1976inference}
+Rubin, D.~B. (1976).
+\newblock Inference and missing data.
+\newblock {\em Biometrika}, 63(3):581--592.
+
+\bibitem[Rubin, 1986]{rubin1986statistical}
+Rubin, D.~B. (1986).
+\newblock Statistical matching using file concatenation with adjusted weights
+  and multiple imputations.
+\newblock {\em Journal of Business \& Economic Statistics}, 4(1):87--94.
+
+\bibitem[Rubin, 1987]{RubinD1987}
+Rubin, D.~B. (1987).
+\newblock {\em Multiple Imputation for Nonresponse in Surveys}.
+\newblock John Wiley and Sons, New York.
+
+\bibitem[Rubin, 2005]{rubin2005causal}
+Rubin, D.~B. (2005).
+\newblock Causal inference using potential outcomes: Design, modeling,
+  decisions.
+\newblock {\em Journal of the American Statistical Association},
+  100(469):322--331.
+
+\bibitem[Schafer, 1997]{schafer1997analysis}
+Schafer, J.~L. (1997).
+\newblock {\em Analysis of incomplete multivariate data}.
+\newblock CRC press.
+
+\bibitem[Schafer, 1999]{schafer1999multiple}
+Schafer, J.~L. (1999).
+\newblock Multiple imputation: a primer.
+\newblock {\em Statistical methods in medical research}, 8(1):3--15.
+
+\bibitem[Schafer, 2003]{schafer2003multiple}
+Schafer, J.~L. (2003).
+\newblock Multiple imputation in multivariate problems when the imputation and
+  analysis models differ.
+\newblock {\em Statistica neerlandica}, 57(1):19--35.
+
+\bibitem[Schafer and Graham, 2002]{schafer2002missing}
+Schafer, J.~L. and Graham, J.~W. (2002).
+\newblock Missing data: our view of the state of the art.
+\newblock {\em Psychological methods}, 7(2):147.
+
+\bibitem[Schafer and Olsen, 1998]{schafer1998multiple}
+Schafer, J.~L. and Olsen, M.~K. (1998).
+\newblock Multiple imputation for multivariate missing-data problems: A data
+  analyst's perspective.
+\newblock {\em Multivariate behavioral research}, 33(4):545--571.
+
+\bibitem[Schouten et~al., 2018]{Schouten2018}
+Schouten, R.~M., Lugtig, P., and Vink, G. (2018).
+\newblock Generating missing values for simulation purposes: a multivariate
+  amputation procedure.
+\newblock {\em Journal of Statistical Computation and Simulation},
+  88(15):2909--2930.
+
+\bibitem[Seaman et~al., 2012]{seaman2012multiple}
+Seaman, S.~R., Bartlett, J.~W., and White, I.~R. (2012).
+\newblock Multiple imputation of missing covariates with non-linear effects and
+  interactions: an evaluation of statistical methods.
+\newblock {\em BMC medical research methodology}, 12(1):1--13.
+
+\bibitem[Seaman and White, 2013]{seaman2013review}
+Seaman, S.~R. and White, I.~R. (2013).
+\newblock Review of inverse probability weighting for dealing with missing
+  data.
+\newblock {\em Statistical methods in medical research}, 22(3):278--295.
+
+\bibitem[Shamseer et~al., 2015]{shamseer2015consort}
+Shamseer, L., Sampson, M., Bukutu, C., Schmid, C.~H., Nikles, J., Tate, R.,
+  Johnston, B.~C., Zucker, D., Shadish, W.~R., Kravitz, R., et~al. (2015).
+\newblock Consort extension for reporting n-of-1 trials (cent) 2015:
+  Explanation and elaboration.
+\newblock {\em Bmj}, 350:h1793.
+
+\bibitem[Siddique and Belin, 2008]{siddique2008multiple}
+Siddique, J. and Belin, T.~R. (2008).
+\newblock Multiple imputation using an iterative hot-deck with distance-based
+  donor selection.
+\newblock {\em Statistics in medicine}, 27(1):83--102.
+
+\bibitem[Sinharay et~al., 2001]{sinharay2001use}
+Sinharay, S., Stern, H.~S., and Russell, D. (2001).
+\newblock The use of multiple imputation for the analysis of missing data.
+\newblock {\em Psychological methods}, 6(4):317.
+
+\bibitem[Smink, 2016]{smink2016towards}
+Smink, W. (2016).
+\newblock Towards estimation of individual causal effects: The use of a prior
+  for the correlation between potential outcomes.
+\newblock Master's thesis.
+
+\bibitem[Souverein et~al., 2006]{souverein2006multiple}
+Souverein, O.~W., Zwinderman, A.~H., and Tanck, M.~W. (2006).
+\newblock Multiple imputation of missing genotype data for unrelated
+  individuals.
+\newblock {\em Annals of human genetics}, 70(3):372--381.
+
+\bibitem[Su et~al., 2011]{su2011multiple}
+Su, Y.-S., Gelman, A.~E., Hill, J., and Yajima, M. (2011).
+\newblock Multiple imputation with diagnostics (mi) in r: Opening windows into
+  the black box.
+
+\bibitem[Sun et~al., 2009]{sun2009equivalence}
+Sun, L., Ji, S., Yu, S., and Ye, J. (2009).
+\newblock On the equivalence between canonical correlation analysis and
+  orthonormalized partial least squares.
+\newblock In {\em IJCAI}, volume~9, pages 1230--1235.
+
+\bibitem[Sundell et~al., 2008]{sundell2008transportability}
+Sundell, K., Hansson, K., L{\"o}fholm, C.~A., Olsson, T., Gustle, L.-H., and
+  Kadesj{\"o}, C. (2008).
+\newblock The transportability of multisystemic therapy to sweden: short-term
+  results from a randomized trial of conduct-disordered youths.
+\newblock {\em Journal of Family Psychology}, 22(4):550.
+
+\bibitem[Tanasoiu and Colonescu, 2008]{tanasoiu2008determinants}
+Tanasoiu, C. and Colonescu, C. (2008).
+\newblock Determinants of support for european integration: The case of
+  bulgaria.
+\newblock {\em European Union Politics}, 9(3):363--377.
+
+\bibitem[Twisk and de~Vente, 2002]{twisk2002attrition}
+Twisk, J. and de~Vente, W. (2002).
+\newblock Attrition in longitudinal studies: how to deal with missing data.
+\newblock {\em Journal of clinical epidemiology}, 55(4):329--337.
+
+\bibitem[Van~Buuren, 2007]{van2007multiple}
+Van~Buuren, S. (2007).
+\newblock Multiple imputation of discrete and continuous data by fully
+  conditional specification.
+\newblock {\em Statistical methods in medical research}, 16(3):219--242.
+
+\bibitem[van Buuren, 018a]{Buuren2018}
+van Buuren, S. (2018a).
+\newblock {\em Flexible Imputation of Missing Data, Second Edition}.
+\newblock Chapman and Hall/{CRC}.
+
+\bibitem[Van~Buuren, 018b]{van2018JSM}
+Van~Buuren, S. (2018b).
+\newblock Hybrid imputation models through blocks.
+\newblock Joint Statistical Meetings.
+
+\bibitem[Van~Buuren et~al., 1999]{van1999multiple}
+Van~Buuren, S., Boshuizen, H.~C., and Knook, D.~L. (1999).
+\newblock Multiple imputation of missing blood pressure covariates in survival
+  analysis.
+\newblock {\em Statistics in medicine}, 18(6):681--694.
+
+\bibitem[Van~Buuren et~al., 2006]{van2006fully}
+Van~Buuren, S., Brand, J.~P., Groothuis-Oudshoorn, C.~G., and Rubin, D.~B.
+  (2006).
+\newblock Fully conditional specification in multivariate imputation.
+\newblock {\em Journal of statistical computation and simulation},
+  76(12):1049--1064.
+
+\bibitem[van Buuren and Groothuis-Oudshoorn, 2011]{Buuren2011}
+van Buuren, S. and Groothuis-Oudshoorn, K. (2011).
+\newblock mice: Multivariate imputation by chained equations {inR}.
+\newblock {\em Journal of Statistical Software}, 45(3).
+
+\bibitem[Van Den~Wollenberg, 1977]{van1977redundancy}
+Van Den~Wollenberg, A.~L. (1977).
+\newblock Redundancy analysis an alternative for canonical correlation
+  analysis.
+\newblock {\em Psychometrika}, 42(2):207--219.
+
+\bibitem[Van~der Laan and Rose, 2011]{van2011targeted}
+Van~der Laan, M.~J. and Rose, S. (2011).
+\newblock {\em Targeted learning: causal inference for observational and
+  experimental data}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Vink et~al., 2014]{Vink2014}
+Vink, G., Frank, L.~E., Pannekoek, J., and van Buuren, S. (2014).
+\newblock Predictive mean matching imputation of semicontinuous variables.
+\newblock {\em Statistica Neerlandica}, 68(1):61--90.
+
+\bibitem[Vink et~al., 2015]{Vink2015}
+Vink, G., Lazendic, G., and van Buuren, S. (2015).
+\newblock Partioned predictive mean matching as a large data multilevel
+  imputation technique.
+\newblock {\em Psychological Test and Assessment Modeling}, 57(4):577--594.
+
+\bibitem[Vink and van Buuren, 2013]{Vink2013}
+Vink, G. and van Buuren, S. (2013).
+\newblock Multiple imputation of squared terms.
+\newblock {\em Sociological Methods {\&} Research}, 42(4):598--607.
+
+\bibitem[Vink and van Buuren, 2019]{vink2019}
+Vink, G. and van Buuren, S. (2019).
+\newblock Hybrid imputation.
+\newblock Available from: \url{https://www.gerkovink.com/London2019/}.
+
+\bibitem[Volker and Vink, 2021]{volker2021anonymiced}
+Volker, T.~B. and Vink, G. (2021).
+\newblock Anonymiced shareable data: Using mice to create and analyze multiply
+  imputed synthetic datasets.
+\newblock {\em Psych}, 3(4):703--716.
+
+\bibitem[Von~Hippel, 2009]{vonhippe2009}
+Von~Hippel, P. (2009).
+\newblock How to impute interactions, squares, and other transformed variables.
+\newblock {\em Sociological Methodology}, 39(1):265--291.
+
+\bibitem[Westreich et~al., 2015]{westreich2015imputation}
+Westreich, D., Edwards, J.~K., Cole, S.~R., Platt, R.~W., Mumford, S.~L., and
+  Schisterman, E.~F. (2015).
+\newblock Imputation approaches for potential outcomes in causal inference.
+\newblock {\em International journal of epidemiology}, 44(5):1731--1737.
+
+\bibitem[White et~al., 2010]{white2010avoiding}
+White, I.~R., Daniel, R., and Royston, P. (2010).
+\newblock Avoiding bias due to perfect prediction in multiple imputation of
+  incomplete categorical variables.
+\newblock {\em Computational statistics \& data analysis}, 54(10):2267--2275.
+
+\bibitem[White et~al., 2011]{white2011multiple}
+White, I.~R., Royston, P., and Wood, A.~M. (2011).
+\newblock Multiple imputation using chained equations: issues and guidance for
+  practice.
+\newblock {\em Statistics in medicine}, 30(4):377--399.
+
+\bibitem[Yu et~al., 2007]{yu2007evaluation}
+Yu, L.-M., Burton, A., and Rivero-Arias, O. (2007).
+\newblock Evaluation of software for multiple imputation of semi-continuous
+  data.
+\newblock {\em Statistical Methods in Medical Research}, 16(3):243--258.
+
+\bibitem[Zhu and Raghunathan, 2015]{zhu2015convergence}
+Zhu, J. and Raghunathan, T.~E. (2015).
+\newblock Convergence properties of a sequential regression multiple imputation
+  algorithm.
+\newblock {\em Journal of the American Statistical Association},
+  110(511):1112--1124.
+
+\end{thebibliography}

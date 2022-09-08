@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  8 SEP 2022 08:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  8 SEP 2022 17:26
 entering extended mode
 **./dissertation.tex
 (dissertation.tex
@@ -579,16 +579,23 @@ g
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
+ (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count330
+\float@exts=\toks27
+\float@box=\box103
+\@float@everytoks=\toks28
+\@floatcapt=\box104
+)
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
 y
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count330
-\Gm@cntv=\count331
-\c@Gm@tempcnt=\count332
+\Gm@cnth=\count331
+\Gm@cntv=\count332
+\c@Gm@tempcnt=\count333
 \Gm@bindingoffset=\dimen258
 \Gm@wd@mp=\dimen259
 \Gm@odd@mp=\dimen260
@@ -597,7 +604,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen263
 \Gm@layouthoffset=\dimen264
 \Gm@layoutvoffset=\dimen265
-\Gm@dimlist=\toks27
+\Gm@dimlist=\toks29
 
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
 g))
@@ -622,8 +629,8 @@ Writing index file dissertation.idx
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count333
-\l__pdf_internal_box=\box103
+\l__color_backend_stack_int=\count334
+\l__pdf_internal_box=\box105
 ) (dissertation.aux (frontmatter/pref.aux)
 (1.Introduction/1.Introduction.aux) (parts/part1.aux) (2.PC/2.PC.aux)
 (3.MPMM/3.MPMM.aux) (parts/part2.aux) (4.ICE/4.ICE.aux)
@@ -745,39 +752,39 @@ LaTeX Warning: Label `sub@boxplot:b' multiply defined.
 ) (frontmatter/fig.aux) (frontmatter/tab.aux) (7.summary/7.summary.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count334
+\scratchcounter=\count335
 \scratchdimen=\dimen266
-\scratchbox=\box104
-\nofMPsegments=\count335
-\nofMParguments=\count336
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count337
+\scratchbox=\box106
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count338
 \MPscratchDim=\dimen267
-\MPnumerator=\count338
-\makeMPintoPDFobject=\count339
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks31
 )
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
 f-base.sty
@@ -789,7 +796,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 73.
 
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -802,11 +809,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 titlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count340
+\c@section@level=\count341
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
  (dissertation.out) (dissertation.out)
 \@outlinefile=\write4
 \openout4 = `dissertation.out'.
@@ -821,7 +828,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@lstlisting=\count341
+\c@lstlisting=\count342
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -860,25 +867,25 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 [1
 
 {C:/Users/mingyang/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 137
+LaTeX Font Info:    Trying to load font information for U+msa on input line 140
 .
 
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 137
+LaTeX Font Info:    Trying to load font information for U+msb on input line 140
 .
 
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--170
+Underfull \hbox (badness 10000) in paragraph at lines 168--173
 
  []
 
@@ -909,22 +916,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--170
 
 (1.Introduction/1.Introduction.tex
 Chapter 1.
-
-Package natbib Warning: Citation `RubinD1987' on page 1 undefined on input line
- 3.
-
-
-Package natbib Warning: Citation `ibrahim2012missing' on page 1 undefined on in
-put line 5.
-
-
-Package natbib Warning: Citation `rubin1976inference' on page 1 undefined on in
-put line 10.
-
-
-Package natbib Warning: Citation `little2019statistical' on page 1 undefined on
- input line 10.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -934,233 +925,25 @@ l.11
 
 
 
-]
-
-Package natbib Warning: Citation `little2019statistical' on page 2 undefined on
- input line 15.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.18 
-      [2]
-
-Package natbib Warning: Citation `horvitz1952generalization' on page 3 undefine
-d on input line 19.
-
-
-Package natbib Warning: Citation `little2019statistical' on page 3 undefined on
- input line 28.
-
-
-Package natbib Warning: Citation `RubinD1987' on page 3 undefined on input line
- 35.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
+      [2]pdfTeX warning (ext4): destination with the same identifier (name{page
+.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.36 
-      [3]
-
-Package natbib Warning: Citation `longford2001multilevel' on page 4 undefined o
-n input line 37.
-
-
-Package natbib Warning: Citation `twisk2002attrition' on page 4 undefined on in
-put line 37.
-
-
-Package natbib Warning: Citation `demirtas2004modeling' on page 4 undefined on 
-input line 37.
-
-
-Package natbib Warning: Citation `olinsky2003comparative' on page 4 undefined o
-n input line 37.
-
-
-Package natbib Warning: Citation `allison2003missing' on page 4 undefined on in
-put line 37.
-
-
-Package natbib Warning: Citation `mueller2008injuries' on page 4 undefined on i
-nput line 37.
-
-
-Package natbib Warning: Citation `tanasoiu2008determinants' on page 4 undefined
- on input line 37.
-
-
-Package natbib Warning: Citation `souverein2006multiple' on page 4 undefined on
- input line 37.
-
-
-Package natbib Warning: Citation `sundell2008transportability' on page 4 undefi
-ned on input line 37.
-
-
-Package natbib Warning: Citation `finke2008cross' on page 4 undefined on input 
-line 37.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 4 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `azur2011multiple' on page 4 undefined on inpu
-t line 37.
-
-
-Package natbib Warning: Citation `schafer1997analysis' on page 4 undefined on i
-nput line 39.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 4 undefined on input line
- 47.
-
-
-Package natbib Warning: Citation `oberman2020missing' on page 4 undefined on in
-put line 47.
-
-
-Package natbib Warning: Citation `van2007multiple' on page 4 undefined on input
- line 47.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
-been already used, duplicate ignored
+      [3]pdfTeX warning (ext4): destination with the same identifier (name{page
+.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 H
-      ybrid imputation, also called block imputation, combines the flexibili...
-[4]
-
-Package natbib Warning: Citation `van2018JSM' on page 5 undefined on input line
- 49.
-
-
-Package natbib Warning: Citation `seaman2012multiple' on page 5 undefined on in
-put line 57.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 5 undefined on 
-input line 57.
-
-
-Package natbib Warning: Citation `Vink2013' on page 5 undefined on input line 5
-7.
-
-
-Package natbib Warning: Citation `rubin1986statistical' on page 5 undefined on 
-input line 59.
-
-
-Package natbib Warning: Citation `little1988missing' on page 5 undefined on inp
-ut line 59.
-
-[5]
-
-Package natbib Warning: Citation `meng1994multiple' on page 6 undefined on inpu
-t line 65.
-
-
-Package natbib Warning: Citation `nguyen2017model' on page 6 undefined on input
- line 65.
-
+l.48 
+      [4] [5]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 67.
-
-Package natbib Warning: Citation `Buuren2011' on page 6 undefined on input line
- 68.
-
-
-Package natbib Warning: Citation `brand1999development' on page 6 undefined on 
-input line 74.
-
-
-Package natbib Warning: Citation `van1999multiple' on page 6 undefined on input
- line 74.
-
-
-Package natbib Warning: Citation `oberman2020missing' on page 6 undefined on in
-put line 74.
-
-[6]
-
-Package natbib Warning: Citation `royston2004multiple' on page 7 undefined on i
-nput line 76.
-
-
-Package natbib Warning: Citation `graham2007many' on page 7 undefined on input 
-line 76.
-
-
-Package natbib Warning: Citation `bodner2008improves' on page 7 undefined on in
-put line 76.
-
-
-Package natbib Warning: Citation `white2011multiple' on page 7 undefined on inp
-ut line 76.
-
-
-Package natbib Warning: Citation `schafer1998multiple' on page 7 undefined on i
-nput line 76.
-
-
-Package natbib Warning: Citation `schafer1997analysis' on page 7 undefined on i
-nput line 79.
-
-
-Package natbib Warning: Citation `meng1994multiple' on page 7 undefined on inpu
-t line 83.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 7 undefined on 
-input line 83.
-
-[7]
-
-Package natbib Warning: Citation `imbens2015causal' on page 8 undefined on inpu
-t line 85.
-
-
-Package natbib Warning: Citation `rubin1986statistical' on page 8 undefined on 
-input line 88.
-
-
-Package natbib Warning: Citation `little1988missing' on page 8 undefined on inp
-ut line 88.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 8 undefined on input line
- 90.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 8 undefined on input line
- 92.
-
-
-Package natbib Warning: Citation `Heitjan1991' on page 8 undefined on input lin
-e 92.
-
-
-Package natbib Warning: Citation `Morris2014' on page 8 undefined on input line
- 92.
-
-
-Package natbib Warning: Citation `Vink2014' on page 8 undefined on input line 9
-2.
-
-
-Package natbib Warning: Citation `Vink2015' on page 8 undefined on input line 9
-2.
-
-[8]
-
-Package natbib Warning: Citation `nguyen2017model' on page 9 undefined on input
- line 99.
-
-) [9]
+ [6] [7] [8]) [9]
 \openout2 = `parts/part1.aux'.
 
  (parts/part1.tex [10
@@ -1174,151 +957,23 @@ Package natbib Warning: Citation `nguyen2017model' on page 9 undefined on input
 
  (2.PC/2.PC.tex
 Chapter 2.
-
-Package natbib Warning: Citation `vonhippe2009' on page 13 undefined on input l
-ine 17.
-
-
-Package natbib Warning: Citation `vonhippe2009' on page 13 undefined on input l
-ine 17.
-
-
-Package natbib Warning: Citation `Vink2013' on page 13 undefined on input line 
-17.
-
-
-Package natbib Warning: Citation `seaman2012multiple' on page 13 undefined on i
-nput line 17.
-
 [13
 
 
 
 
 
-]
-
-Package natbib Warning: Citation `Vink2013' on page 14 undefined on input line 
-19.
-
-
-Package natbib Warning: Citation `rubin1986statistical' on page 14 undefined on
- input line 19.
-
-
-Package natbib Warning: Citation `little1988missing' on page 14 undefined on in
-put line 19.
-
-
-Package natbib Warning: Citation `seaman2012multiple' on page 14 undefined on i
-nput line 19.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 14 undefined on
- input line 21.
-
-
-Package natbib Warning: Citation `smcfcs2021' on page 14 undefined on input lin
-e 21.
-
-
-Package natbib Warning: Citation `R2018' on page 14 undefined on input line 21.
-
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 14 undefined on
- input line 21.
-
-
-Package natbib Warning: Citation `neyman1934two' on page 14 undefined on input 
-line 21.
-
-
-Package natbib Warning: Citation `Vink2013' on page 14 undefined on input line 
-21.
-
-
-Package natbib Warning: Citation `vonhippe2009' on page 14 undefined on input l
-ine 23.
-
-
-Package natbib Warning: Citation `Vink2013' on page 14 undefined on input line 
-23.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 14 undefined on
- input line 23.
-
-[14]
-
-Package natbib Warning: Citation `Vink2013' on page 15 undefined on input line 
-55.
-
-
-Package natbib Warning: Citation `little1988missing' on page 15 undefined on in
-put line 64.
-
-[15]
-
-Package natbib Warning: Citation `white2010avoiding' on page 16 undefined on in
-put line 80.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 16 undefined on input lin
-e 84.
-
-
-Package natbib Warning: Citation `white2010avoiding' on page 16 undefined on in
-put line 84.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 16 undefined on
- input line 104.
-
-[16]
-
-Package natbib Warning: Citation `meng1994multiple' on page 17 undefined on inp
-ut line 118.
-
-
-Package natbib Warning: Citation `robins2000inference' on page 17 undefined on 
-input line 118.
-
-[17]
-
-Package natbib Warning: Citation `Buuren2018' on page 18 undefined on input lin
-e 130.
-
-
-Package natbib Warning: Citation `Schouten2018' on page 18 undefined on input l
-ine 130.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 18 undefined on input lin
-e 130.
-
-[18] [19]
-
-Package natbib Warning: Citation `Buuren2018' on page 20 undefined on input lin
-e 150.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 20 undefined on
- input line 150.
-
-
-Package natbib Warning: Citation `Vink2015' on page 20 undefined on input line 
-152.
-
-
-Package natbib Warning: Citation `rubin1986statistical' on page 20 undefined on
- input line 152.
-
-
-Package natbib Warning: Citation `little1988missing' on page 20 undefined on in
-put line 152.
-
-[20]
+] [14] [15pdfTeX warning (ext4): destination with the same identifier (name{tab
+le.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 	\end{equation}
+                    ] [16] [17pdfTeX warning (ext4): destination with the same 
+identifier (name{table.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.121 	\subsection
+                  {Simulation setup}] [18] [19] [20] [21]
 Package epstopdf Info: Source file: <plots/plot2.1.eps>
 (epstopdf)                    date: 2022-09-05 16:44:12
 (epstopdf)                    size: 673468 bytes
@@ -1333,7 +988,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot2.1-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot2.1-eps-converted-to.pdf, id=623, 258.9675pt x 198.7425pt>
+<plots/plot2.1-eps-converted-to.pdf, id=858, 258.9675pt x 198.7425pt>
 File: plots/plot2.1-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.1-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.1-eps-converted-to.pdf  used on input line
@@ -1353,7 +1008,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot2.2-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot2.2-eps-converted-to.pdf, id=624, 258.9675pt x 198.7425pt>
+<plots/plot2.2-eps-converted-to.pdf, id=859, 258.9675pt x 198.7425pt>
 File: plots/plot2.2-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.2-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.2-eps-converted-to.pdf  used on input line
@@ -1366,11 +1021,11 @@ Overfull \hbox (3.0397pt too wide) in paragraph at lines 156--164
 
 
 Overfull \hbox (3.0397pt too wide) in paragraph at lines 156--164
-[] 
+[]
  []
 
 
-LaTeX Warning: Float too large for page by 141.49956pt on input line 166.
+LaTeX Warning: Float too large for page by 142.49956pt on input line 166.
 
 Package epstopdf Info: Source file: <plots/plot2.3.eps>
 (epstopdf)                    date: 2022-09-05 16:44:12
@@ -1386,7 +1041,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot2.3-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot2.3-eps-converted-to.pdf, id=625, 493.845pt x 378.41376pt>
+<plots/plot2.3-eps-converted-to.pdf, id=860, 493.845pt x 378.41376pt>
 File: plots/plot2.3-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.3-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.3-eps-converted-to.pdf  used on input line
@@ -1406,7 +1061,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot2.4-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot2.4-eps-converted-to.pdf, id=626, 493.845pt x 378.41376pt>
+<plots/plot2.4-eps-converted-to.pdf, id=861, 493.845pt x 378.41376pt>
 File: plots/plot2.4-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot2.4-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot2.4-eps-converted-to.pdf  used on input line
@@ -1419,274 +1074,73 @@ Overfull \hbox (2.99966pt too wide) in paragraph at lines 170--178
 
 
 Overfull \hbox (2.99966pt too wide) in paragraph at lines 170--178
-[] 
+[]
  []
 
 
-LaTeX Warning: Float too large for page by 143.69136pt on input line 180.
+LaTeX Warning: Float too large for page by 144.69136pt on input line 180.
 
 
-LaTeX Warning: Float too large for page by 66.03355pt on input line 245.
+LaTeX Warning: Float too large for page by 67.03355pt on input line 245.
 
 
-LaTeX Warning: Float too large for page by 40.7613pt on input line 306.
+LaTeX Warning: Float too large for page by 41.7613pt on input line 306.
 
-) [21 <./plots/plot2.1-eps-converted-to.pdf> <./plots/plot2.2-eps-converted-to.
-pdf>] [22 <./plots/plot2.3-eps-converted-to.pdf> <./plots/plot2.4-eps-converted
--to.pdf>] [23] [24]
+) [22pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.207 		\include{2.PC/2.PC}
+                            <./plots/plot2.1-eps-converted-to.pdf> <./plots/plo
+t2.2-eps-converted-to.pdf>] [23pdfTeX warning (ext4): destination with the same
+ identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.207 		\include{2.PC/2.PC}
+                            <./plots/plot2.3-eps-converted-to.pdf> <./plots/plo
+t2.4-eps-converted-to.pdf>] [24pdfTeX warning (ext4): destination with the same
+ identifier (name{table.2.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.207 		\include{2.PC/2.PC}
+                           ] [25pdfTeX warning (ext4): destination with the sam
+e identifier (name{table.2.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.207 		\include{2.PC/2.PC}
+                           ]
 \openout2 = `3.MPMM/3.MPMM.aux'.
 
- (3.MPMM/3.MPMM.tex
-Chapter 3.
-
-Package natbib Warning: Citation `white2011multiple' on page 25 undefined on in
-put line 10.
-
-
-Package natbib Warning: Citation `RubinD1987' on page 25 undefined on input lin
-e 10.
-
-[25
+ (3.MPMM/3.MPMM.tex [26
 
 
 
 
 
 ]
-
-Package natbib Warning: Citation `RubinD1987' on page 26 undefined on input lin
-e 12.
-
-
-Package natbib Warning: Citation `schafer1997analysis' on page 26 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `van1999multiple' on page 26 undefined on inpu
-t line 12.
-
-
-Package natbib Warning: Citation `van2007multiple' on page 26 undefined on inpu
-t line 12.
-
-
-Package natbib Warning: Citation `goldstein2014fitting' on page 26 undefined on
- input line 12.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 26 undefined on input lin
-e 12.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 26 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `little1988missing' on page 26 undefined on in
-put line 20.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 26 undefined on input lin
-e 22.
-
-[26]
-
-Package natbib Warning: Citation `little2019statistical' on page 27 undefined o
-n input line 25.
-
-
-Package natbib Warning: Citation `schafer1999multiple' on page 27 undefined on 
-input line 25.
-
-
-Package natbib Warning: Citation `sinharay2001use' on page 27 undefined on inpu
-t line 25.
-
-
-Package natbib Warning: Citation `allison2001missing' on page 27 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `schafer2002missing' on page 27 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `longford2001multilevel' on page 27 undefined 
-on input line 25.
-
-
-Package natbib Warning: Citation `olinsky2003comparative' on page 27 undefined 
-on input line 25.
-
-
-Package natbib Warning: Citation `allison2003missing' on page 27 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `twisk2002attrition' on page 27 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `demirtas2004modeling' on page 27 undefined on
- input line 25.
-
-
-Package natbib Warning: Citation `pigott2001missing' on page 27 undefined on in
-put line 25.
-
-
-Package natbib Warning: Citation `schafer2003multiple' on page 27 undefined on 
-input line 25.
-
-
-Package natbib Warning: Citation `seaman2013review' on page 27 undefined on inp
-ut line 25.
-
-
-Package natbib Warning: Citation `ibrahim2005missing' on page 27 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 27 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `Israels1987' on page 27 undefined on input li
-ne 38.
-
-
-Package natbib Warning: Citation `izenman1975reduced' on page 27 undefined on i
-nput line 38.
-
-
-Package natbib Warning: Citation `sun2009equivalence' on page 27 undefined on i
-nput line 38.
-
-
-Package natbib Warning: Citation `McDonald1968' on page 27 undefined on input l
-ine 48.
-
-[27]
-
-Package natbib Warning: Citation `rubin1986statistical' on page 28 undefined on
- input line 51.
-
-
-Package natbib Warning: Citation `little1988missing' on page 28 undefined on in
-put line 51.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 28 undefined on input lin
-e 51.
-
-
-Package natbib Warning: Citation `Vink2015' on page 28 undefined on input line 
-54.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 28 undefined on input lin
-e 69.
-
-
-Package natbib Warning: Citation `Vink2015' on page 28 undefined on input line 
-69.
-
-
-Package natbib Warning: Citation `Heitjan1991' on page 28 undefined on input li
-ne 69.
-
-
-Package natbib Warning: Citation `Morris2014' on page 28 undefined on input lin
-e 69.
-
-
-Package natbib Warning: Citation `Vink2014' on page 28 undefined on input line 
-69.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 28 undefined on input lin
-e 69.
-
-
-Package natbib Warning: Citation `Vink2014' on page 28 undefined on input line 
-69.
-
-
-Package natbib Warning: Citation `JamesR.Carpenter2013' on page 28 undefined on
- input line 69.
-
-[28]
-
-Package natbib Warning: Citation `seaman2012multiple' on page 29 undefined on i
-nput line 71.
-
-
+Chapter 3.
+[27] [28] [29] [30]
 Overfull \hbox (2.0363pt too wide) in paragraph at lines 76--78
 \OT1/cmr/m/n/10 dis-cusses the ex-ten-sion to cases with mul-ti-ple miss-ing pa
 t-terns. Let $[]$
  []
 
+[31] [32] [33pdfTeX warning (ext4): destination with the same identifier (name{
+table.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.172 	
+       ] [34]
 
-Package natbib Warning: Citation `rencher2003methods' on page 29 undefined on i
-nput line 98.
+LaTeX Warning: Float too large for page by 0.18785pt on input line 245.
 
-
-Package natbib Warning: Citation `van1977redundancy' on page 29 undefined on in
-put line 98.
-
-[29]
-
-Package natbib Warning: Citation `Schouten2018' on page 30 undefined on input l
-ine 135.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 30 undefined on input lin
-e 135.
-
-
-Package natbib Warning: Citation `R2018' on page 30 undefined on input line 135
-.
-
-
-Package natbib Warning: Citation `morris2019using' on page 30 undefined on inpu
-t line 137.
-
-
-Package natbib Warning: Citation `RubinD1987' on page 30 undefined on input lin
-e 137.
-
-[30] [31]
-
-Package natbib Warning: Citation `vonhippe2009' on page 32 undefined on input l
-ine 190.
-
-
-Package natbib Warning: Citation `Vink2013' on page 32 undefined on input line 
-190.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 32 undefined on
- input line 190.
-
-[32]
-
-Package natbib Warning: Citation `Jong2014' on page 33 undefined on input line 
-248.
-
-<plots/plot3.1.pdf, id=738, 614.295pt x 794.97pt>
+[35]
+<plots/plot3.1.pdf, id=1116, 614.295pt x 794.97pt>
 File: plots/plot3.1.pdf Graphic file (type pdf)
 <use plots/plot3.1.pdf>
 Package pdftex.def Info: plots/plot3.1.pdf  used on input line 257.
 (pdftex.def)             Requested size: 369.88583pt x 478.68391pt.
-[33]
-
-LaTeX Warning: Text page 34 contains only floats.
-
-
-Overfull \vbox (4.71246pt too high) has occurred while \output is active []
-
-
-[34 <./plots/plot3.1.pdf>]
+ [36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 324.
@@ -2155,102 +1609,49 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 324.
 
-[35]
-
-Package natbib Warning: Citation `Morris2014' on page 36 undefined on input lin
-e 362.
-
-[36] [37]) [38] [39] [40] [41]
+[37] [38]) [39] [40pdfTeX warning (ext4): destination with the same identifier 
+(name{table.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.208 		\include{3.MPMM/3.MPMM}
+                               ] [41pdfTeX warning (ext4): destination with the
+ same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.208 		\include{3.MPMM/3.MPMM}
+                                <./plots/plot3.1.pdf>] [42pdfTeX warning (ext4)
+: destination with the same identifier (name{table.3.3}) has been already used,
+ duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.208 		\include{3.MPMM/3.MPMM}
+                               ] [43pdfTeX warning (ext4): destination with the
+ same identifier (name{table.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.208 		\include{3.MPMM/3.MPMM}
+                               ]
 \openout2 = `parts/part2.aux'.
 
- (parts/part2.tex [42
+ (parts/part2.tex [44
 
 
 
 
 
-] [43] [44])
+] [45] [46])
 \openout2 = `4.ICE/4.ICE.aux'.
 
 
 (4.ICE/4.ICE.tex
 Chapter 4.
-
-Package natbib Warning: Citation `rubin1974estimating' on page 45 undefined on 
-input line 10.
-
-
-Package natbib Warning: Citation `hernan2010causal' on page 45 undefined on inp
-ut line 10.
-
-
-Package natbib Warning: Citation `rubin2005causal' on page 45 undefined on inpu
-t line 10.
-
-
-Package natbib Warning: Citation `ding2018causal' on page 45 undefined on input
- line 10.
-
-
-Package natbib Warning: Citation `RubinD1987' on page 45 undefined on input lin
-e 12.
-
-[45
+[47
 
 
 
 
 
-]
-
-Package natbib Warning: Citation `lamont2018identification' on page 46 undefine
-d on input line 14.
-
-
-Package natbib Warning: Citation `westreich2015imputation' on page 46 undefined
- on input line 14.
-
-
-Package natbib Warning: Citation `lamont2018identification' on page 46 undefine
-d on input line 14.
-
-
-Package natbib Warning: Citation `lamont2018identification' on page 46 undefine
-d on input line 14.
-
-
-Package natbib Warning: Citation `westreich2015imputation' on page 46 undefined
- on input line 14.
-
-
-Package natbib Warning: Citation `rassler2012statistical' on page 46 undefined 
-on input line 14.
-
-
-Package natbib Warning: Citation `imbens2015causal' on page 46 undefined on inp
-ut line 14.
-
-
-Package natbib Warning: Citation `gadbury2001evaluating' on page 46 undefined o
-n input line 14.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 46 undefined on input lin
-e 14.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 46 undefined on input lin
-e 16.
-
-
-Package natbib Warning: Citation `smink2016towards' on page 46 undefined on inp
-ut line 16.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 46 undefined on input lin
-e 16.
-
-[46]
+] [48]
 Overfull \hbox (11.2719pt too wide) in paragraph at lines 24--25
 \OT1/cmr/m/n/10 Let $[]$ de-note one of $\OML/cmm/m/it/10 p$ \OT1/cmr/m/n/10 in
 -com-plete vari-ables and $\OML/cmm/m/it/10 Y\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 
@@ -2258,85 +1659,19 @@ Overfull \hbox (11.2719pt too wide) in paragraph at lines 24--25
 ML/cmm/m/it/10 ; [] ; Y\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 j \OMS/cmsy/m/n/10  
  []
 
-
-Package natbib Warning: Citation `imbens2015causal' on page 47 undefined on inp
-ut line 26.
-
-[47]
-
-Package natbib Warning: Citation `ding2019decomposing' on page 48 undefined on 
-input line 39.
-
-
-Package natbib Warning: Citation `heckman1997making' on page 48 undefined on in
-put line 39.
-
-
-Package natbib Warning: Citation `djebbari2008heterogeneous' on page 48 undefin
-ed on input line 39.
-
-
-Package natbib Warning: Citation `heckman2005scientific' on page 48 undefined o
-n input line 68.
-
-
-Package natbib Warning: Citation `heckman2010effects' on page 48 undefined on i
-nput line 68.
-
-[48]
-
-Package natbib Warning: Citation `shamseer2015consort' on page 49 undefined on 
-input line 70.
-
-
-Package natbib Warning: Citation `araujo2016understanding' on page 49 undefined
- on input line 70.
-
-
-Package natbib Warning: Citation `gadbury2001evaluating' on page 49 undefined o
-n input line 72.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 49 undefined on input lin
-e 76.
-
-
-Package natbib Warning: Citation `schafer1997analysis' on page 49 undefined on 
-input line 78.
-
-[49]
-
-Package natbib Warning: Citation `Buuren2018' on page 50 undefined on input lin
-e 86.
-
-
-Package natbib Warning: Citation `van2007multiple' on page 50 undefined on inpu
-t line 86.
-
-
-Package natbib Warning: Citation `vink2019' on page 50 undefined on input line 
-89.
-
-<plots/potentialoutcome.png, id=853, 266.49562pt x 197.98969pt>
+[49] [50] [51] [52]
+<plots/potentialoutcome.png, id=1311, 266.49562pt x 197.98969pt>
 File: plots/potentialoutcome.png Graphic file (type png)
 <use plots/potentialoutcome.png>
 Package pdftex.def Info: plots/potentialoutcome.png  used on input line 97.
 (pdftex.def)             Requested size: 369.91953pt x 264.63713pt.
-[50]
-
-Package natbib Warning: Citation `imbens2015causal' on page 51 undefined on inp
-ut line 110.
-
-[51 <./plots/potentialoutcome.png>]
-
-Package natbib Warning: Citation `moriarity2003note' on page 52 undefined on in
-put line 112.
-
-
-Package natbib Warning: Citation `rubin1986statistical' on page 52 undefined on
- input line 112.
-
-[52] [53]
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.106 		\item D
+               erive the multivariate density of potential outcomes by combi...
+ <./plots/potentialoutcome.png>] [54] [55]
 Overfull \hbox (13.49068pt too wide) in paragraph at lines 185--187
 \OT1/cmr/m/n/10 is the par-ti-tion of $\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 : $\O
 ML/cmm/m/it/10 [] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 []$\OT1/cmr/m/n/10 , $\O
@@ -2344,192 +1679,227 @@ ML/cmm/m/it/10 [] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 [] \OT1/cmr/m/n/10 = (\O
 ML/cmm/m/it/10 [][][]; [] ; [][][]\OT1/cmr/m/n/10 )$
  []
 
-
-Package natbib Warning: Citation `goodnight1979tutorial' on page 54 undefined o
-n input line 196.
-
-
-Package natbib Warning: Citation `van2011targeted' on page 54 undefined on inpu
-t line 202.
-
-
-Package natbib Warning: Citation `van2011targeted' on page 54 undefined on inpu
-t line 206.
-
-[54]
-
-Package natbib Warning: Citation `gruber2011tmle' on page 55 undefined on input
- line 208.
-
-[55]
-<plots/plot4.1.png, id=902, 472.76625pt x 369.63094pt>
+[56] [57]
+<plots/plot4.1.png, id=1381, 472.76625pt x 369.63094pt>
 File: plots/plot4.1.png Graphic file (type png)
 <use plots/plot4.1.png>
 Package pdftex.def Info: plots/plot4.1.png  used on input line 254.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.2.png, id=903, 472.76625pt x 369.63094pt>
+<plots/plot4.2.png, id=1382, 472.76625pt x 369.63094pt>
 File: plots/plot4.2.png Graphic file (type png)
 <use plots/plot4.2.png>
 Package pdftex.def Info: plots/plot4.2.png  used on input line 254.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.3.png, id=904, 472.76625pt x 369.63094pt>
+<plots/plot4.3.png, id=1383, 472.76625pt x 369.63094pt>
 File: plots/plot4.3.png Graphic file (type png)
 <use plots/plot4.3.png>
 Package pdftex.def Info: plots/plot4.3.png  used on input line 264.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.4.png, id=905, 472.76625pt x 369.63094pt>
+<plots/plot4.4.png, id=1384, 472.76625pt x 369.63094pt>
 File: plots/plot4.4.png Graphic file (type png)
 <use plots/plot4.4.png>
 Package pdftex.def Info: plots/plot4.4.png  used on input line 264.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.5.png, id=906, 472.76625pt x 369.63094pt>
+<plots/plot4.5.png, id=1385, 472.76625pt x 369.63094pt>
 File: plots/plot4.5.png Graphic file (type png)
 <use plots/plot4.5.png>
 Package pdftex.def Info: plots/plot4.5.png  used on input line 286.
 (pdftex.def)             Requested size: 369.89597pt x 264.61124pt.
- [56 <./plots/plot4.1.png> <./plots/plot4.2.png> <./plots/plot4.3.png> <./plots
-/plot4.4.png>] [57 <./plots/plot4.5.png>]
-<plots/plot4.6.png, id=931, 472.76625pt x 369.63094pt>
+<plots/plot4.6.png, id=1387, 472.76625pt x 369.63094pt>
 File: plots/plot4.6.png Graphic file (type png)
 <use plots/plot4.6.png>
 Package pdftex.def Info: plots/plot4.6.png  used on input line 304.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.7.png, id=932, 472.76625pt x 369.63094pt>
+<plots/plot4.7.png, id=1388, 472.76625pt x 369.63094pt>
 File: plots/plot4.7.png Graphic file (type png)
 <use plots/plot4.7.png>
 Package pdftex.def Info: plots/plot4.7.png  used on input line 304.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.8.png, id=933, 472.76625pt x 369.63094pt>
+<plots/plot4.8.png, id=1389, 472.76625pt x 369.63094pt>
 File: plots/plot4.8.png Graphic file (type png)
 <use plots/plot4.8.png>
 Package pdftex.def Info: plots/plot4.8.png  used on input line 314.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.9.png, id=934, 472.76625pt x 369.63094pt>
+<plots/plot4.9.png, id=1390, 472.76625pt x 369.63094pt>
 File: plots/plot4.9.png Graphic file (type png)
 <use plots/plot4.9.png>
 Package pdftex.def Info: plots/plot4.9.png  used on input line 314.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
- [58 <./plots/plot4.6.png> <./plots/plot4.7.png> <./plots/plot4.8.png> <./plots
-/plot4.9.png>]
-<plots/ICE.COVER.png, id=952, 350.05782pt x 369.63094pt>
+ [58pdfTeX warning (ext4): destination with the same identifier (name{table.4.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.321 	F
+        urthermore, we evaluate the imputations with all possible positive p...
+]
+<plots/ICE.COVER.png, id=1405, 350.05782pt x 369.63094pt>
 File: plots/ICE.COVER.png Graphic file (type png)
 <use plots/ICE.COVER.png>
 Package pdftex.def Info: plots/ICE.COVER.png  used on input line 324.
 (pdftex.def)             Requested size: 350.05695pt x 369.63002pt.
-<plots/ICE.DIS.png, id=953, 350.05782pt x 369.63094pt>
+<plots/ICE.DIS.png, id=1406, 350.05782pt x 369.63094pt>
 File: plots/ICE.DIS.png Graphic file (type png)
 <use plots/ICE.DIS.png>
 Package pdftex.def Info: plots/ICE.DIS.png  used on input line 330.
 (pdftex.def)             Requested size: 350.05695pt x 369.63002pt.
-
-
-Package natbib Warning: Citation `hammer1996trial' on page 59 undefined on inpu
-t line 376.
-
-[59] [60 <./plots/ICE.COVER.png>]
-<plots/plot4.10.png, id=968, 472.76625pt x 369.63094pt>
+ [59pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.336 		
+         <./plots/plot4.1.png> <./plots/plot4.2.png> <./plots/plot4.3.png> <./p
+lots/plot4.4.png>] [60pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.4.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.374 	\section
+               {Application} <./plots/plot4.5.png>] [61pdfTeX warning (ext4): d
+estination with the same identifier (name{figure.4.4}) has been already used, d
+uplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.377 	
+        <./plots/plot4.6.png> <./plots/plot4.7.png> <./plots/plot4.8.png> <./pl
+ots/plot4.9.png>] [62pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.379 	
+        <./plots/ICE.COVER.png>]
+<plots/plot4.10.png, id=1449, 472.76625pt x 369.63094pt>
 File: plots/plot4.10.png Graphic file (type png)
 <use plots/plot4.10.png>
 Package pdftex.def Info: plots/plot4.10.png  used on input line 391.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.11.png, id=969, 472.76625pt x 369.63094pt>
+<plots/plot4.11.png, id=1450, 472.76625pt x 369.63094pt>
 File: plots/plot4.11.png Graphic file (type png)
 <use plots/plot4.11.png>
 Package pdftex.def Info: plots/plot4.11.png  used on input line 391.
 (pdftex.def)             Requested size: 236.38254pt x 184.815pt.
-<plots/plot4.12.png, id=970, 465.99094pt x 369.63094pt>
+<plots/plot4.12.png, id=1451, 465.99094pt x 369.63094pt>
 File: plots/plot4.12.png Graphic file (type png)
 <use plots/plot4.12.png>
 Package pdftex.def Info: plots/plot4.12.png  used on input line 408.
 (pdftex.def)             Requested size: 232.99489pt x 184.815pt.
-<plots/plot4.13.png, id=971, 465.99094pt x 369.63094pt>
+<plots/plot4.13.png, id=1452, 465.99094pt x 369.63094pt>
 File: plots/plot4.13.png Graphic file (type png)
 <use plots/plot4.13.png>
 Package pdftex.def Info: plots/plot4.13.png  used on input line 408.
 (pdftex.def)             Requested size: 232.99489pt x 184.815pt.
-<plots/indiv01.png, id=974, 150.5625pt x 451.6875pt>
+<plots/indiv01.png, id=1455, 150.5625pt x 451.6875pt>
 File: plots/indiv01.png Graphic file (type png)
 <use plots/indiv01.png>
 Package pdftex.def Info: plots/indiv01.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv02.png, id=975, 150.5625pt x 451.6875pt>
+<plots/indiv02.png, id=1456, 150.5625pt x 451.6875pt>
 File: plots/indiv02.png Graphic file (type png)
 <use plots/indiv02.png>
 Package pdftex.def Info: plots/indiv02.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv03.png, id=976, 150.5625pt x 451.6875pt>
+<plots/indiv03.png, id=1457, 150.5625pt x 451.6875pt>
 File: plots/indiv03.png Graphic file (type png)
 <use plots/indiv03.png>
 Package pdftex.def Info: plots/indiv03.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv04.png, id=977, 150.5625pt x 451.6875pt>
+<plots/indiv04.png, id=1458, 150.5625pt x 451.6875pt>
 File: plots/indiv04.png Graphic file (type png)
 <use plots/indiv04.png>
 Package pdftex.def Info: plots/indiv04.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv05.png, id=978, 150.5625pt x 451.6875pt>
+<plots/indiv05.png, id=1459, 150.5625pt x 451.6875pt>
 File: plots/indiv05.png Graphic file (type png)
 <use plots/indiv05.png>
 Package pdftex.def Info: plots/indiv05.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv06.png, id=979, 150.5625pt x 451.6875pt>
+<plots/indiv06.png, id=1460, 150.5625pt x 451.6875pt>
 File: plots/indiv06.png Graphic file (type png)
 <use plots/indiv06.png>
 Package pdftex.def Info: plots/indiv06.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv07.png, id=980, 150.5625pt x 451.6875pt>
+<plots/indiv07.png, id=1461, 150.5625pt x 451.6875pt>
 File: plots/indiv07.png Graphic file (type png)
 <use plots/indiv07.png>
 Package pdftex.def Info: plots/indiv07.png  used on input line 445.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
- [61 <./plots/ICE.DIS.png>]
+ [63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.450 	
+        <./plots/ICE.DIS.png>]
 
-LaTeX Warning: Text page 62 contains only floats.
+LaTeX Warning: Text page 64 contains only floats.
 
-[62 <./plots/plot4.10.png> <./plots/plot4.11.png>]
-<plots/indiv71.png, id=995, 150.5625pt x 451.6875pt>
+[64pdfTeX warning (ext4): destination with the same identifier (name{table.4.2}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.450 	
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.4.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.450 	
+        <./plots/plot4.10.png> <./plots/plot4.11.png>]
+<plots/indiv71.png, id=1477, 150.5625pt x 451.6875pt>
 File: plots/indiv71.png Graphic file (type png)
 <use plots/indiv71.png>
 Package pdftex.def Info: plots/indiv71.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv72.png, id=996, 150.5625pt x 451.6875pt>
+<plots/indiv72.png, id=1478, 150.5625pt x 451.6875pt>
 File: plots/indiv72.png Graphic file (type png)
 <use plots/indiv72.png>
 Package pdftex.def Info: plots/indiv72.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv73.png, id=997, 150.5625pt x 451.6875pt>
+<plots/indiv73.png, id=1479, 150.5625pt x 451.6875pt>
 File: plots/indiv73.png Graphic file (type png)
 <use plots/indiv73.png>
 Package pdftex.def Info: plots/indiv73.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv74.png, id=998, 150.5625pt x 451.6875pt>
+<plots/indiv74.png, id=1480, 150.5625pt x 451.6875pt>
 File: plots/indiv74.png Graphic file (type png)
 <use plots/indiv74.png>
 Package pdftex.def Info: plots/indiv74.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv75.png, id=999, 150.5625pt x 451.6875pt>
+<plots/indiv75.png, id=1481, 150.5625pt x 451.6875pt>
 File: plots/indiv75.png Graphic file (type png)
 <use plots/indiv75.png>
 Package pdftex.def Info: plots/indiv75.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv76.png, id=1000, 150.5625pt x 451.6875pt>
+<plots/indiv76.png, id=1482, 150.5625pt x 451.6875pt>
 File: plots/indiv76.png Graphic file (type png)
 <use plots/indiv76.png>
 Package pdftex.def Info: plots/indiv76.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
-<plots/indiv77.png, id=1001, 150.5625pt x 451.6875pt>
+<plots/indiv77.png, id=1483, 150.5625pt x 451.6875pt>
 File: plots/indiv77.png Graphic file (type png)
 <use plots/indiv77.png>
 Package pdftex.def Info: plots/indiv77.png  used on input line 482.
 (pdftex.def)             Requested size: 75.28105pt x 225.84319pt.
- [63 <./plots/plot4.12.png> <./plots/plot4.13.png>] [64 <./plots/indiv01.png> <
-./plots/indiv02.png> <./plots/indiv03.png> <./plots/indiv04.png> <./plots/indiv
-05.png> <./plots/indiv06.png> <./plots/indiv07.png> <./plots/indiv71.png> <./pl
-ots/indiv72.png> <./plots/indiv73.png> <./plots/indiv74.png> <./plots/indiv75.p
-ng> <./plots/indiv76.png> <./plots/indiv77.png>]) [65]
+ [65pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.492 	
+        <./plots/plot4.12.png> <./plots/plot4.13.png>] [66pdfTeX warning (ext4)
+: destination with the same identifier (name{figure.4.9}) has been already used
+, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.494 	
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.4.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.494 	
+        <./plots/indiv01.png> <./plots/indiv02.png> <./plots/indiv03.png> <./pl
+ots/indiv04.png> <./plots/indiv05.png> <./plots/indiv06.png> <./plots/indiv07.p
+ng> <./plots/indiv71.png> <./plots/indiv72.png> <./plots/indiv73.png> <./plots/
+indiv74.png> <./plots/indiv75.png> <./plots/indiv76.png> <./plots/indiv77.png>]
+) [67]
 \openout2 = `5.Compatibility/5.Compatibility.aux'.
 
- (5.Compatibility/5.Compatibility.tex [66
+ (5.Compatibility/5.Compatibility.tex [68
 
 
 
@@ -2537,149 +1907,12 @@ ng> <./plots/indiv76.png> <./plots/indiv77.png>]) [65]
 
 ]
 Chapter 5.
-
-Package natbib Warning: Citation `RubinD1987' on page 67 undefined on input lin
-e 9.
-
-
-Package natbib Warning: Citation `jackman2004bayesian' on page 67 undefined on 
-input line 9.
-
-
-Package natbib Warning: Citation `mccarthy2005profiting' on page 67 undefined o
-n input line 9.
-
-
-Package natbib Warning: Citation `laptook2017effect' on page 67 undefined on in
-put line 9.
-
-[67]
-
-Package natbib Warning: Citation `van2007multiple' on page 68 undefined on inpu
-t line 13.
-
-
-Package natbib Warning: Citation `hughes2014joint' on page 68 undefined on inpu
-t line 13.
-
-
-Package natbib Warning: Citation `liu2014stationary' on page 68 undefined on in
-put line 15.
-
-
-Package natbib Warning: Citation `liu2014stationary' on page 68 undefined on in
-put line 15.
-
-
-Package natbib Warning: Citation `hughes2014joint' on page 68 undefined on inpu
-t line 15.
-
-
-Package natbib Warning: Citation `hughes2014joint' on page 68 undefined on inpu
-t line 15.
-
-
-Package natbib Warning: Citation `zhu2015convergence' on page 68 undefined on i
-nput line 15.
-
-[68]
-
-Package natbib Warning: Citation `Buuren2018' on page 69 undefined on input lin
-e 32.
-
-
-Package natbib Warning: Citation `oberman2020missing' on page 69 undefined on i
-nput line 32.
-
-
-Package natbib Warning: Citation `van2007multiple' on page 69 undefined on inpu
-t line 34.
-
-[69]
-
-Package natbib Warning: Citation `Buuren2018' on page 70 undefined on input lin
-e 36.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 70 undefined on input lin
-e 36.
-
-
-Package natbib Warning: Citation `liu2014stationary' on page 70 undefined on in
-put line 39.
-
-
-Package natbib Warning: Citation `liu2014stationary' on page 70 undefined on in
-put line 48.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 70 undefined on
- input line 48.
-
-
-Package natbib Warning: Citation `arnold1989compatible' on page 70 undefined on
- input line 50.
-
-
-Package natbib Warning: Citation `arnold2004compatibility' on page 70 undefined
- on input line 50.
-
-
-Package natbib Warning: Citation `heckerman2000dependency' on page 70 undefined
- on input line 50.
-
-
-Package natbib Warning: Citation `van2006fully' on page 70 undefined on input l
-ine 50.
-
-
-Package natbib Warning: Citation `hughes2014joint' on page 70 undefined on inpu
-t line 50.
-
-
-Package natbib Warning: Citation `liu2014stationary' on page 70 undefined on in
-put line 50.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 70 undefined on input lin
-e 50.
-
-
-Package natbib Warning: Citation `raghunathan2001multivariate' on page 70 undef
-ined on input line 50.
-
-
-Package natbib Warning: Citation `van2006fully' on page 70 undefined on input l
-ine 50.
-
-[70]
-
-Package natbib Warning: Citation `hughes2014joint' on page 71 undefined on inpu
-t line 53.
-
-
-Package natbib Warning: Citation `hughes2014joint' on page 71 undefined on inpu
-t line 53.
-
-[71]
-
-Package natbib Warning: Citation `Eation2007' on page 72 undefined on input lin
-e 94.
-
-[72]
-
-Package natbib Warning: Citation `RubinD1987' on page 73 undefined on input lin
-e 142.
-
-
-Package natbib Warning: Citation `Goodrich2019' on page 73 undefined on input l
-ine 142.
-
-[73]
-
-Package natbib Warning: Citation `albert2009bayesian' on page 74 undefined on i
-nput line 187.
-
+[69] [70] [71] [72] [73] [74] [75] [76pdfTeX warning (ext4): destination with t
+he same identifier (name{table.5.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 	\end{enumerate}
+                      ]
 Package epstopdf Info: Source file: <plots/plot5.1.eps>
 (epstopdf)                    date: 2022-09-05 16:44:12
 (epstopdf)                    size: 673629 bytes
@@ -2694,609 +1927,431 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./plots/plot5.1-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/plot5.1-eps-converted-to.pdf, id=1095, 258.9675pt x 198.7425pt>
+<plots/plot5.1-eps-converted-to.pdf, id=1667, 258.9675pt x 198.7425pt>
 File: plots/plot5.1-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/plot5.1-eps-converted-to.pdf>
 Package pdftex.def Info: plots/plot5.1-eps-converted-to.pdf  used on input line
  190.
 (pdftex.def)             Requested size: 181.27599pt x 139.11879pt.
-[74]
-
-Package natbib Warning: Citation `hughes2014joint' on page 75 undefined on inpu
-t line 198.
-
-[75 <./plots/plot5.1-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Buuren2018' on page 76 undefined on input lin
-e 205.
-
-) [76]
+[77pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.199 	
+        <./plots/plot5.1-eps-converted-to.pdf>]) [78]
 \openout2 = `parts/part3.aux'.
 
- (parts/part3.tex [77
-
-
-
-
-
-] [78])
-\openout2 = `6.PPC/6.PPC.aux'.
-
- (6.PPC/6.PPC.tex
-Chapter 6.
-
-Package natbib Warning: Citation `RubinD1987' on page 79 undefined on input lin
-e 10.
-
-
-Package natbib Warning: Citation `meng1994multiple' on page 79 undefined on inp
-ut line 12.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 79 undefined on input lin
-e 14.
-
-
-Package natbib Warning: Citation `abayomi2008diagnostics' on page 79 undefined 
-on input line 14.
-
-
-Package natbib Warning: Citation `abayomi2008diagnostics' on page 79 undefined 
-on input line 14.
-
-[79
+ (parts/part3.tex [79
 
 
 
 
 
 ]
+[80])
+\openout2 = `6.PPC/6.PPC.aux'.
 
-Package natbib Warning: Citation `bondarenko2016graphical' on page 80 undefined
- on input line 16.
-
-
-Package natbib Warning: Citation `gelman1998not' on page 80 undefined on input 
-line 16.
-
-
-Package natbib Warning: Citation `gelman2005multiple' on page 80 undefined on i
-nput line 16.
+ (6.PPC/6.PPC.tex
+Chapter 6.
+[81
 
 
-Package natbib Warning: Citation `white2011multiple' on page 80 undefined on in
-put line 16.
 
 
-Package natbib Warning: Citation `nguyen2017model' on page 80 undefined on inpu
-t line 16.
 
-
-Package natbib Warning: Citation `gelman2005multiple' on page 80 undefined on i
-nput line 18.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 80 undefined on inp
-ut line 18.
-
-
-Package natbib Warning: Citation `nguyen2015posterior' on page 80 undefined on 
-input line 18.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 80 undefined on inp
-ut line 20.
-
-
-Package natbib Warning: Citation `nguyen2015posterior' on page 80 undefined on 
-input line 20.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 80 undefined on input lin
-e 27.
-
-[80]
-
-Package natbib Warning: Citation `he2012diagnosing' on page 81 undefined on inp
-ut line 30.
-
-
-Package natbib Warning: Citation `gelman2013bayesian' on page 81 undefined on i
-nput line 41.
-
-
-Package natbib Warning: Citation `gelman2013bayesian' on page 81 undefined on i
-nput line 50.
-
-
-Package natbib Warning: Citation `gelman2005multiple' on page 81 undefined on i
-nput line 52.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 81 undefined on inp
-ut line 52.
-
-
-Package natbib Warning: Citation `nguyen2015posterior' on page 81 undefined on 
-input line 52.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 81 undefined on inp
-ut line 52.
-
-[81]
-
-Package natbib Warning: Citation `he2012diagnosing' on page 82 undefined on inp
-ut line 68.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 82 undefined on inp
-ut line 75.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 82 undefined on inp
-ut line 75.
-
-[82]
-
-Package natbib Warning: Citation `he2012diagnosing' on page 83 undefined on inp
-ut line 91.
-
-
-Package natbib Warning: Citation `nguyen2015posterior' on page 83 undefined on 
-input line 91.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 83 undefined on inp
-ut line 91.
-
-
-Package natbib Warning: Citation `van2007multiple' on page 83 undefined on inpu
-t line 101.
-
-<plots/miflow.png, id=1162, 1328.965pt x 800.9925pt>
+] [82] [83] [84] [85]
+<plots/miflow.png, id=1807, 1328.965pt x 800.9925pt>
 File: plots/miflow.png Graphic file (type png)
 <use plots/miflow.png>
 Package pdftex.def Info: plots/miflow.png  used on input line 106.
 (pdftex.def)             Requested size: 265.78828pt x 160.19566pt.
-
-Package natbib Warning: Citation `Buuren2011' on page 83 undefined on input lin
-e 107.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 83 undefined on input lin
-e 110.
-
-[83]
-
-Package natbib Warning: Citation `little1988missing' on page 84 undefined on in
-put line 112.
-
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 116.
+
 (C:\Users\mingyang\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
 File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-
-Package natbib Warning: Citation `de2011handbook' on page 84 undefined on input
- line 128.
-
-
-Package natbib Warning: Citation `siddique2008multiple' on page 84 undefined on
- input line 128.
-
-
-Package natbib Warning: Citation `su2011multiple' on page 84 undefined on input
- line 128.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 84 undefined on input lin
-e 128.
-
-
-Package natbib Warning: Citation `Buuren2011' on page 84 undefined on input lin
-e 128.
-
-
-Package natbib Warning: Citation `Vink2014' on page 84 undefined on input line 
-128.
-
-
-Package natbib Warning: Citation `white2011multiple' on page 84 undefined on in
-put line 128.
-
-
-Package natbib Warning: Citation `Vink2015' on page 84 undefined on input line 
-128.
-
-
-Package natbib Warning: Citation `yu2007evaluation' on page 84 undefined on inp
-ut line 128.
-
-
-Package natbib Warning: Citation `heeringa2001multivariate' on page 84 undefine
-d on input line 128.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 84 undefined on input lin
-e 128.
-
-
-Package natbib Warning: Citation `Vink2014' on page 84 undefined on input line 
-128.
-
-
-Package natbib Warning: Citation `Vink2015' on page 84 undefined on input line 
-128.
-
-
-Package natbib Warning: Citation `white2011multiple' on page 84 undefined on in
-put line 128.
-
-
-Package natbib Warning: Citation `yu2007evaluation' on page 84 undefined on inp
-ut line 128.
-
-
-Package natbib Warning: Citation `hoogland2020handling' on page 84 undefined on
- input line 128.
-
-[84 <./plots/miflow.png>]
-
-Package natbib Warning: Citation `he2012diagnosing' on page 85 undefined on inp
-ut line 130.
-
-
-Package natbib Warning: Citation `volker2021anonymiced' on page 85 undefined on
- input line 132.
-
-
+[86pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.127 	\end{equation}
+                      <./plots/miflow.png>]
 Overfull \hbox (4.33304pt too wide) in paragraph at lines 135--136
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
-Package natbib Warning: Citation `Schouten2018' on page 85 undefined on input l
-ine 143.
-
-[85]
-
-Package natbib Warning: Citation `Vink2013' on page 86 undefined on input line 
-156.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 86 undefined on
- input line 156.
-
-[86] [87]
-
-Package natbib Warning: Citation `Vink2013' on page 88 undefined on input line 
-178.
-
-
-Package natbib Warning: Citation `bartlett2015multiple' on page 88 undefined on
- input line 180.
-
-[88]
-
-Package natbib Warning: Citation `Buuren2018' on page 89 undefined on input lin
-e 188.
-
-[89]
-
-Package natbib Warning: Citation `krul2011self' on page 90 undefined on input l
-ine 190.
-
-
-Package natbib Warning: Citation `Buuren2018' on page 90 undefined on input lin
-e 190.
-
-[90] [91]
-
-Package natbib Warning: Citation `he2012diagnosing' on page 92 undefined on inp
-ut line 214.
-
-
-Package natbib Warning: Citation `gelman2005multiple' on page 92 undefined on i
-nput line 214.
-
-
-Package natbib Warning: Citation `he2012diagnosing' on page 92 undefined on inp
-ut line 214.
-
-
-Package natbib Warning: Citation `nguyen2015posterior' on page 92 undefined on 
-input line 214.
-
-[92] [93]
-<plots/plot6.1.png, id=1262, 363.60844pt x 377.91188pt>
+[87] [88] [89] [90] [91] [92] [93] [94] [95]
+<plots/plot6.1.png, id=1976, 363.60844pt x 377.91188pt>
 File: plots/plot6.1.png Graphic file (type png)
 <use plots/plot6.1.png>
 Package pdftex.def Info: plots/plot6.1.png  used on input line 318.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.2.png, id=1263, 363.60844pt x 377.91188pt>
+<plots/plot6.2.png, id=1977, 363.60844pt x 377.91188pt>
 File: plots/plot6.2.png Graphic file (type png)
 <use plots/plot6.2.png>
 Package pdftex.def Info: plots/plot6.2.png  used on input line 318.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.3.png, id=1264, 356.83313pt x 377.91188pt>
+<plots/plot6.3.png, id=1978, 356.83313pt x 377.91188pt>
 File: plots/plot6.3.png Graphic file (type png)
 <use plots/plot6.3.png>
 Package pdftex.def Info: plots/plot6.3.png  used on input line 335.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.4.png, id=1265, 356.83313pt x 377.91188pt>
+<plots/plot6.4.png, id=1979, 356.83313pt x 377.91188pt>
 File: plots/plot6.4.png Graphic file (type png)
 <use plots/plot6.4.png>
 Package pdftex.def Info: plots/plot6.4.png  used on input line 335.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.5.png, id=1266, 356.83313pt x 377.91188pt>
+<plots/plot6.5.png, id=1980, 356.83313pt x 377.91188pt>
 File: plots/plot6.5.png Graphic file (type png)
 <use plots/plot6.5.png>
 Package pdftex.def Info: plots/plot6.5.png  used on input line 345.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.6.png, id=1267, 356.83313pt x 377.91188pt>
+<plots/plot6.6.png, id=1981, 356.83313pt x 377.91188pt>
 File: plots/plot6.6.png Graphic file (type png)
 <use plots/plot6.6.png>
 Package pdftex.def Info: plots/plot6.6.png  used on input line 345.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.7.png, id=1268, 363.60844pt x 377.91188pt>
+<plots/plot6.7.png, id=1982, 363.60844pt x 377.91188pt>
 File: plots/plot6.7.png Graphic file (type png)
 <use plots/plot6.7.png>
 Package pdftex.def Info: plots/plot6.7.png  used on input line 362.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.8.png, id=1269, 363.60844pt x 377.91188pt>
+<plots/plot6.8.png, id=1983, 363.60844pt x 377.91188pt>
 File: plots/plot6.8.png Graphic file (type png)
 <use plots/plot6.8.png>
 Package pdftex.def Info: plots/plot6.8.png  used on input line 362.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.9.png, id=1270, 363.60844pt x 377.91188pt>
+<plots/plot6.9.png, id=1984, 363.60844pt x 377.91188pt>
 File: plots/plot6.9.png Graphic file (type png)
 <use plots/plot6.9.png>
 Package pdftex.def Info: plots/plot6.9.png  used on input line 383.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.10.png, id=1271, 363.60844pt x 377.91188pt>
+<plots/plot6.10.png, id=1985, 363.60844pt x 377.91188pt>
 File: plots/plot6.10.png Graphic file (type png)
 <use plots/plot6.10.png>
 Package pdftex.def Info: plots/plot6.10.png  used on input line 383.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.11.png, id=1272, 363.60844pt x 377.91188pt>
+<plots/plot6.11.png, id=1986, 363.60844pt x 377.91188pt>
 File: plots/plot6.11.png Graphic file (type png)
 <use plots/plot6.11.png>
 Package pdftex.def Info: plots/plot6.11.png  used on input line 383.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.12.png, id=1273, 363.60844pt x 377.91188pt>
+<plots/plot6.12.png, id=1987, 363.60844pt x 377.91188pt>
 File: plots/plot6.12.png Graphic file (type png)
 <use plots/plot6.12.png>
 Package pdftex.def Info: plots/plot6.12.png  used on input line 404.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.13.png, id=1274, 363.60844pt x 377.91188pt>
+<plots/plot6.13.png, id=1988, 363.60844pt x 377.91188pt>
 File: plots/plot6.13.png Graphic file (type png)
 <use plots/plot6.13.png>
 Package pdftex.def Info: plots/plot6.13.png  used on input line 404.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.14.png, id=1275, 363.60844pt x 377.91188pt>
+<plots/plot6.14.png, id=1989, 363.60844pt x 377.91188pt>
 File: plots/plot6.14.png Graphic file (type png)
 <use plots/plot6.14.png>
 Package pdftex.def Info: plots/plot6.14.png  used on input line 404.
 (pdftex.def)             Requested size: 181.80377pt x 188.95547pt.
-<plots/plot6.15.png, id=1276, 356.83313pt x 377.91188pt>
+<plots/plot6.15.png, id=1990, 356.83313pt x 377.91188pt>
 File: plots/plot6.15.png Graphic file (type png)
 <use plots/plot6.15.png>
 Package pdftex.def Info: plots/plot6.15.png  used on input line 426.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.16.png, id=1277, 356.83313pt x 377.91188pt>
+<plots/plot6.16.png, id=1991, 356.83313pt x 377.91188pt>
 File: plots/plot6.16.png Graphic file (type png)
 <use plots/plot6.16.png>
 Package pdftex.def Info: plots/plot6.16.png  used on input line 426.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.17.png, id=1278, 356.83313pt x 377.91188pt>
+<plots/plot6.17.png, id=1992, 356.83313pt x 377.91188pt>
 File: plots/plot6.17.png Graphic file (type png)
 <use plots/plot6.17.png>
 Package pdftex.def Info: plots/plot6.17.png  used on input line 426.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.18.png, id=1279, 356.83313pt x 377.91188pt>
+<plots/plot6.18.png, id=1993, 356.83313pt x 377.91188pt>
 File: plots/plot6.18.png Graphic file (type png)
 <use plots/plot6.18.png>
 Package pdftex.def Info: plots/plot6.18.png  used on input line 443.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/plot6.19.png, id=1280, 356.83313pt x 377.91188pt>
+<plots/plot6.19.png, id=1994, 356.83313pt x 377.91188pt>
 File: plots/plot6.19.png Graphic file (type png)
 <use plots/plot6.19.png>
 Package pdftex.def Info: plots/plot6.19.png  used on input line 443.
 (pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
-<plots/densitycase1.png, id=1281, 356.83313pt x 377.91188pt>
+<plots/densitycase1.png, id=1995, 356.83313pt x 377.91188pt>
 File: plots/densitycase1.png Graphic file (type png)
 <use plots/densitycase1.png>
 Package pdftex.def Info: plots/densitycase1.png  used on input line 454.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase1hm.png, id=1282, 356.83313pt x 377.91188pt>
+<plots/scattercase1hm.png, id=1996, 356.83313pt x 377.91188pt>
 File: plots/scattercase1hm.png Graphic file (type png)
 <use plots/scattercase1hm.png>
 Package pdftex.def Info: plots/scattercase1hm.png  used on input line 455.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase1wm.png, id=1283, 356.83313pt x 377.91188pt>
+<plots/scattercase1wm.png, id=1997, 356.83313pt x 377.91188pt>
 File: plots/scattercase1wm.png Graphic file (type png)
 <use plots/scattercase1wm.png>
 Package pdftex.def Info: plots/scattercase1wm.png  used on input line 456.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/distributioncase1hm.png, id=1284, 363.60844pt x 377.91188pt>
+<plots/distributioncase1hm.png, id=1998, 363.60844pt x 377.91188pt>
 File: plots/distributioncase1hm.png Graphic file (type png)
 <use plots/distributioncase1hm.png>
 Package pdftex.def Info: plots/distributioncase1hm.png  used on input line 460.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/distributioncase1wm.png, id=1285, 363.60844pt x 377.91188pt>
+<plots/distributioncase1wm.png, id=1999, 363.60844pt x 377.91188pt>
 File: plots/distributioncase1wm.png Graphic file (type png)
 <use plots/distributioncase1wm.png>
 Package pdftex.def Info: plots/distributioncase1wm.png  used on input line 461.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/densitycase2.png, id=1286, 356.83313pt x 377.91188pt>
+<plots/densitycase2.png, id=2000, 356.83313pt x 377.91188pt>
 File: plots/densitycase2.png Graphic file (type png)
 <use plots/densitycase2.png>
 Package pdftex.def Info: plots/densitycase2.png  used on input line 472.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase2hm.png, id=1287, 356.83313pt x 377.91188pt>
+<plots/scattercase2hm.png, id=2001, 356.83313pt x 377.91188pt>
 File: plots/scattercase2hm.png Graphic file (type png)
 <use plots/scattercase2hm.png>
 Package pdftex.def Info: plots/scattercase2hm.png  used on input line 473.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase2wm.png, id=1288, 356.83313pt x 377.91188pt>
+<plots/scattercase2wm.png, id=2002, 356.83313pt x 377.91188pt>
 File: plots/scattercase2wm.png Graphic file (type png)
 <use plots/scattercase2wm.png>
 Package pdftex.def Info: plots/scattercase2wm.png  used on input line 474.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/distributioncase2hm.png, id=1289, 363.60844pt x 377.91188pt>
+<plots/distributioncase2hm.png, id=2003, 363.60844pt x 377.91188pt>
 File: plots/distributioncase2hm.png Graphic file (type png)
 <use plots/distributioncase2hm.png>
 Package pdftex.def Info: plots/distributioncase2hm.png  used on input line 478.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/distributioncase2wm.png, id=1290, 363.60844pt x 377.91188pt>
+<plots/distributioncase2wm.png, id=2004, 363.60844pt x 377.91188pt>
 File: plots/distributioncase2wm.png Graphic file (type png)
 <use plots/distributioncase2wm.png>
 Package pdftex.def Info: plots/distributioncase2wm.png  used on input line 479.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/densitycase3.png, id=1291, 356.83313pt x 377.91188pt>
+<plots/densitycase3.png, id=2005, 356.83313pt x 377.91188pt>
 File: plots/densitycase3.png Graphic file (type png)
 <use plots/densitycase3.png>
 Package pdftex.def Info: plots/densitycase3.png  used on input line 489.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase3hm.png, id=1292, 356.83313pt x 377.91188pt>
+<plots/scattercase3hm.png, id=2006, 356.83313pt x 377.91188pt>
 File: plots/scattercase3hm.png Graphic file (type png)
 <use plots/scattercase3hm.png>
 Package pdftex.def Info: plots/scattercase3hm.png  used on input line 490.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase3wm.png, id=1293, 356.83313pt x 377.91188pt>
+<plots/scattercase3wm.png, id=2007, 356.83313pt x 377.91188pt>
 File: plots/scattercase3wm.png Graphic file (type png)
 <use plots/scattercase3wm.png>
 Package pdftex.def Info: plots/scattercase3wm.png  used on input line 491.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/distributioncase3hm.png, id=1294, 363.60844pt x 377.91188pt>
+<plots/distributioncase3hm.png, id=2008, 363.60844pt x 377.91188pt>
 File: plots/distributioncase3hm.png Graphic file (type png)
 <use plots/distributioncase3hm.png>
 Package pdftex.def Info: plots/distributioncase3hm.png  used on input line 495.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/distributioncase3wm.png, id=1295, 363.60844pt x 377.91188pt>
+<plots/distributioncase3wm.png, id=2009, 363.60844pt x 377.91188pt>
 File: plots/distributioncase3wm.png Graphic file (type png)
 <use plots/distributioncase3wm.png>
 Package pdftex.def Info: plots/distributioncase3wm.png  used on input line 496.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/densitycase4.png, id=1296, 356.83313pt x 377.91188pt>
+<plots/densitycase4.png, id=2010, 356.83313pt x 377.91188pt>
 File: plots/densitycase4.png Graphic file (type png)
 <use plots/densitycase4.png>
 Package pdftex.def Info: plots/densitycase4.png  used on input line 507.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase4hm.png, id=1297, 356.83313pt x 377.91188pt>
+<plots/scattercase4hm.png, id=2011, 356.83313pt x 377.91188pt>
 File: plots/scattercase4hm.png Graphic file (type png)
 <use plots/scattercase4hm.png>
 Package pdftex.def Info: plots/scattercase4hm.png  used on input line 508.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/scattercase4wm.png, id=1298, 356.83313pt x 377.91188pt>
+<plots/scattercase4wm.png, id=2012, 356.83313pt x 377.91188pt>
 File: plots/scattercase4wm.png Graphic file (type png)
 <use plots/scattercase4wm.png>
 Package pdftex.def Info: plots/scattercase4wm.png  used on input line 509.
 (pdftex.def)             Requested size: 110.96687pt x 117.52052pt.
-<plots/distributioncase4hm.png, id=1299, 363.60844pt x 377.91188pt>
+<plots/distributioncase4hm.png, id=2013, 363.60844pt x 377.91188pt>
 File: plots/distributioncase4hm.png Graphic file (type png)
 <use plots/distributioncase4hm.png>
 Package pdftex.def Info: plots/distributioncase4hm.png  used on input line 513.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-<plots/distributioncase4wm.png, id=1300, 363.60844pt x 377.91188pt>
+<plots/distributioncase4wm.png, id=2014, 363.60844pt x 377.91188pt>
 File: plots/distributioncase4wm.png Graphic file (type png)
 <use plots/distributioncase4wm.png>
 Package pdftex.def Info: plots/distributioncase4wm.png  used on input line 514.
 
 (pdftex.def)             Requested size: 110.96687pt x 115.32925pt.
-) [94 <./plots/plot6.1.png> <./plots/plot6.2.png>] [95] [96] [97]
-[98] [99 <./plots/plot6.3.png> <./plots/plot6.4.png> <./plots/plot6.5.png> <./p
-lots/plot6.6.png>] [100 <./plots/plot6.7.png> <./plots/plot6.8.png>] [101 <./pl
-ots/plot6.9.png> <./plots/plot6.10.png> <./plots/plot6.11.png>] [102 <./plots/p
-lot6.12.png> <./plots/plot6.13.png> <./plots/plot6.14.png>] [103 <./plots/plot6
-.15.png> <./plots/plot6.16.png> <./plots/plot6.17.png>] [104 <./plots/plot6.18.
-png> <./plots/plot6.19.png>] [105 <./plots/densitycase1.png> <./plots/scatterca
-se1hm.png> <./plots/scattercase1wm.png> <./plots/distributioncase1hm.png> <./pl
-ots/distributioncase1wm.png>] [106 <./plots/densitycase2.png> <./plots/scatterc
-ase2hm.png> <./plots/scattercase2wm.png> <./plots/distributioncase2hm.png> <./p
-lots/distributioncase2wm.png>] [107 <./plots/densitycase3.png> <./plots/scatter
-case3hm.png> <./plots/scattercase3wm.png> <./plots/distributioncase3hm.png> <./
-plots/distributioncase3wm.png>] [108 <./plots/densitycase4.png> <./plots/scatte
-rcase4hm.png> <./plots/scattercase4wm.png> <./plots/distributioncase4hm.png> <.
-/plots/distributioncase4wm.png>] (dissertation.bbl)
+) [96pdfTeX warning (ext4): destination with the same identifier (name{figure.6
+.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.1.png> <./plots/plot6.2.png>]
+[97pdfTeX warning (ext4): destination with the same identifier (name{table.6.1}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             ] [98pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.6.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             ] [99pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.6.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             ] [100pdfTeX warning (ext4): destination with the 
+same identifier (name{table.6.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.6.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.6.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                             ] [101pdfTeX warning (ext4): destination with the 
+same identifier (name{figure.6.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.3.png> <./plots/plot6.4.png> <./pl
+ots/plot6.5.png> <./plots/plot6.6.png>] [102pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.6.4}) has been already used, duplicate ig
+nored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.7.png> <./plots/plot6.8.png>]
+[103pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.9.png> <./plots/plot6.10.png> <./p
+lots/plot6.11.png>] [104pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.6.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.12.png> <./plots/plot6.13.png> <./
+plots/plot6.14.png>] [105pdfTeX warning (ext4): destination with the same ident
+ifier (name{figure.6.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.15.png> <./plots/plot6.16.png> <./
+plots/plot6.17.png>] [106pdfTeX warning (ext4): destination with the same ident
+ifier (name{figure.6.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/plot6.18.png> <./plots/plot6.19.png>]
+[107pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/densitycase1.png> <./plots/scattercase1h
+m.png> <./plots/scattercase1wm.png> <./plots/distributioncase1hm.png> <./plots/
+distributioncase1wm.png>] [108pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.6.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/densitycase2.png> <./plots/scattercase2h
+m.png> <./plots/scattercase2wm.png> <./plots/distributioncase2hm.png> <./plots/
+distributioncase2wm.png>] [109pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.6.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/densitycase3.png> <./plots/scattercase3h
+m.png> <./plots/scattercase3wm.png> <./plots/distributioncase3hm.png> <./plots/
+distributioncase3wm.png>] [110pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.6.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.213 		\include{6.PPC/6.PPC}
+                              <./plots/densitycase4.png> <./plots/scattercase4h
+m.png> <./plots/scattercase4wm.png> <./plots/distributioncase4hm.png> <./plots/
+distributioncase4wm.png>] (dissertation.bbl [111
+
+
+
+
+
+
+] [112] [113] [114] [115]
+[116]) [117]
 \openout2 = `frontmatter/fig.aux'.
 
- (frontmatter/fig.tex
-(dissertation.lof [109
+ (frontmatter/fig.tex [118
 
 
 
-
-
-
-
-]
-
-Package natbib Warning: Citation `Buuren2011' on page 110 undefined on input li
-ne 48.
-
-[110])
+] (dissertation.lof [119] [120])
 \tf@lof=\write6
 \openout6 = `dissertation.lof'.
 
-) [111]
+)
+[121]
 \openout2 = `frontmatter/tab.aux'.
 
- (frontmatter/tab.tex [112
+ (frontmatter/tab.tex [122
 
 
 
 
 
-] (dissertation.lot [113] [114])
+] (dissertation.lot [123] [124])
 \tf@lot=\write7
 \openout7 = `dissertation.lot'.
 
-)
-[115]
+) [125]
 \openout2 = `7.summary/7.summary.aux'.
 
- (7.summary/7.summary.tex [116
+
+(7.summary/7.summary.tex [126
 
 
 
 
 
-] [117]) [118]
-
-Package natbib Warning: There were undefined citations.
-
-(dissertation.aux (frontmatter/pref.aux) (1.Introduction/1.Introduction.aux)
-(parts/part1.aux) (2.PC/2.PC.aux) (3.MPMM/3.MPMM.aux) (parts/part2.aux)
-(4.ICE/4.ICE.aux) (5.Compatibility/5.Compatibility.aux) (parts/part3.aux)
-(6.PPC/6.PPC.aux) (frontmatter/fig.aux) (frontmatter/tab.aux)
-(7.summary/7.summary.aux))
+] [127]) [128] (dissertation.aux
+(frontmatter/pref.aux) (1.Introduction/1.Introduction.aux) (parts/part1.aux)
+(2.PC/2.PC.aux) (3.MPMM/3.MPMM.aux) (parts/part2.aux) (4.ICE/4.ICE.aux)
+(5.Compatibility/5.Compatibility.aux) (parts/part3.aux) (6.PPC/6.PPC.aux)
+(frontmatter/fig.aux) (frontmatter/tab.aux) (7.summary/7.summary.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 87B485DFC98A10F68850F9B60A28B202;18118.
+(rerunfilecheck)             Checksum: 205240B3E61449303F7903F222714F3E;18220.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 82 ({)
+### simple group (level 1) entered at line 85 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16502 strings out of 478864
- 245147 string characters out of 2847238
- 844201 words of memory out of 3000000
- 33519 multiletter control sequences out of 15000+600000
+ 17043 strings out of 478864
+ 257485 string characters out of 2847238
+ 845591 words of memory out of 3000000
+ 33928 multiletter control sequences out of 15000+600000
  420317 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,66p,2452b,2127s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,17n,66p,2447b,2127s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mingyang\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\tctt0900.pk><C:/Users/mingyang/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/mingyang/AppData/Local/Programs
@@ -3340,9 +2395,9 @@ e1/public/amsfonts/cm/cmtt10.pfb><C:/Users/mingyang/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/mingyang/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/mingyang/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on dissertation.pdf (128 pages, 2174400 bytes).
+Output written on dissertation.pdf (138 pages, 2341340 bytes).
 PDF statistics:
- 1861 PDF objects out of 2073 (max. 8388607)
- 430 named destinations out of 1000 (max. 500000)
- 1085 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2646 PDF objects out of 2984 (max. 8388607)
+ 558 named destinations out of 1000 (max. 500000)
+ 1093 words of extra memory for PDF output out of 10000 (max. 10000000)
 

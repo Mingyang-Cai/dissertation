@@ -17,85 +17,86 @@
 \contentsline {subsection}{\numberline {2.2.1}Original polynomial combination}{15}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Modification of Polynomial combination}{16}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}SMC-FCS}{17}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Evaluation}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Evaluation}{18}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Simulation setup}{18}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Simulation results}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.2}Simulation results}{19}{subsection.2.3.2}%
 \contentsline {section}{\numberline {2.4}Conclusion}{20}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Simultaneous imputation of missing data by multivariate predictive mean matching}{25}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{25}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Multivariate Predictive Mean Matching}{27}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Canonical regression analysis (CRA)}{27}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Predictive mean matching (PMM)}{28}{subsection.3.2.2}%
-\contentsline {subsubsection}{Computational details}{28}{section*.3}%
-\contentsline {subsection}{\numberline {3.2.3}Multivariate predictive mean matching (MPMM)}{29}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Comparison between PMM and MPMM}{30}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Simulation conditions}{30}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Results}{31}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Evaluation}{32}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Linear regression with squared term}{32}{subsection.3.4.1}%
-\contentsline {subsubsection}{Simulation conditions}{32}{section*.4}%
-\contentsline {subsubsection}{Estimation methods}{32}{section*.5}%
-\contentsline {subsubsection}{Results}{33}{section*.6}%
-\contentsline {subsection}{\numberline {3.4.2}Linear regression with interaction term}{33}{subsection.3.4.2}%
-\contentsline {subsubsection}{Simulation conditions}{35}{section*.7}%
-\contentsline {subsubsection}{Estimation methods}{35}{section*.8}%
-\contentsline {subsubsection}{Results}{35}{section*.9}%
-\contentsline {subsection}{\numberline {3.4.3}Incomplete dataset with inequality restriction $\boldsymbol {X_1} + \boldsymbol {X_2} \geqq C$}{35}{subsection.3.4.3}%
-\contentsline {subsubsection}{Simulation conditions}{36}{section*.10}%
-\contentsline {subsubsection}{Estimation methods}{36}{section*.11}%
-\contentsline {subsubsection}{Results}{36}{section*.12}%
-\contentsline {section}{\numberline {3.5}Conclusion}{36}{section.3.5}%
-\contentsline {part}{Part\ II\hspace {\betweenumberspace }Parametric imputation methods}{43}{part.2}%
-\contentsline {chapter}{\numberline {4}Estimating individual treatment effects under a given specified partial correlation}{45}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}%
-\contentsline {section}{\numberline {4.2}The role of the partial correlation}{47}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Notation}{47}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Setup}{47}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Partial correlation between potential outcomes}{47}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Multiple imputation of multivariate incomplete variables}{49}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Joint modelling imputation (JM)}{49}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Fully Conditional Specification (FCS)}{50}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Block imputation}{50}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Specified partial correlation imputation}{51}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Simulation study}{54}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{55}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Results}{56}{subsection.4.5.2}%
-\contentsline {subsubsection}{Individual causal inference}{56}{section*.14}%
-\contentsline {subsubsection}{Average causal inference}{59}{section*.15}%
-\contentsline {section}{\numberline {4.6}Application}{59}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Discussion}{63}{section.4.7}%
-\contentsline {chapter}{\numberline {5}Joint distribution properties of Fully Conditional Specification under the normal linear model with normal inverse-gamma priors}{67}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{67}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Background}{69}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Joint modelling}{69}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Fully conditional specification}{69}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Compatibility}{70}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Non-informative margins}{71}{subsection.5.2.4}%
-\contentsline {section}{\numberline {5.3}Theoretical results}{71}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Simulation}{73}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Scalar inference for the mean of variable Y}{74}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Order effect evaluation}{74}{subsection.5.4.2}%
-\contentsline {section}{\numberline {5.5}Conclusion}{75}{section.5.5}%
-\contentsline {part}{Part\ III\hspace {\betweenumberspace }Diagnostics for imputation models}{77}{part.3}%
-\contentsline {chapter}{\numberline {6}Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking}{79}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Introduction}{79}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Posterior predictive checking (PPC)}{81}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Posterior predictive checking}{81}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Completed-data discrepancy}{82}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Expected completed-data discrepancy}{82}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}\texttt {MICE} package}{83}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Simulation Study}{85}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Quadratic equation with an incomplete outcome}{86}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Quadratic equation with incomplete covariates}{86}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Generalised linear model for discrete variables}{86}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}Simulation results}{87}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}Quadratic equation with an incomplete outcome}{87}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}Quadratic equation with incomplete covariates}{88}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6.5.3}Generalised linear model for discrete variables}{89}{subsection.6.5.3}%
-\contentsline {section}{\numberline {6.6}Application}{89}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}Background}{89}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}Results}{90}{subsection.6.6.2}%
-\contentsline {section}{\numberline {6.7}Discussion}{91}{section.6.7}%
-\contentsline {chapter}{List of Figures}{109}{figure.6.12}%
-\contentsline {chapter}{List of Tables}{112}{chapter*.16}%
-\contentsline {chapter}{Summary in Dutch / Samenvatting}{117}{chapter*.18}%
+\contentsline {chapter}{\numberline {3}Simultaneous imputation of missing data by multivariate predictive mean matching}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Multivariate Predictive Mean Matching}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Canonical regression analysis (CRA)}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Predictive mean matching (PMM)}{30}{subsection.3.2.2}%
+\contentsline {subsubsection}{Computational details}{30}{section*.3}%
+\contentsline {subsection}{\numberline {3.2.3}Multivariate predictive mean matching (MPMM)}{31}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Comparison between PMM and MPMM}{32}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Simulation conditions}{32}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Results}{33}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Evaluation}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Linear regression with squared term}{34}{subsection.3.4.1}%
+\contentsline {subsubsection}{Simulation conditions}{34}{section*.4}%
+\contentsline {subsubsection}{Estimation methods}{35}{section*.5}%
+\contentsline {subsubsection}{Results}{35}{section*.6}%
+\contentsline {subsection}{\numberline {3.4.2}Linear regression with interaction term}{36}{subsection.3.4.2}%
+\contentsline {subsubsection}{Simulation conditions}{36}{section*.7}%
+\contentsline {subsubsection}{Estimation methods}{36}{section*.8}%
+\contentsline {subsubsection}{Results}{37}{section*.9}%
+\contentsline {subsection}{\numberline {3.4.3}Incomplete dataset with inequality restriction $\boldsymbol {X_1} + \boldsymbol {X_2} \geqq C$}{37}{subsection.3.4.3}%
+\contentsline {subsubsection}{Simulation conditions}{37}{section*.10}%
+\contentsline {subsubsection}{Estimation methods}{38}{section*.11}%
+\contentsline {subsubsection}{Results}{38}{section*.12}%
+\contentsline {section}{\numberline {3.5}Conclusion}{38}{section.3.5}%
+\contentsline {part}{Part\ II\hspace {\betweenumberspace }Parametric imputation methods}{45}{part.2}%
+\contentsline {chapter}{\numberline {4}Estimating individual treatment effects under a given specified partial correlation}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{47}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The role of the partial correlation}{49}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Notation}{49}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Setup}{49}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Partial correlation between potential outcomes}{50}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Multiple imputation of multivariate incomplete variables}{51}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Joint modelling imputation (JM)}{51}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Fully Conditional Specification (FCS)}{52}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Block imputation}{52}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Specified partial correlation imputation}{53}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Simulation study}{56}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Simulation conditions}{57}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Results}{58}{subsection.4.5.2}%
+\contentsline {subsubsection}{Individual causal inference}{58}{section*.14}%
+\contentsline {subsubsection}{Average causal inference}{60}{section*.15}%
+\contentsline {section}{\numberline {4.6}Application}{61}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Discussion}{66}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Joint distribution properties of Fully Conditional Specification under the normal linear model with normal inverse-gamma priors}{69}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Background}{71}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Joint modelling}{71}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Fully conditional specification}{71}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Compatibility}{72}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Non-informative margins}{73}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Theoretical results}{73}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Simulation}{75}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Scalar inference for the mean of variable Y}{76}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Order effect evaluation}{76}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Conclusion}{78}{section.5.5}%
+\contentsline {part}{Part\ III\hspace {\betweenumberspace }Diagnostics for imputation models}{79}{part.3}%
+\contentsline {chapter}{\numberline {6}Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking}{81}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{81}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Posterior predictive checking (PPC)}{83}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Posterior predictive checking}{83}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Completed-data discrepancy}{84}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Expected completed-data discrepancy}{84}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}\texttt {MICE} package}{85}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Simulation Study}{87}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Quadratic equation with an incomplete outcome}{88}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Quadratic equation with incomplete covariates}{88}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Generalised linear model for discrete variables}{88}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Simulation results}{89}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Quadratic equation with an incomplete outcome}{89}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Quadratic equation with incomplete covariates}{90}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Generalised linear model for discrete variables}{91}{subsection.6.5.3}%
+\contentsline {section}{\numberline {6.6}Application}{92}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Background}{92}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Results}{93}{subsection.6.6.2}%
+\contentsline {section}{\numberline {6.7}Discussion}{93}{section.6.7}%
+\contentsline {chapter}{References}{111}{chapter*.16}%
+\contentsline {chapter}{List of Figures}{118}{chapter*.16}%
+\contentsline {chapter}{List of Tables}{122}{chapter*.17}%
+\contentsline {chapter}{Summary in Dutch / Samenvatting}{127}{chapter*.19}%

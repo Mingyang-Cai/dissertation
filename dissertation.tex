@@ -23,7 +23,7 @@
 %\newtheorem{definition}{Definition}
 %\newtheorem{theorem}{Theorem}
 %\newtheorem{example}{Example}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{amsmath}
 \usepackage{multirow}
 \usepackage{color}
@@ -34,10 +34,13 @@
 \usepackage{epsfig}
 \usepackage{makeidx}
 \usepackage{pdfpages}
-\usepackage{rotating}
+\usepackage[figuresright]{rotating}
 \usepackage{listings}
+\usepackage{float}
 \usepackage[left=2cm, right=2cm, top=2.7cm, bottom=2.7cm,]{geometry} 
 %\usepackage{apacite}
+
+\setlength\rotFPtop{0pt plus 1fil}
 
 \lstset{language=R,
 	basicstyle=\small\ttfamily,
